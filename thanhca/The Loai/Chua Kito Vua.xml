@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songs>
+	<song>
+		<albumid>306</albumid>
+		<songid>3608</songid>
+		<name>Lạy Chúa là vua</name>
+		<artist>Tam Ca Áo Trắng</artist>
+		<author>Lm. Duy Thiên</author>
+		<album>Ca Khúc Yêu Thương</album>
+		<type>Chúa Kitô Vua</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/CaKhucYeuThuong/11.LayChuaLaVua_dt_TamCaAoTrang.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/CaKhucYeuThuong/LayChuaLaVua_dt.pdf</pdf>
+	</song>
+	<song>
+		<albumid>377</albumid>
+		<songid>4631</songid>
+		<name>Lạy Chúa là Vua</name>
+		<artist>Tam Ca Áo Trắng</artist>
+		<author>Lm. Duy Thiên</author>
+		<album>Một Đời Tri Ân 3 (Tình Chúa Cao Vời)</album>
+		<type>Chúa Kitô Vua</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-256/MotDoiTriAn3-TinhChuaCaoVoi/10.LayChuaLaVua_dt_TamCaAoTrang.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-256/MotDoiTriAn3-TinhChuaCaoVoi/LayChuaLaVua_dt.pdf</pdf>
+	</song>
+	<song>
+		<albumid>947</albumid>
+		<songid>14176</songid>
+		<name>Vạn tuế Chúa là vua</name>
+		<artist>Ca Đoàn Thiên Thanh</artist>
+		<author>Hải Ánh</author>
+		<album>Bài hát của Nhạc sỹ: Hải Ánh</album>
+		<type>Chúa Kitô Vua</type>
+		<audio>http://thanhcavietnam.net/ThanhCaVN/index.php?url=Download,14176,RP89-CBAE54AF025F3A7E</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/TacGia/HaiAnh/VanTueChuaLaVua_ha.pdf</pdf>
+	</song>
+	<song>
+		<albumid>970</albumid>
+		<songid>11892</songid>
+		<name>Giêssu Vua muôn Vua</name>
+		<artist>Như Mai</artist>
+		<author>Lm. Huyền Linh</author>
+		<album>Như Mai Thánh Ca 8 - Một Đời Sám Hối</album>
+		<type>Chúa Kitô Vua</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/NMTC8-MotDoiSamHoi/10.GiesuVuaMuonVua_hl_NhuMai.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/NMTC8-MotDoiSamHoi/GiesuVuaMuonVua_hl.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1062</albumid>
+		<songid>12990</songid>
+		<name>Vạn Tuế Vua Trời</name>
+		<artist>Nhóm Vào Đời</artist>
+		<author>Lm. Trọng Nhân</author>
+		<album>Bài hát của Nhạc sỹ: Lm. Trọng Nhân</album>
+		<type>Chúa Kitô Vua</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/TacGia/Lm.TrongNhan/VanTueVuaTroi_trn_NhomVaoDoi.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/TacGia/Lm.TrongNhan/VanTueVuaTroi_trn.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1078</albumid>
+		<songid>13207</songid>
+		<name>Chúa là vua</name>
+		<artist>Ca Đoàn Sao Mai</artist>
+		<author>Hải Triều</author>
+		<album>Chúa Đến! Chúa Đến!</album>
+		<type>Chúa Kitô Vua</type>
+		<audio>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/ChuaDenChuaDen/05.ChuaLaVua_ht_CaDoanSaoMai.mp3</audio>
+		<pdf>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/ChuaDenChuaDen/ChuaLaVua_ht.pdf</pdf>
+	</song>
+</songs>

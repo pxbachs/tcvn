@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songs>
+	<song>
+		<albumid>397</albumid>
+		<songid>4895</songid>
+		<name>Hành trang người trẻ</name>
+		<artist>Duy Quang</artist>
+		<author>Lm. Hoàng Đức</author>
+		<album>Bước Người Đi Qua</album>
+		<type>Ca Nguyện</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/Albums/BuocNguoiDiQua/01.HanhTrangNguoiTre_hd_DuyQuang.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/Albums/BuocNguoiDiQua/HanhTrangNguoiTre_hd.pdf</pdf>
+	</song>
+	<song>
+		<albumid>397</albumid>
+		<songid>4896</songid>
+		<name>Tình yêu không thể chết</name>
+		<artist>Khánh Ly</artist>
+		<author>Xuân Điềm</author>
+		<album>Bước Người Đi Qua</album>
+		<type>Ca Nguyện</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/Albums/BuocNguoiDiQua/02.TinhYeuKhongTheChet_xd_KhanhLy.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>397</albumid>
+		<songid>4898</songid>
+		<name>Người mù vệ đường</name>
+		<artist>Như Mai</artist>
+		<author>Lm. Hoàng Đức</author>
+		<album>Bước Người Đi Qua</album>
+		<type>Ca Nguyện</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/Albums/BuocNguoiDiQua/04.NguoiMuVeDuong_hd_NhuMai.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>397</albumid>
+		<songid>4900</songid>
+		<name>Sao lâu</name>
+		<artist>Duy Quang</artist>
+		<author>Lm. Hoàng Đức</author>
+		<album>Bước Người Đi Qua</album>
+		<type>Ca Nguyện</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/Albums/BuocNguoiDiQua/06.SaoLau_hd_DuyQuang.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>397</albumid>
+		<songid>4901</songid>
+		<name>Đôi cánh bồ câu</name>
+		<artist>Thái Hiền</artist>
+		<author>Lm. Hoàng Đức</author>
+		<album>Bước Người Đi Qua</album>
+		<type>Ca Nguyện</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/Albums/BuocNguoiDiQua/07.DoiCanhBoCau_hd_ThaiHien.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>402</albumid>
+		<songid>4974</songid>
+		<name>Trong Thánh Thần tình yêu</name>
+		<artist>Tốp Ca Hội Dòng Mến Thánh Giá Thủ Thiêm</artist>
+		<author>Lm. Mai Thiện</author>
+		<album>Như Cỏ Cây</album>
+		<type>Ca Nguyện</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/Albums/NhuCoCay/04.TrongThanhThanTinhYeu_mth_TopCaHDMTGTT.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>402</albumid>
+		<songid>4976</songid>
+		<name>Xin Chúa dạy con</name>
+		<artist>Ngọc Hòa - Đan Viện Thánh Mẫu Khiết Tâm</artist>
+		<author>Lm. Mai Thiện</author>
+		<album>Như Cỏ Cây</album>
+		<type>Ca Nguyện</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/Albums/NhuCoCay/06.XinChuaDayCon_mth_NgocHoa.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>402</albumid>
+		<songid>4978</songid>
+		<name>Lời ngợi ca</name>
+		<artist>Tốp Ca Hội Dòng Con Đức Mẹ Đi Viếng Bình Triệu</artist>
+		<author>Lm. Mai Thiện</author>
+		<album>Như Cỏ Cây</album>
+		<type>Ca Nguyện</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/Albums/NhuCoCay/08.LoiNgoiCa_mth_TopCaDCDMDVBT.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>402</albumid>
+		<songid>4979</songid>
+		<name>Trong từng phút giây</name>
+		<artist>Thanh Xuân</artist>
+		<author>Lm. Mai Thiện</author>
+		<album>Như Cỏ Cây</album>
+		<type>Ca Nguyện</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/Albums/NhuCoCay/09.TrongTungPhutGiay_mth_ThanhXuan.mp3</audio>
+		<pdf></pdf>
+	</song>
+</songs>

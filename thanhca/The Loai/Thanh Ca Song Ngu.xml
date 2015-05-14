@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songs>
+	<song>
+		<albumid>695</albumid>
+		<songid>10400</songid>
+		<name>Fly Like A Brid</name>
+		<artist>OCP ấn hành</artist>
+		<author>Ken Canedo</author>
+		<album>Chứng Nhân Tình Yêu</album>
+		<type>Thánh Ca Song Ngữ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ChonNgai2/09.FlyLikeABrid_KenCanedo.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>857</albumid>
+		<songid>10386</songid>
+		<name>Con đường Chúa đã đi qua (The Way Of Love)</name>
+		<artist>OCP ấn hành</artist>
+		<author>Lm. Văn Chi</author>
+		<album>Chọn Ngài (Disc 1)</album>
+		<type>Thánh Ca Song Ngữ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ChonNgai1/11.ConDuongChuaDaDiQua(TheWayOfLove)_vc.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/ChonNgai1/ConDuongChuaDaDiQua_vc.pdf</pdf>
+	</song>
+	<song>
+		<albumid>857</albumid>
+		<songid>10387</songid>
+		<name>Hành trang người trẻ (Compassion Of Youth)</name>
+		<artist>OCP ấn hành</artist>
+		<author>Lm. Hoàng Đức</author>
+		<album>Chọn Ngài (Disc 1)</album>
+		<type>Thánh Ca Song Ngữ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ChonNgai1/12.HanhTrangNguoiTre(CompassionOfYouth)_hd.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/ChonNgai1/HanhTrangNguoiTre_hd.pdf</pdf>
+	</song>
+	<song>
+		<albumid>857</albumid>
+		<songid>10384</songid>
+		<name>Dấu ấn tình yêu (The Seal Of Love)</name>
+		<artist>OCP ấn hành</artist>
+		<author>Lm. Ân Đức</author>
+		<album>Chọn Ngài (Disc 1)</album>
+		<type>Thánh Ca Song Ngữ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ChonNgai1/09.DauAnTinhYeu(TheSealOfLove)_ad.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/ChonNgai1/DauAnTinhYeu_ad.pdf</pdf>
+	</song>
+	<song>
+		<albumid>857</albumid>
+		<songid>10385</songid>
+		<name>Lễ dâng (Holy Offering)</name>
+		<artist>OCP ấn hành</artist>
+		<author>Khuyết danh</author>
+		<album>Chọn Ngài (Disc 1)</album>
+		<type>Thánh Ca Song Ngữ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ChonNgai1/10.LeDang(HolyOffering).mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/ChonNgai1/LeDang.pdf</pdf>
+	</song>
+	<song>
+		<albumid>857</albumid>
+		<songid>10379</songid>
+		<name>Jesus Christ, You Are My Life</name>
+		<artist>OCP ấn hành</artist>
+		<author>Marco Frisina</author>
+		<album>Chọn Ngài (Disc 1)</album>
+		<type>Thánh Ca Song Ngữ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ChonNgai1/04.JesusChrist,YouAreMyLife_MarcoFrisina.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>857</albumid>
+		<songid>10376</songid>
+		<name>Blees TheLord</name>
+		<artist>OCP ấn hành</artist>
+		<author>Canedo - Cavallero - Brennan - Roth</author>
+		<album>Chọn Ngài (Disc 1)</album>
+		<type>Thánh Ca Song Ngữ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ChonNgai1/01.BleesTheLord_Canedo-Cavallero-Brennan-Roth.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>857</albumid>
+		<songid>10378</songid>
+		<name>I Will Choose Christ</name>
+		<artist>OCP ấn hành</artist>
+		<author>Toom Booth</author>
+		<album>Chọn Ngài (Disc 1)</album>
+		<type>Thánh Ca Song Ngữ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ChonNgai1/03.IWillChooseChrist_ToomBooth.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>857</albumid>
+		<songid>10382</songid>
+		<name>One Bread, One Cup</name>
+		<artist>OCP ấn hành</artist>
+		<author>Fisher - Lee - Aven - Canedo</author>
+		<album>Chọn Ngài (Disc 1)</album>
+		<type>Thánh Ca Song Ngữ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ChonNgai1/07.OneBread,OneCup_Fisher-Lee-Aven-Canedo.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>857</albumid>
+		<songid>10383</songid>
+		<name>Your Grace Is Enough</name>
+		<artist>OCP ấn hành</artist>
+		<author>Matt Maher</author>
+		<album>Chọn Ngài (Disc 1)</album>
+		<type>Thánh Ca Song Ngữ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ChonNgai1/08.YourGraceIsEnough_MattMaher.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>857</albumid>
+		<songid>10377</songid>
+		<name>Only This I Want</name>
+		<artist>OCP ấn hành</artist>
+		<author>Dan Schutte</author>
+		<album>Chọn Ngài (Disc 1)</album>
+		<type>Thánh Ca Song Ngữ</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/ChonNgai1/02.OnlyThisIWant_DanSchutte.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>857</albumid>
+		<songid>10381</songid>
+		<name>Our God Is Good</name>
+		<artist>OCP ấn hành</artist>
+		<author>Blakeslev - Ray</author>
+		<album>Chọn Ngài (Disc 1)</album>
+		<type>Thánh Ca Song Ngữ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ChonNgai1/06.OurGodIsGood_Blakeslev-Ray.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>857</albumid>
+		<songid>10380</songid>
+		<name>In This Place</name>
+		<artist>OCP ấn hành</artist>
+		<author>Trevor Thomson</author>
+		<album>Chọn Ngài (Disc 1)</album>
+		<type>Thánh Ca Song Ngữ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ChonNgai1/05.InThisPlace_TrevorThomson.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>858</albumid>
+		<songid>10397</songid>
+		<name>Tình Chúa cao vời (Boundless Love)</name>
+		<artist>OCP ấn hành</artist>
+		<author>Lm. Duy Thiên</author>
+		<album>Chọn Ngài (Disc 2)</album>
+		<type>Thánh Ca Song Ngữ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ChonNgai2/06.TinhChuaCaoVoi(BoundlessLove)_dt.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/ChonNgai2/TinhChuaCaoVoi_dt.pdf</pdf>
+	</song>
+	<song>
+		<albumid>858</albumid>
+		<songid>10396</songid>
+		<name>Cầu cho Cha Mẹ 2 (Prayer For Parents 2)</name>
+		<artist>OCP ấn hành</artist>
+		<author>Phanxicô</author>
+		<album>Chọn Ngài (Disc 2)</album>
+		<type>Thánh Ca Song Ngữ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ChonNgai2/05.CauChoChaMe2(PrayerForParents2)_pxc.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/ChonNgai2/CauChoChaMe2_pxc.pdf</pdf>
+	</song>
+	<song>
+		<albumid>858</albumid>
+		<songid>10398</songid>
+		<name>Mẹ đẹp tươi (Mẹ Maria - As Lovely As The Dawn)</name>
+		<artist>OCP ấn hành</artist>
+		<author>Lm. Kim Long</author>
+		<album>Chọn Ngài (Disc 2)</album>
+		<type>Thánh Ca Song Ngữ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ChonNgai2/07.MeDepTuoi(MeMaria-AsLovelyAsTheDawn)_kl.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/ChonNgai2/MeDepTuoi_kl.pdf</pdf>
+	</song>
+	<song>
+		<albumid>858</albumid>
+		<songid>10399</songid>
+		<name>Vào đời (Enter The Fullness Of Life)</name>
+		<artist>OCP ấn hành</artist>
+		<author>Lm. Nguyễn Văn Trinh</author>
+		<album>Chọn Ngài (Disc 2)</album>
+		<type>Thánh Ca Song Ngữ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ChonNgai2/08.VaoDoi(EnterTheFullnessOfLife)_nvtr.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/ChonNgai2/VaoDoi_nvtr.pdf</pdf>
+	</song>
+	<song>
+		<albumid>858</albumid>
+		<songid>10407</songid>
+		<name>Just Like You</name>
+		<artist>OCP ấn hành</artist>
+		<author>Matt Maher</author>
+		<album>Chọn Ngài (Disc 2)</album>
+		<type>Thánh Ca Song Ngữ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ChonNgai2/16.JustLikeYou_MattMaher.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>858</albumid>
+		<songid>10402</songid>
+		<name>Open My Eyes</name>
+		<artist>OCP ấn hành</artist>
+		<author>Jesse Manibusan</author>
+		<album>Chọn Ngài (Disc 2)</album>
+		<type>Thánh Ca Song Ngữ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ChonNgai2/11.OpenMyEyes_JesseManibusan.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>858</albumid>
+		<songid>10406</songid>
+		<name>God Of Wonders</name>
+		<artist>OCP ấn hành</artist>
+		<author>Hindalong - Byrd</author>
+		<album>Chọn Ngài (Disc 2)</album>
+		<type>Thánh Ca Song Ngữ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ChonNgai2/15.GodOfWonders_Hindalong-Byrd.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>858</albumid>
+		<songid>10403</songid>
+		<name>How Beutiful</name>
+		<artist>OCP ấn hành</artist>
+		<author>Twila Paris</author>
+		<album>Chọn Ngài (Disc 2)</album>
+		<type>Thánh Ca Song Ngữ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ChonNgai2/12.HowBeutiful_TwilaParis.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>858</albumid>
+		<songid>10405</songid>
+		<name>Com, Now Is The Time To Worship</name>
+		<artist>OCP ấn hành</artist>
+		<author>Brian Doerksen</author>
+		<album>Chọn Ngài (Disc 2)</album>
+		<type>Thánh Ca Song Ngữ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ChonNgai2/14.Com,NowIsTheTimeToWorship_BrianDoerksen.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>858</albumid>
+		<songid>10404</songid>
+		<name>Go Make A Differrence</name>
+		<artist>OCP ấn hành</artist>
+		<author>Angrisano - Tomaszek</author>
+		<album>Chọn Ngài (Disc 2)</album>
+		<type>Thánh Ca Song Ngữ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ChonNgai2/13.GoMakeADifferrence_Angrisano-Tomaszek.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>858</albumid>
+		<songid>10401</songid>
+		<name>Sacred Creation</name>
+		<artist>OCP ấn hành</artist>
+		<author>Rufino Zaragoza</author>
+		<album>Chọn Ngài (Disc 2)</album>
+		<type>Thánh Ca Song Ngữ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ChonNgai2/10.SacredCreation_RufinoZaragoza,OFM.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>890</albumid>
+		<songid>10849</songid>
+		<name>Điểm hẹn Thầy</name>
+		<artist>Luandon Nguyen</artist>
+		<author>Ý Vũ</author>
+		<album>Điểm Hẹn Thầy</album>
+		<type>Thánh Ca Song Ngữ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/DiemHenThay/09.DiemHenThay_yv_LuandonNguyen.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/DiemHenThay/DiemHenThay_yv.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1047</albumid>
+		<songid>12798</songid>
+		<name>Here I Am</name>
+		<artist>OCP ấn hành</artist>
+		<author>Chưa biết</author>
+		<album>Chọn Ngài (Disc 3)</album>
+		<type>Thánh Ca Song Ngữ</type>
+		<audio>http://thanhcavietnam.net/ThanhCaVN/index.php?url=Download,12798,RP89-107915FE932CC1DF</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>1047</albumid>
+		<songid>12799</songid>
+		<name>In The Day Of The Lord</name>
+		<artist>OCP ấn hành</artist>
+		<author>Chưa biết</author>
+		<album>Chọn Ngài (Disc 3)</album>
+		<type>Thánh Ca Song Ngữ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ChonNgai3/16.InTheDayOfTheLord.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>1047</albumid>
+		<songid>12795</songid>
+		<name>Để con nên hình bóng Người</name>
+		<artist>OCP ấn hành</artist>
+		<author>Lê Đức Hùng</author>
+		<album>Chọn Ngài (Disc 3)</album>
+		<type>Thánh Ca Song Ngữ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ChonNgai3/12.DeConNenHinhBongNguoi_ldh.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/ChonNgai3/DeConNenHinhBongNguoi_ldh.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1047</albumid>
+		<songid>12792</songid>
+		<name>Thần Khí Chúa sai đi</name>
+		<artist>OCP ấn hành</artist>
+		<author>Chưa biết</author>
+		<album>Chọn Ngài (Disc 3)</album>
+		<type>Thánh Ca Song Ngữ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ChonNgai3/09.ThanKhiChuaSaiDi.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>1047</albumid>
+		<songid>12793</songid>
+		<name>Trong trái tim Chúa</name>
+		<artist>OCP ấn hành</artist>
+		<author>Phanxicô</author>
+		<album>Chọn Ngài (Disc 3)</album>
+		<type>Thánh Ca Song Ngữ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ChonNgai3/10.TrongTraiTimChua_pxc.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/ChonNgai3/TrongTraiTimChuaYeu_pxc.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1047</albumid>
+		<songid>12784</songid>
+		<name>Hãy thắp sáng lên</name>
+		<artist>OCP ấn hành</artist>
+		<author>Phan Ngọc Hiến</author>
+		<album>Chọn Ngài (Disc 3)</album>
+		<type>Thánh Ca Song Ngữ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ChonNgai3/01.HayThapSangLen_pnh.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/ChonNgai3/HayThapSangLen_pnh.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1047</albumid>
+		<songid>12794</songid>
+		<name>Dâng Mẹ</name>
+		<artist>OCP ấn hành</artist>
+		<author>Lm. Hoài Đức</author>
+		<album>Chọn Ngài (Disc 3)</album>
+		<type>Thánh Ca Song Ngữ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ChonNgai3/11.DangMe_hd.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/ChonNgai3/DangMe_hd.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1047</albumid>
+		<songid>12797</songid>
+		<name>The Cross Of Love</name>
+		<artist>OCP ấn hành</artist>
+		<author>Chưa biết</author>
+		<album>Chọn Ngài (Disc 3)</album>
+		<type>Thánh Ca Song Ngữ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ChonNgai3/14.TheCrossOfLove.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>1047</albumid>
+		<songid>12786</songid>
+		<name>Dâng Chúa Trời</name>
+		<artist>OCP ấn hành</artist>
+		<author>Phanxicô</author>
+		<album>Chọn Ngài (Disc 3)</album>
+		<type>Thánh Ca Song Ngữ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ChonNgai3/03.DangChuaTroi_pxc.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/ChonNgai3/DangChuaTroi_pxc.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1047</albumid>
+		<songid>12787</songid>
+		<name>Cung chúc Trinh Vương</name>
+		<artist>OCP ấn hành</artist>
+		<author>Lm. Hoài Đức</author>
+		<album>Chọn Ngài (Disc 3)</album>
+		<type>Thánh Ca Song Ngữ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ChonNgai3/04.CungChucTrinhVuong_hd.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/ChonNgai3/CungChucTrinhVuong_hd.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1047</albumid>
+		<songid>12788</songid>
+		<name>Blessed Be Your Name</name>
+		<artist>OCP ấn hành</artist>
+		<author>Chưa biết</author>
+		<album>Chọn Ngài (Disc 3)</album>
+		<type>Thánh Ca Song Ngữ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ChonNgai3/05.BlessedBeYourName.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>1047</albumid>
+		<songid>12791</songid>
+		<name>Sweet Redeemer</name>
+		<artist>OCP ấn hành</artist>
+		<author>Chưa biết</author>
+		<album>Chọn Ngài (Disc 3)</album>
+		<type>Thánh Ca Song Ngữ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ChonNgai3/08.SweetRedeemer.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>1047</albumid>
+		<songid>12796</songid>
+		<name>Cristo Saname</name>
+		<artist>OCP ấn hành</artist>
+		<author>Chưa biết</author>
+		<album>Chọn Ngài (Disc 3)</album>
+		<type>Thánh Ca Song Ngữ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ChonNgai3/13.CristoSaname.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>1047</albumid>
+		<songid>12790</songid>
+		<name>Forty Days</name>
+		<artist>OCP ấn hành</artist>
+		<author>Chưa biết</author>
+		<album>Chọn Ngài (Disc 3)</album>
+		<type>Thánh Ca Song Ngữ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ChonNgai3/07.FortyDays.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>1047</albumid>
+		<songid>12789</songid>
+		<name>Breathe</name>
+		<artist>OCP ấn hành</artist>
+		<author>Chưa biết</author>
+		<album>Chọn Ngài (Disc 3)</album>
+		<type>Thánh Ca Song Ngữ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ChonNgai3/06.Breathe.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>1110</albumid>
+		<songid>13647</songid>
+		<name>Chúa nâng đỡ con (You Raise Me Up)</name>
+		<artist>Hoàng Quân</artist>
+		<author>Nhạc Nước Ngoài - Lời Việt: David Dong</author>
+		<album>Chúa Của Dân Tộc Con</album>
+		<type>Thánh Ca Song Ngữ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ChuaCuaDanTocCon/04.ChuaNangDoCon_LVdd_HoangQuan.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/ChuaCuaDanTocCon/ChuaNangDoCon_LVdd.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1110</albumid>
+		<songid>13651</songid>
+		<name>Quyền năng cứu rỗi (Mighty To Save)</name>
+		<artist>Hoàng Quân</artist>
+		<author>Nhạc Nước Ngoài - Lời Việt: David Dong</author>
+		<album>Chúa Của Dân Tộc Con</album>
+		<type>Thánh Ca Song Ngữ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ChuaCuaDanTocCon/08.QuyenNangCuuRoi_LVdd_HoangQuan.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/ChuaCuaDanTocCon/QuyenNangCuuRoi_LVdd.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1110</albumid>
+		<songid>13646</songid>
+		<name>Lời nguyện cầu (The Prayer)</name>
+		<artist>Diệu Hiền - Hoàng Quân</artist>
+		<author>Nhạc Nước Ngoài - Lời Việt: David Dong</author>
+		<album>Chúa Của Dân Tộc Con</album>
+		<type>Thánh Ca Song Ngữ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ChuaCuaDanTocCon/03.LoiNguyenCau_LVdd_DieuHien-HoangQuan.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/ChuaCuaDanTocCon/LoiNguyenCau_LVdd.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1110</albumid>
+		<songid>13649</songid>
+		<name>Vì sao Chúa đến? (Mary. Did You Know?)</name>
+		<artist>Hoàng Quân</artist>
+		<author>Nhạc Nước Ngoài - Lời Việt: David Dong</author>
+		<album>Chúa Của Dân Tộc Con</album>
+		<type>Thánh Ca Song Ngữ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ChuaCuaDanTocCon/06.ViSaoChuaDen_LVdd_HoangQuan.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/ChuaCuaDanTocCon/ViSaoChuaDen_LVdd.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1110</albumid>
+		<songid>13650</songid>
+		<name>Vững an (Still)</name>
+		<artist>Hoàng Quân - Janet M. Yapyapan</artist>
+		<author>Nhạc Nước Ngoài - Lời Việt: David Dong</author>
+		<album>Chúa Của Dân Tộc Con</album>
+		<type>Thánh Ca Song Ngữ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ChuaCuaDanTocCon/07.VungAn_LVdd_HoangQuan-JanetMYapyapan.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/ChuaCuaDanTocCon/VungAn_LVdd.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1110</albumid>
+		<songid>13645</songid>
+		<name>Tình yêu thương Chúa (Father. Amazing Love)</name>
+		<artist>Hoàng Quân</artist>
+		<author>Nhạc Nước Ngoài - Lời Việt: David Dong</author>
+		<album>Chúa Của Dân Tộc Con</album>
+		<type>Thánh Ca Song Ngữ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ChuaCuaDanTocCon/02.TinhYeuThuongChua_LVdd_HoangQuan.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/ChuaCuaDanTocCon/TinhYeuThuongChua_LVdd.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1110</albumid>
+		<songid>13644</songid>
+		<name>Chúa của dân tộc con (God Of This City)</name>
+		<artist>Hoàng Quân</artist>
+		<author>Nhạc Nước Ngoài - Lời Việt: David Dong</author>
+		<album>Chúa Của Dân Tộc Con</album>
+		<type>Thánh Ca Song Ngữ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ChuaCuaDanTocCon/01.ChuaCuaDanTocCon_LVdd_HoangQuan.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/ChuaCuaDanTocCon/ChuaCuaDanTocCon_LVdd.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1110</albumid>
+		<songid>13648</songid>
+		<name>Ngợi khen chúc tôn - Forever (Sing Praise)</name>
+		<artist>Hoàng Quân</artist>
+		<author>Nhạc Nước Ngoài - Lời Việt: David Dong</author>
+		<album>Chúa Của Dân Tộc Con</album>
+		<type>Thánh Ca Song Ngữ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ChuaCuaDanTocCon/05.NgoiKhenChucTon_LVdd_HoangQuan.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/ChuaCuaDanTocCon/NgoiKhenChucTon_LVdd.pdf</pdf>
+	</song>
+</songs>

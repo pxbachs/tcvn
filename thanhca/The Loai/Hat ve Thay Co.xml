@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songs>
+	<song>
+		<albumid>328</albumid>
+		<songid>3924</songid>
+		<name>Tình Thầy trò</name>
+		<artist>Tấn Đạt - Nhóm bè Hoa Giấy phụ họa</artist>
+		<author>Thế Thông</author>
+		<album>Bài hát của Nhạc sỹ: Thế Thông</album>
+		<type>Hát về Thầy Cô</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/Albums/BaiHatCuaNSTheThong/TinhThayTro_tth(TanDat-NhomBeHoaGiay).mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/Albums/BaiHatCuaNSTheThong/TinhThayTro_tth.pdf</pdf>
+	</song>
+	<song>
+		<albumid>811</albumid>
+		<songid>9733</songid>
+		<name>Tình Thầy trò</name>
+		<artist>Ns. Thế Thông</artist>
+		<author>Thế Thông - Khương Huệ</author>
+		<album>Chút Tình Quê</album>
+		<type>Hát về Thầy Cô</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/GD-QH-LH/ChutTinhQue/05.TinhThayTro_tt-kh_TheThong.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/GD-QH-LH/ChutTinhQue/TinhThayTro_tt.pdf</pdf>
+	</song>
+	<song>
+		<albumid>811</albumid>
+		<songid>9731</songid>
+		<name>Chiều đông nhớ Thầy</name>
+		<artist>Cathy Hậu</artist>
+		<author>Lm. Sơn Ca Linh</author>
+		<album>Chút Tình Quê</album>
+		<type>Hát về Thầy Cô</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/GD-QH-LH/ChutTinhQue/03.ChieuDongNhoThay_scl_CathyHau.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/GD-QH-LH/ChutTinhQue/ChieuDongNhoThay_scl.pdf</pdf>
+	</song>
+	<song>
+		<albumid>984</albumid>
+		<songid>12584</songid>
+		<name>Thầy Cô cho em</name>
+		<artist>Thanh Bình</artist>
+		<author>Nhật Minh</author>
+		<album>Bài hát của Nhạc sỹ: Nhật Minh</album>
+		<type>Hát về Thầy Cô</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/TacGia/NhatMinh/ThayCoChoEm_nm_ThanhBinh.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/TacGia/NhatMinh/ThayCoChoEm_nm.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1157</albumid>
+		<songid>14280</songid>
+		<name>Người Thầy của tôi</name>
+		<artist>Doãn Minh</artist>
+		<author>Lm. Trọng Khẩn</author>
+		<album>Bài hát của Nhạc sỹ: Lm. Trọng Khẩn</album>
+		<type>Hát về Thầy Cô</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/TacGia/Lm.TrongKhan/NguoiThayCuaToi_tk_DzoanMinh.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/TacGia/Lm.TrongKhan/NguoiThayCuaToi_tk.pdf</pdf>
+	</song>
+</songs>

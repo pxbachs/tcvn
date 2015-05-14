@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songs>
+	<song>
+		<albumid>238</albumid>
+		<songid>2720</songid>
+		<name>Vui lên Sion</name>
+		<artist>Thy Thảo - Thanh Ngân - Duy Vũ - Hoàng Hạnh</artist>
+		<author>Lm. Thành Tâm</author>
+		<album>Chúa Ra Đời</album>
+		<type>Mùa Vọng</type>
+		<audio>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/ChuaRaDoi/08.VuiLenSion_tt_ThyThao-ThanhNgan-DuyVu-HoangHanh.mp3</audio>
+		<pdf>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/ChuaRaDoi/VuiLenSion_tt.pdf</pdf>
+	</song>
+	<song>
+		<albumid>328</albumid>
+		<songid>3903</songid>
+		<name>Hạt mưa Thánh Ân</name>
+		<artist>Thế Sơn</artist>
+		<author>Thế Thông</author>
+		<album>Bài hát của Nhạc sỹ: Thế Thông</album>
+		<type>Mùa Vọng</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/Albums/BaiHatCuaNSTheThong/05.HatMuaThanhAn_tth_TheSon.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/Albums/BaiHatCuaNSTheThong/HatMuaThanhAn_tth.pdf</pdf>
+	</song>
+	<song>
+		<albumid>512</albumid>
+		<songid>6384</songid>
+		<name>Khúc ca cảm tạ</name>
+		<artist>Ca Đoàn Đức Mẹ Hằng Cứu Giúp</artist>
+		<author>Chưa biết</author>
+		<album>Hãy Đến Cùng Giuse 2</album>
+		<type>Mùa Vọng</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/HayDenCungGiuse2/11.KhucCaCamTa_CDDMHCG.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>525</albumid>
+		<songid>6567</songid>
+		<name>Hãy chỗi dậy</name>
+		<artist>Ca Đoàn Đức Mẹ Hằng Cứu Giúp</artist>
+		<author>Lm. Kim Long</author>
+		<album>Thánh Nhạc Vol.9</album>
+		<type>Mùa Vọng</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/ThanhNhacVol9-CaDoanDMHCG/07.HayChoiDay_kl_CDDMHCG.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/ThanhNhacVol9-CaDoanDMHCG/HayChoiDay_kl.pdf</pdf>
+	</song>
+	<song>
+		<albumid>584</albumid>
+		<songid>7235</songid>
+		<name>Xin như mặt trời lên</name>
+		<artist>Tuyết Hạnh - Quang Minh</artist>
+		<author>Đỗ Vy Hạ</author>
+		<album>Lời Kinh Nguyện Trầm</album>
+		<type>Mùa Vọng</type>
+		<audio>http://thanhcavietnam.net/ThanhCaVN/index.php?url=Download,7235,RP89-B19F5F86FF4EE56E</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/LoiKinhNguyenTram/XinNhuMatTroiLen_dvh.pdf</pdf>
+	</song>
+	<song>
+		<albumid>637</albumid>
+		<songid>7803</songid>
+		<name>Hạt mưa Thánh Ân</name>
+		<artist>Thế Sơn</artist>
+		<author>Thế Thông</author>
+		<album>Hòa Khúc Tạ Ơn</album>
+		<type>Mùa Vọng</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/HoaKhucTaOn/13.HatMuaThanhAn_tth_TheSon.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/HoaKhucTaOn/HatMuaThanhAn_tth.pdf</pdf>
+	</song>
+	<song>
+		<albumid>648</albumid>
+		<songid>7931</songid>
+		<name>Trời cao</name>
+		<artist>Anh Nguyên</artist>
+		<author>Duy Tân</author>
+		<album>Thánh Ca Mùa Vọng</album>
+		<type>Mùa Vọng</type>
+		<audio>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/ThanhCaMuaVong/TroiCao_dt_AnhNguyen.mp3</audio>
+		<pdf>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/ThanhCaMuaVong/TroiCao_dt.pdf</pdf>
+	</song>
+	<song>
+		<albumid>648</albumid>
+		<songid>7919</songid>
+		<name>Để Chúa đến</name>
+		<artist>Thu Trang - Ngọc Dũng</artist>
+		<author>Lm. Nguyễn Duy</author>
+		<album>Thánh Ca Mùa Vọng</album>
+		<type>Mùa Vọng</type>
+		<audio>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/ThanhCaMuaVong/DeChuaDen_nd_ThuTrang-NgocDung.mp3</audio>
+		<pdf>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/ThanhCaMuaVong/DeChuaDen_nd.pdf</pdf>
+	</song>
+	<song>
+		<albumid>648</albumid>
+		<songid>7933</songid>
+		<name>Trông đợi</name>
+		<artist>Thu Trang - Ngọc Dũng</artist>
+		<author>Didier Rimaud - J. Bình</author>
+		<album>Thánh Ca Mùa Vọng</album>
+		<type>Mùa Vọng</type>
+		<audio>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/ThanhCaMuaVong/TrongDoi_dr-jb_ThuTrang-NgocDung.mp3</audio>
+		<pdf>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/ThanhCaMuaVong/TrongDoi_dr-jb.pdf</pdf>
+	</song>
+	<song>
+		<albumid>648</albumid>
+		<songid>7932</songid>
+		<name>Trông chờ Chúa đến</name>
+		<artist>Thanh Nguyên - Anh Nguyên</artist>
+		<author>Lan Thanh</author>
+		<album>Thánh Ca Mùa Vọng</album>
+		<type>Mùa Vọng</type>
+		<audio>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/ThanhCaMuaVong/TrongChoChuaDen_lt_ThanhNguyen-AnhNguyen.mp3</audio>
+		<pdf>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/ThanhCaMuaVong/TrongChoChuaDen_lt.pdf</pdf>
+	</song>
+	<song>
+		<albumid>648</albumid>
+		<songid>7924</songid>
+		<name>Mây ơi mưa xuống</name>
+		<artist>Ngọc Dũng</artist>
+		<author>Lm. Nguyễn Duy</author>
+		<album>Thánh Ca Mùa Vọng</album>
+		<type>Mùa Vọng</type>
+		<audio>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/ThanhCaMuaVong/MayOiMuaXuong_nd_NgocDung.mp3</audio>
+		<pdf>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/ThanhCaMuaVong/MayOiMuaXuong_nd.pdf</pdf>
+	</song>
+	<song>
+		<albumid>648</albumid>
+		<songid>7935</songid>
+		<name>Vì Chúa sẽ đến</name>
+		<artist>Thu Trang - Ngọc Dũng - Quốc Triều</artist>
+		<author>Lm. Phương Anh</author>
+		<album>Thánh Ca Mùa Vọng</album>
+		<type>Mùa Vọng</type>
+		<audio>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/ThanhCaMuaVong/ViChuaSeDen_pa_ThuTrang-NgocDung-QuocTrieu.mp3</audio>
+		<pdf>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/ThanhCaMuaVong/ViChuaSeDen_Lm.PhuongAnh.pdf</pdf>
+	</song>
+	<song>
+		<albumid>648</albumid>
+		<songid>7930</songid>
+		<name>Nguyện Trời Cao</name>
+		<artist>Thu Trang - Quốc Triều</artist>
+		<author>Trọng Linh - Hoàng Khánh</author>
+		<album>Thánh Ca Mùa Vọng</album>
+		<type>Mùa Vọng</type>
+		<audio>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/ThanhCaMuaVong/NguyenTroiCao_tl-hk_ThuTrang-QuocTrieu.mp3</audio>
+		<pdf>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/ThanhCaMuaVong/NguyenTroiCao_tl-hk.pdf</pdf>
+	</song>
+	<song>
+		<albumid>648</albumid>
+		<songid>7934</songid>
+		<name>Trong rừng sâu</name>
+		<artist>Anh Nguyên</artist>
+		<author>Lm. Mi Trầm</author>
+		<album>Thánh Ca Mùa Vọng</album>
+		<type>Mùa Vọng</type>
+		<audio>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/ThanhCaMuaVong/TrongRungSau_mt_AnhNguyen.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>648</albumid>
+		<songid>7937</songid>
+		<name>Xion vui lên</name>
+		<artist>Anh Nguyên</artist>
+		<author>Lm. Phạm Liên Hùng</author>
+		<album>Thánh Ca Mùa Vọng</album>
+		<type>Mùa Vọng</type>
+		<audio>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/ThanhCaMuaVong/XionVuiLen_plh_AnhNguyen.mp3</audio>
+		<pdf>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/ThanhCaMuaVong/XionVuiLen_Lm.PhamLienHung.pdf</pdf>
+	</song>
+	<song>
+		<albumid>648</albumid>
+		<songid>7929</songid>
+		<name>Nguyện Mùa Vọng</name>
+		<artist>Thu Trang - Ngọc Dũng</artist>
+		<author>Hoàng Vũ</author>
+		<album>Thánh Ca Mùa Vọng</album>
+		<type>Mùa Vọng</type>
+		<audio>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/ThanhCaMuaVong/NguyenMuaVong_hv_ThuTrang-NgocDung.mp3</audio>
+		<pdf>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/ThanhCaMuaVong/NguyenMuaVong_hv.pdf</pdf>
+	</song>
+	<song>
+		<albumid>648</albumid>
+		<songid>7936</songid>
+		<name>Vui lên</name>
+		<artist>Thanh Nguyên</artist>
+		<author>Lm. Mi Trầm</author>
+		<album>Thánh Ca Mùa Vọng</album>
+		<type>Mùa Vọng</type>
+		<audio>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/ThanhCaMuaVong/VuiLen_mt_ThanhNguyen.mp3</audio>
+		<pdf>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/ThanhCaMuaVong/VuiLen_mt.pdf</pdf>
+	</song>
+	<song>
+		<albumid>648</albumid>
+		<songid>7921</songid>
+		<name>Hãy dọn đường</name>
+		<artist>Thu Trang - Ngọc Dũng</artist>
+		<author>Lm. Mi Trầm</author>
+		<album>Thánh Ca Mùa Vọng</album>
+		<type>Mùa Vọng</type>
+		<audio>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/ThanhCaMuaVong/HayDonDuong_mt_ThuTrang-NgocDung.mp3</audio>
+		<pdf>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/ThanhCaMuaVong/HayDonDuong_mt.pdf</pdf>
+	</song>
+	<song>
+		<albumid>648</albumid>
+		<songid>7925</songid>
+		<name>Mừng vui lên</name>
+		<artist>Thu Trang - Ngọc Dũng</artist>
+		<author>Lm. Mi Trầm</author>
+		<album>Thánh Ca Mùa Vọng</album>
+		<type>Mùa Vọng</type>
+		<audio>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/ThanhCaMuaVong/MungVuiLen_mt_ThuTrang-NgocDung.mp3</audio>
+		<pdf>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/ThanhCaMuaVong/MungVuiLen_Lm.MiTram.pdf</pdf>
+	</song>
+	<song>
+		<albumid>648</albumid>
+		<songid>7928</songid>
+		<name>Người sẽ đến</name>
+		<artist>Anh Nguyên</artist>
+		<author>Vinam</author>
+		<album>Thánh Ca Mùa Vọng</album>
+		<type>Mùa Vọng</type>
+		<audio>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/ThanhCaMuaVong/NguoiSeDen_v_AnhNguyen.mp3</audio>
+		<pdf>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/ThanhCaMuaVong/NguoiSeDen_v.pdf</pdf>
+	</song>
+	<song>
+		<albumid>648</albumid>
+		<songid>7922</songid>
+		<name>Hãy sẵn sàng</name>
+		<artist>Ngọc Dũng</artist>
+		<author>Nguyễn Khắc Xuyên</author>
+		<album>Thánh Ca Mùa Vọng</album>
+		<type>Mùa Vọng</type>
+		<audio>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/ThanhCaMuaVong/HaySanSang_nkx_NgocDung.mp3</audio>
+		<pdf>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/ThanhCaMuaVong/HaySanSang_nkx.pdf</pdf>
+	</song>
+	<song>
+		<albumid>648</albumid>
+		<songid>7927</songid>
+		<name>Này dân Xion</name>
+		<artist>Thu Trang - Ngọc Dũng</artist>
+		<author>Nguyễn Khắc Xuyên</author>
+		<album>Thánh Ca Mùa Vọng</album>
+		<type>Mùa Vọng</type>
+		<audio>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/ThanhCaMuaVong/NayDanSion_nkx_ThuTrang-NgocDung.mp3</audio>
+		<pdf>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/ThanhCaMuaVong/NayDanSion_nkx.pdf</pdf>
+	</song>
+	<song>
+		<albumid>648</albumid>
+		<songid>7926</songid>
+		<name>Nào cùng vui lên</name>
+		<artist>Thu Trang - Ngọc Dũng</artist>
+		<author>Lm. Mi Trầm</author>
+		<album>Thánh Ca Mùa Vọng</album>
+		<type>Mùa Vọng</type>
+		<audio>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/ThanhCaMuaVong/NaoCungVuiLen_mt_ThuTrang-NgocDung.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>648</albumid>
+		<songid>7920</songid>
+		<name>Đêm sắp tàn</name>
+		<artist>Quốc Triều</artist>
+		<author>Trần Hòa Yên</author>
+		<album>Thánh Ca Mùa Vọng</album>
+		<type>Mùa Vọng</type>
+		<audio>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/ThanhCaMuaVong/DemSapTan_thy_QuocTrieu.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>648</albumid>
+		<songid>7923</songid>
+		<name>Hỡi dân Xion</name>
+		<artist>Anh Nguyên</artist>
+		<author>Lm. Phương Anh</author>
+		<album>Thánh Ca Mùa Vọng</album>
+		<type>Mùa Vọng</type>
+		<audio>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/ThanhCaMuaVong/HoiDanXion_pa_AnhNguyen.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>657</albumid>
+		<songid>8015</songid>
+		<name>Truyền tin</name>
+		<artist>Diệu Hiền - Thùy Châu</artist>
+		<author>Hoàng Phương</author>
+		<album>Chút Tình Bên Máng Cỏ - Hoàng Phương Vol.03</album>
+		<type>Mùa Vọng</type>
+		<audio>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/ChutTinhBenMangCo-HPVol3/04.TruyenTin_hp_DieuHien-ThuyChau.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>657</albumid>
+		<songid>8013</songid>
+		<name>Xin ngự đến</name>
+		<artist>Thanh Phương - Hoài Thông</artist>
+		<author>Hoàng Phương</author>
+		<album>Chút Tình Bên Máng Cỏ - Hoàng Phương Vol.03</album>
+		<type>Mùa Vọng</type>
+		<audio>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/ChutTinhBenMangCo-HPVol3/02.XinNguDen_hp_ThanhPhuong-HoaiThong.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>657</albumid>
+		<songid>8020</songid>
+		<name>Giuse vâng lệnh truyền</name>
+		<artist>Trần Phi - Nhóm Hoa Giấy</artist>
+		<author>Hoàng Phương</author>
+		<album>Chút Tình Bên Máng Cỏ - Hoàng Phương Vol.03</album>
+		<type>Mùa Vọng</type>
+		<audio>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/ChutTinhBenMangCo-HPVol3/09.GiuseVangLenhTruyen_hp_TranPhi-NhomHoaGiay.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>828</albumid>
+		<songid>9987</songid>
+		<name>Hướng về Chúa</name>
+		<artist>Ca Đoàn Viễn Xứ</artist>
+		<author>Lm. Kim Long</author>
+		<album>Bài hát của Ca Đoàn Viễn Xứ</album>
+		<type>Mùa Vọng</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/BaiHatCuaCDVX/HuongVeChua_kl_CDVX.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/BaiHatCuaCDVX/HuongVeChua(2Be)_kl.pdf</pdf>
+	</song>
+	<song>
+		<albumid>897</albumid>
+		<songid>10931</songid>
+		<name>Nguyện cầu Mùa Vọng</name>
+		<artist>Diễm Liên</artist>
+		<author>Lm. Duy Thiên</author>
+		<album>Tình Người Giáng Sinh</album>
+		<type>Mùa Vọng</type>
+		<audio>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/TinhNguoiGiangSinh/06.NguyenCauMuaVong_dt_DiemLien.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>907</albumid>
+		<songid>11058</songid>
+		<name>Lời vọng</name>
+		<artist>Khắc Dũng</artist>
+		<author>Lm. Thái Nguyên</author>
+		<album>Tình Yêu Giáng Sinh - Lm. Thái Nguyên</album>
+		<type>Mùa Vọng</type>
+		<audio>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/TinhYeuGiangSinh-Lm.TN/01.LoiVong_tn_KhacDung.mp3</audio>
+		<pdf>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/TinhYeuGiangSinh-Lm.TN/LoiVong_tn.pdf</pdf>
+	</song>
+	<song>
+		<albumid>921</albumid>
+		<songid>11241</songid>
+		<name>Trời cao</name>
+		<artist>Tốp Ca</artist>
+		<author>Duy Tân</author>
+		<album>Thế Giới Mừng Giáng Sinh</album>
+		<type>Mùa Vọng</type>
+		<audio>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/TheGioiMungGiangSinh/01.TroiCao_dt_TopCa.mp3</audio>
+		<pdf>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/TheGioiMungGiangSinh/TroiCao_dt.pdf</pdf>
+	</song>
+	<song>
+		<albumid>980</albumid>
+		<songid>11974</songid>
+		<name>Mưa vì công chính</name>
+		<artist>Mai Hậu</artist>
+		<author>Đinh Công Huỳnh</author>
+		<album>Trọn Đời Hiến Dâng</album>
+		<type>Mùa Vọng</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TronDoiHienDang/04.MuaViCongChinh_dch_MaiHau.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/TronDoiHienDang/MuaViCongChinh_dch.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1014</albumid>
+		<songid>12395</songid>
+		<name>Hãy đổ sương mai</name>
+		<artist>Ngọc Mai - Hợp Ca Mân Côi</artist>
+		<author>Sr. Trầm Hương, FMSR</author>
+		<album>Trầm Hương Vol.06 - Đón Nhận Ơn Giáng Sinh</album>
+		<type>Mùa Vọng</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TramHuongVol.06-DonNhanOnGiangSinh/12.HayDoSuongMai_th_NgocMai-HopCaManCoi.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/TramHuongVol.06-DonNhanOnGiangSinh/HayDoSuongMai_th.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1014</albumid>
+		<songid>12393</songid>
+		<name>Chào đón Đấng Cứu Tinh</name>
+		<artist>Thanh Sử - Nhóm Hoa Giấy</artist>
+		<author>Sr. Trầm Hương, FMSR</author>
+		<album>Trầm Hương Vol.06 - Đón Nhận Ơn Giáng Sinh</album>
+		<type>Mùa Vọng</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TramHuongVol.06-DonNhanOnGiangSinh/10.ChaoDonDangCuuTinh_th_ThanhSu-NhomHoaGiay.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/TramHuongVol.06-DonNhanOnGiangSinh/ChaoDonDangCuuTinh_th.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1014</albumid>
+		<songid>12391</songid>
+		<name>Chúa sẽ đến cứu độ</name>
+		<artist>Xuân Trường - Nhóm Hoa Giấy</artist>
+		<author>Sr. Trầm Hương, FMSR</author>
+		<album>Trầm Hương Vol.06 - Đón Nhận Ơn Giáng Sinh</album>
+		<type>Mùa Vọng</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TramHuongVol.06-DonNhanOnGiangSinh/08.ChuaSeDenCuuDo_th_XuanTruong-NhomHoaGiay.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/TramHuongVol.06-DonNhanOnGiangSinh/ChuaSeDenCuuDo_th.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1014</albumid>
+		<songid>12389</songid>
+		<name>Nâng hồn lên Chúa</name>
+		<artist>Ngọc Mai</artist>
+		<author>Sr. Trầm Hương, FMSR</author>
+		<album>Trầm Hương Vol.06 - Đón Nhận Ơn Giáng Sinh</album>
+		<type>Mùa Vọng</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TramHuongVol.06-DonNhanOnGiangSinh/06.NangHonLenChua_th_NgocMai.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/TramHuongVol.06-DonNhanOnGiangSinh/NangHonLenChua_th.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1026</albumid>
+		<songid>12542</songid>
+		<name>Dọn đường Chúa đến</name>
+		<artist>Xuân Trường</artist>
+		<author>Lm. Mạnh Hùng, OP</author>
+		<album>Mạnh Hùng, OP Vol.2 - Chuyện Một Đêm Đông</album>
+		<type>Mùa Vọng</type>
+		<audio>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/ManhHungOPVol.2-ChuyenMotDemDong/01.DonDuongChuaDen_mh_XuanTruong.mp3</audio>
+		<pdf>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/ManhHungOPVol.2-ChuyenMotDemDong/DonDuongChuaDen_mh.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1026</albumid>
+		<songid>12545</songid>
+		<name>Vui lên nào</name>
+		<artist>Tấn Đạt</artist>
+		<author>Lm. Mạnh Hùng, OP</author>
+		<album>Mạnh Hùng, OP Vol.2 - Chuyện Một Đêm Đông</album>
+		<type>Mùa Vọng</type>
+		<audio>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/ManhHungOPVol.2-ChuyenMotDemDong/04.VuiLenNao_mh_TanDat.mp3</audio>
+		<pdf>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/ManhHungOPVol.2-ChuyenMotDemDong/VuiLenNao_mh.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1026</albumid>
+		<songid>12544</songid>
+		<name>Đức Vua đang ngự đến</name>
+		<artist>Thanh Sử - Ban Hợp Xướng Suối Việt</artist>
+		<author>Lm. Mạnh Hùng, OP</author>
+		<album>Mạnh Hùng, OP Vol.2 - Chuyện Một Đêm Đông</album>
+		<type>Mùa Vọng</type>
+		<audio>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/ManhHungOPVol.2-ChuyenMotDemDong/03.DucVuaDangNguDen_mh_ThanhSu-BHXSuoiViet.mp3</audio>
+		<pdf>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/ManhHungOPVol.2-ChuyenMotDemDong/DucVuaDangNguDen(1Be)_mh.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1026</albumid>
+		<songid>12543</songid>
+		<name>Chồi non sẽ mọc lên</name>
+		<artist>Diệu Hiền</artist>
+		<author>Lm. Mạnh Hùng, OP</author>
+		<album>Mạnh Hùng, OP Vol.2 - Chuyện Một Đêm Đông</album>
+		<type>Mùa Vọng</type>
+		<audio>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/ManhHungOPVol.2-ChuyenMotDemDong/02.ChoiNonSeMocLen_mh_DieuHien.mp3</audio>
+		<pdf>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/ManhHungOPVol.2-ChuyenMotDemDong/ChoiNonSeMocLen_mh.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1078</albumid>
+		<songid>13216</songid>
+		<name>Ngài phải lớn lên</name>
+		<artist>Ns. Thế Thông - Ca Đoàn Sao Mai</artist>
+		<author>Thế Thông</author>
+		<album>Chúa Đến! Chúa Đến!</album>
+		<type>Mùa Vọng</type>
+		<audio>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/ChuaDenChuaDen/14.NgaiPhaiLonLen_tth_TheThong-CDSM.mp3</audio>
+		<pdf>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/ChuaDenChuaDen/NgaiPhaiLonLen_tth.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1078</albumid>
+		<songid>13210</songid>
+		<name>Tình đã đến</name>
+		<artist>Diệu Hiền</artist>
+		<author>Thế Thông</author>
+		<album>Chúa Đến! Chúa Đến!</album>
+		<type>Mùa Vọng</type>
+		<audio>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/ChuaDenChuaDen/08.TinhDaDen_tth_DieuHien.mp3</audio>
+		<pdf>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/ChuaDenChuaDen/TinhDaDen_tth.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1100</albumid>
+		<songid>13526</songid>
+		<name>Hạt mưa Thánh Ân</name>
+		<artist>Thế Sơn</artist>
+		<author>Thế Thông</author>
+		<album>Tâm Tình Khúc 1</album>
+		<type>Mùa Vọng</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TamTinhKhuc1/05.HatMuaThanhAn_tth_TheSon.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/TamTinhKhuc1/HatMuaThanhAn_tth.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1132</albumid>
+		<songid>11016</songid>
+		<name>Hãy sẵn sàng</name>
+		<artist>Thanh Nga</artist>
+		<author>Lm. Phạm Liên Hùng</author>
+		<album>Bài hát của Nhạc sỹ: Lm. Phạm Liên Hùng</album>
+		<type>Mùa Vọng</type>
+		<audio>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/MuaVongGiangSinhGpXuanLoc/HaySanSang_plh_ThanhNga.mp3</audio>
+		<pdf>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/MuaVongGiangSinhGpXuanLoc/HaySanSang_plh.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1227</albumid>
+		<songid>15129</songid>
+		<name>Niềm vui lên đường</name>
+		<artist>Diệu Hiền - Thanh Sử</artist>
+		<author>Lm. Thái Nguyên</author>
+		<album>Lm. Thái Nguyên Vol. 13 - Tâm Tình Mùa Vọng</album>
+		<type>Mùa Vọng</type>
+		<audio>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/Lm.ThaiNguyenVol.13-TamTinhMuaVong/10.NiemVuiLenDuong_tn_DieuHien-ThanhSu.mp3</audio>
+		<pdf>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/Lm.ThaiNguyenVol.13-TamTinhMuaVong/NiemVuiLenDuong_tn.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1227</albumid>
+		<songid>15126</songid>
+		<name>Tỉnh thức và cầu nguyện</name>
+		<artist>Hoàng Quân</artist>
+		<author>Lm. Thái Nguyên</author>
+		<album>Lm. Thái Nguyên Vol. 13 - Tâm Tình Mùa Vọng</album>
+		<type>Mùa Vọng</type>
+		<audio>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/Lm.ThaiNguyenVol.13-TamTinhMuaVong/07.TinhThucVaCauNguyen_tn_HoangQuan.mp3</audio>
+		<pdf>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/Lm.ThaiNguyenVol.13-TamTinhMuaVong/TinhThucVaCauNguyen_tn.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1227</albumid>
+		<songid>15122</songid>
+		<name>Dọn đường đón Chúa</name>
+		<artist>Tâm Linh - Duy Linh</artist>
+		<author>Lm. Thái Nguyên</author>
+		<album>Lm. Thái Nguyên Vol. 13 - Tâm Tình Mùa Vọng</album>
+		<type>Mùa Vọng</type>
+		<audio>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/Lm.ThaiNguyenVol.13-TamTinhMuaVong/03.DonDuongDonChua_tn_TamLinh-DuyLinh.mp3</audio>
+		<pdf>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/Lm.ThaiNguyenVol.13-TamTinhMuaVong/DonDuongDonChua_tn.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1227</albumid>
+		<songid>15128</songid>
+		<name>Vui lên</name>
+		<artist>Nguyễn Hồng Ân</artist>
+		<author>Lm. Thái Nguyên</author>
+		<album>Lm. Thái Nguyên Vol. 13 - Tâm Tình Mùa Vọng</album>
+		<type>Mùa Vọng</type>
+		<audio>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/Lm.ThaiNguyenVol.13-TamTinhMuaVong/09.VuiLen_tn_NguyenHongAn.mp3</audio>
+		<pdf>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/Lm.ThaiNguyenVol.13-TamTinhMuaVong/VuiLen_tn.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1227</albumid>
+		<songid>15124</songid>
+		<name>Chân thành sám hối</name>
+		<artist>Thanh Sử</artist>
+		<author>Lm. Thái Nguyên</author>
+		<album>Lm. Thái Nguyên Vol. 13 - Tâm Tình Mùa Vọng</album>
+		<type>Mùa Vọng</type>
+		<audio>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/Lm.ThaiNguyenVol.13-TamTinhMuaVong/05.ChanThanhSamHoi_tn_ThanhSu.mp3</audio>
+		<pdf>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/Lm.ThaiNguyenVol.13-TamTinhMuaVong/ChanThanhSamHoi_tn.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1227</albumid>
+		<songid>15123</songid>
+		<name>Hãy tỉnh thức</name>
+		<artist>Tuyết Mai</artist>
+		<author>Lm. Thái Nguyên</author>
+		<album>Lm. Thái Nguyên Vol. 13 - Tâm Tình Mùa Vọng</album>
+		<type>Mùa Vọng</type>
+		<audio>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/Lm.ThaiNguyenVol.13-TamTinhMuaVong/04.HayTinhThuc_tn_TuyetMai.mp3</audio>
+		<pdf>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/Lm.ThaiNguyenVol.13-TamTinhMuaVong/HayTinhThuc_tn.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1227</albumid>
+		<songid>15125</songid>
+		<name>Dám ra khỏi mình</name>
+		<artist>Diệu Hiền</artist>
+		<author>Lm. Thái Nguyên</author>
+		<album>Lm. Thái Nguyên Vol. 13 - Tâm Tình Mùa Vọng</album>
+		<type>Mùa Vọng</type>
+		<audio>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/Lm.ThaiNguyenVol.13-TamTinhMuaVong/06.DamRaKhoiMinh_tn_DieuHien.mp3</audio>
+		<pdf>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/Lm.ThaiNguyenVol.13-TamTinhMuaVong/DamRaKhoiMinh_tn.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1227</albumid>
+		<songid>15127</songid>
+		<name>Hãy dọn đường Chúa</name>
+		<artist>Tuyết Mai - Hoàng Quân</artist>
+		<author>Lm. Thái Nguyên</author>
+		<album>Lm. Thái Nguyên Vol. 13 - Tâm Tình Mùa Vọng</album>
+		<type>Mùa Vọng</type>
+		<audio>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/Lm.ThaiNguyenVol.13-TamTinhMuaVong/08.HayDonDuongChua_tn_TuyetMai-HoangQuan.mp3</audio>
+		<pdf>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/Lm.ThaiNguyenVol.13-TamTinhMuaVong/HayDonDuongChua_tn.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1227</albumid>
+		<songid>15121</songid>
+		<name>Trời ca hỡi</name>
+		<artist>Khắc Dũng</artist>
+		<author>Lm. Thái Nguyên</author>
+		<album>Lm. Thái Nguyên Vol. 13 - Tâm Tình Mùa Vọng</album>
+		<type>Mùa Vọng</type>
+		<audio>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/Lm.ThaiNguyenVol.13-TamTinhMuaVong/02.TroiCaoHoi_tn_KhacDung.mp3</audio>
+		<pdf>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/Lm.ThaiNguyenVol.13-TamTinhMuaVong/TroiCaoHoi_tn.pdf</pdf>
+	</song>
+</songs>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songs>
+	<song>
+		<albumid>254</albumid>
+		<songid>2933</songid>
+		<name>Tán tụng Hồng ân</name>
+		<artist>Hương Lan</artist>
+		<author>Lm. Vũ Đình Trác - Hải Linh</author>
+		<album>Dâng Lên Mẹ</album>
+		<type>Kết Lễ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/DangLenMe/12.TanTungHongAn_vdt-hl_HuongLan.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/DangLenMe/TanTungHongAn_vdt-hl.pdf</pdf>
+	</song>
+	<song>
+		<albumid>298</albumid>
+		<songid>3514</songid>
+		<name>Nhân chứng Phúc Âm</name>
+		<artist>Ý Hiền</artist>
+		<author>Lm. Thành Tâm</author>
+		<album>Diễm Tình Ca</album>
+		<type>Kết Lễ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/DiemTinhCa/10.NhanChungPhucAm_tt_YHien.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/DiemTinhCa/NhanChungPhucAm_tt.pdf</pdf>
+	</song>
+	<song>
+		<albumid>339</albumid>
+		<songid>4080</songid>
+		<name>Lời Cha</name>
+		<artist>Tuấn Phương</artist>
+		<author>Lm. Sơn Ca Linh</author>
+		<album>Ngày Mới Cho Thế Giới</album>
+		<type>Kết Lễ</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/NgayMoiChoTheGioi/06.LoiCha_scl_TuanPhuong.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/NgayMoiChoTheGioi/LoiCha_scl.pdf</pdf>
+	</song>
+	<song>
+		<albumid>548</albumid>
+		<songid>6868</songid>
+		<name>Tuổi trẻ vào đời</name>
+		<artist>Quang Vịnh - Phong Lan - Katuya - Kamic - Kaluya</artist>
+		<author>Cao Huy Hoàng</author>
+		<album>Con Phải Làm Gì?</album>
+		<type>Kết Lễ</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-256/ConPhaiLamGi/10.TuoiTreVaoDoi_chh_QuangVinh-PhongLan-Katuya-Kamic-Kaluya.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-256/ConPhaiLamGi/TuoiTreVaoDoi_chh.pdf</pdf>
+	</song>
+	<song>
+		<albumid>548</albumid>
+		<songid>6861</songid>
+		<name>Nhìn về tương lai</name>
+		<artist>Lm. Xuân Đường - Hợp Ca</artist>
+		<author>Cao Huy Hoàng</author>
+		<album>Con Phải Làm Gì?</album>
+		<type>Kết Lễ</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-256/ConPhaiLamGi/03.NhinVeTuongLai_chh_Lm.XuanDuong-HopCa.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-256/ConPhaiLamGi/NhinVeTuongLai_chh.pdf</pdf>
+	</song>
+	<song>
+		<albumid>561</albumid>
+		<songid>6997</songid>
+		<name>Chúa sai tôi đi</name>
+		<artist>Gia Ân</artist>
+		<author>Ngọc Linh</author>
+		<album>Bốn Mùa Yêu Thương</album>
+		<type>Kết Lễ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/BonMuaYeuThuong/10.ChuaSaiToiDi_GiaAn.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/BonMuaYeuThuong/ChuaSaiToiDi_nl.pdf</pdf>
+	</song>
+	<song>
+		<albumid>699</albumid>
+		<songid>8506</songid>
+		<name>Sống cho Tin Mừng</name>
+		<artist>Bích Ngọc - Trần Phi</artist>
+		<author>Lm. Thái Nguyên</author>
+		<album>Sống Cho Tình Yêu</album>
+		<type>Kết Lễ</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/SongChoTinhYeu/11.SongChoTinMung_tn_BichNgoc-TranPhi.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/SongChoTinhYeu/SongChoTinMung_tn.pdf</pdf>
+	</song>
+	<song>
+		<albumid>886</albumid>
+		<songid>10795</songid>
+		<name>Dấn thân</name>
+		<artist>Dàn Hợp Xướng Đài TNVN</artist>
+		<author>Đặng Ngọc Ẩn</author>
+		<album>Thánh Ca - Đặng Ngọc Ẩn</album>
+		<type>Kết Lễ</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/ThanhCa-DangNgocAn/11.DanThan_dna_DanHXDaiTNVN.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/ThanhCa-DangNgocAn/DanThan_dna.pdf</pdf>
+	</song>
+	<song>
+		<albumid>901</albumid>
+		<songid>10980</songid>
+		<name>Tán tụng hồng ân</name>
+		<artist>Hoàng Oanh</artist>
+		<author>Lm. Vũ Đình Trác - Hải Linh</author>
+		<album>Hoàng Oanh Thánh Ca 7 - Đêm Đông Chúa Sinh Ra Đời</album>
+		<type>Kết Lễ</type>
+		<audio>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/HOTC7-DemDongChuaSinhRaDoi/14.TanTungHongAn_hl-vdt_HoangOanh.mp3</audio>
+		<pdf>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/HOTC7-DemDongChuaSinhRaDoi/TanTungHongAn_hl-vdt.pdf</pdf>
+	</song>
+</songs>

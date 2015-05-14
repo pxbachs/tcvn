@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songs>
+	<song>
+		<albumid>850</albumid>
+		<songid>10306</songid>
+		<name>Lạy Chúa Thánh Thần (Ca tiếp liên Lễ Hiện Xuống)</name>
+		<artist>Tố Hà</artist>
+		<author>Lm. Quý Báu</author>
+		<album>Canh Tân Trong Thánh Thần</album>
+		<type>Chúa Thánh Thần</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/CanhTanTrongThanhThan/08.LayChuaThanhThan(CaTiepLienLeHienXuong)_qb_ToHa.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>1133</albumid>
+		<songid>13955</songid>
+		<name>Kính xin Chúa Thánh Thần</name>
+		<artist>Tường Lý</artist>
+		<author>Lm. Vương Diệu</author>
+		<album>Bài hát của Nhạc sỹ: Lm. Vương Diệu</album>
+		<type>Chúa Thánh Thần</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/TacGia/Lm.VuongDieu/KinhXinChuaThanhThan_vd_TuongLy.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>1139</albumid>
+		<songid>14017</songid>
+		<name>Chúa Thánh Thần</name>
+		<artist>Mai Thảo</artist>
+		<author>Lm. Vương Diệu</author>
+		<album>Người Sống Đạo</album>
+		<type>Chúa Thánh Thần</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/NguoiSongDao/06.ChuaThanhThan_vd_MaiThao.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>1139</albumid>
+		<songid>14016</songid>
+		<name>Nguyện xin Chúa Thánh Thần</name>
+		<artist>Kim Cúc</artist>
+		<author>Lm. Vương Diệu</author>
+		<album>Người Sống Đạo</album>
+		<type>Chúa Thánh Thần</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/NguoiSongDao/05.NguyenXinChuaThanhThan_vd_KimCuc.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>1139</albumid>
+		<songid>14015</songid>
+		<name>Lạy Chúa Thánh Thần</name>
+		<artist>Ca Đoàn Thánh Tâm</artist>
+		<author>Lm. Vương Diệu</author>
+		<album>Người Sống Đạo</album>
+		<type>Chúa Thánh Thần</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/NguoiSongDao/04.LayChuaThanhThan_vd_CaDoanThanhTam.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>1154</albumid>
+		<songid>14211</songid>
+		<name>Thánh Thần xin Ngài ngự đến</name>
+		<artist>Mỹ Dung</artist>
+		<author>Mai Sơn</author>
+		<album>Bài hát của Nhạc sỹ: Mai Sơn</album>
+		<type>Chúa Thánh Thần</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/TacGia/MaiSon/ThanhThanXinNgaiNguDen_ms_MyDung.mp3</audio>
+		<pdf></pdf>
+	</song>
+</songs>

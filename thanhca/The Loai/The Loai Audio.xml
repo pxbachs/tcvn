@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songs>
+	<song>
+		<albumid>329</albumid>
+		<songid>4708</songid>
+		<name>Dâng nén hương lòng</name>
+		<artist>Ngọc Thảo - Ca Đoàn Sao Mai</artist>
+		<author>Thế Thông</author>
+		<album>Bài hát của Ca Đoàn Sao Mai</album>
+		<type>Thể Loại Audio</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/Albums/BaiHatCuaDoanSaoMai/12.DangNenHuongLong_tth_CaDoanSaoMai.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/Albums/BaiHatCuaDoanSaoMai/DangNenHuongLong_tth.pdf</pdf>
+	</song>
+	<song>
+		<albumid>696</albumid>
+		<songid>8471</songid>
+		<name>Ban Phép Lành</name>
+		<artist>Lm. Nguyễn Sang</artist>
+		<author></author>
+		<album>Lm. JB. Nguyễn Sang Vol.06 - Lòng Chúa Xót Thương</album>
+		<type>Thể Loại Audio</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/Lm.NSVol.06-LongChuaXotThuong/17.BanPhepLanh_Lm.NguyenSang.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>696</albumid>
+		<songid>8470</songid>
+		<name>Kinh Cảm Ơn - Kinh Trông Cậy</name>
+		<artist>Cộng Đoàn</artist>
+		<author></author>
+		<album>Lm. JB. Nguyễn Sang Vol.06 - Lòng Chúa Xót Thương</album>
+		<type>Thể Loại Audio</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/Lm.NSVol.06-LongChuaXotThuong/16.KinhCamOnKinhTrongCay_CongDoan.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>1132</albumid>
+		<songid>13842</songid>
+		<name>Lời cầu cho Ơn Gọi</name>
+		<artist>Tường Lý</artist>
+		<author>Lm. Phạm Liên Hùng</author>
+		<album>Bài hát của Nhạc sỹ: Lm. Phạm Liên Hùng</album>
+		<type>Thể Loại Audio</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/TacGia/Lm.PhamLienHung/LoiCauChoOnGoi_plh_TuongLy.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/TacGia/Lm.PhamLienHung/LoiCauChoOnGoi_plh.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1193</albumid>
+		<songid>14709</songid>
+		<name>Lòng tham vô đáy (Suy niệm)</name>
+		<artist>Kavie Trần</artist>
+		<author>R. Veritas</author>
+		<album>Lạy Chúa Này Con Đây</album>
+		<type>Thể Loại Audio</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-256/LayChuaNayConDay/11.LongThamVoDay_KavieTran.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>1193</albumid>
+		<songid>14707</songid>
+		<name>Khoảng cách giữa hai trái tim (Suy niệm)</name>
+		<artist>Kavie Trần</artist>
+		<author>R. Veritas</author>
+		<album>Lạy Chúa Này Con Đây</album>
+		<type>Thể Loại Audio</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-256/LayChuaNayConDay/09.KhoangCachGiuaHaiTraiTim_KavieTran.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>1193</albumid>
+		<songid>14708</songid>
+		<name>Mục tử và đàn chiên (Suy niệm)</name>
+		<artist>Kavie Trần</artist>
+		<author>R. Veritas</author>
+		<album>Lạy Chúa Này Con Đây</album>
+		<type>Thể Loại Audio</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-256/LayChuaNayConDay/10.MucTuVaDanChien_KavieTran.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>1193</albumid>
+		<songid>14706</songid>
+		<name>Tiếng nói của thinh lặng (Suy niệm)</name>
+		<artist>Kavie Trần</artist>
+		<author>R. Veritas</author>
+		<album>Lạy Chúa Này Con Đây</album>
+		<type>Thể Loại Audio</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-256/LayChuaNayConDay/08.TiengNoiCuaThinhLang_KavieTran.mp3</audio>
+		<pdf></pdf>
+	</song>
+</songs>

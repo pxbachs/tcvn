@@ -1,0 +1,2665 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songs>
+	<song>
+		<albumid>260</albumid>
+		<songid>3001</songid>
+		<name>Lòng trung nghĩa</name>
+		<artist>Vũ Anh</artist>
+		<author>Nguyễn Bang Hanh</author>
+		<album>Hồng Ân Thiên Chúa</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/HongAnThienChua/05.LongTrungNghia_nbt_VuAnh.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/HongAnThienChua/LongTrungNghia_nbt.pdf</pdf>
+	</song>
+	<song>
+		<albumid>260</albumid>
+		<songid>3003</songid>
+		<name>Vết tử hùng</name>
+		<artist>Mai Hương - Vũ Anh</artist>
+		<author>Tâm Bảo - Văn Thi</author>
+		<album>Hồng Ân Thiên Chúa</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/HongAnThienChua/07.VetTuHung_tb-vt_MaiHuong-VuAnh.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/HongAnThienChua/VetTuHung_tb-vt.pdf</pdf>
+	</song>
+	<song>
+		<albumid>260</albumid>
+		<songid>3008</songid>
+		<name>Kìa ai ánh hồng</name>
+		<artist>Mai Hương - Vũ Anh</artist>
+		<author>Lm. Vinh Hạnh</author>
+		<album>Hồng Ân Thiên Chúa</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/HongAnThienChua/12.KiaAiAnhHong_vh_MaiHuong-VuAnh.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/HongAnThienChua/KiaAiAnhHong_vh.pdf</pdf>
+	</song>
+	<song>
+		<albumid>291</albumid>
+		<songid>3419</songid>
+		<name>Khúc hát một loài hoa</name>
+		<artist>Hương Lan</artist>
+		<author>Lm. Ân Đức</author>
+		<album>Con Vẫn Trông Cậy Chúa</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ConVanTrongCayChua/02.KhucHatMotLoaiHoa_ad_HuongLan.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/ConVanTrongCayChua/KhucHatMotLoaiHoa_ad.pdf</pdf>
+	</song>
+	<song>
+		<albumid>293</albumid>
+		<songid>3450</songid>
+		<name>Thánh Đa Minh</name>
+		<artist>Ca Đoàn Chân Lý (Nữ Tu Đa Minh HOUSTON)</artist>
+		<author>Chưa biết</author>
+		<album>Xin Mở Rộng Tay</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/XinMoRongTay/08.ThanhDaMinh_CaDoanChanLy_NTDM.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>295</albumid>
+		<songid>3475</songid>
+		<name>Lời nguyện Thánh I-Nhã</name>
+		<artist>Như Mai</artist>
+		<author>Toàn Minh</author>
+		<album>Hát Lên Với Con</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/HatLenVoiCon/07.LoiNguyenThanhINha_tm_NhuMai.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>315</albumid>
+		<songid>3720</songid>
+		<name>Chết vì Giêsu</name>
+		<artist>Ca Đoàn Cecilia</artist>
+		<author>Trần Xuân Long</author>
+		<album>Tình Chúa Tình Con</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TinhChuaTinhCon/09.ChetViGiesu_txl_CaDoanCecilia.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/TinhChuaTinhCon/ChetViGiesu_txl.pdf</pdf>
+	</song>
+	<song>
+		<albumid>315</albumid>
+		<songid>3717</songid>
+		<name>Ca mừng Thánh Nữ Ce&apos;cilia</name>
+		<artist>Ca Đoàn Cecilia</artist>
+		<author>Trần Xuân Long</author>
+		<album>Tình Chúa Tình Con</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TinhChuaTinhCon/06.CaMungThanhNuCecillia_txl_CaDoanCecilia.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/TinhChuaTinhCon/CaMungThanhNuCecilia_txl.pdf</pdf>
+	</song>
+	<song>
+		<albumid>319</albumid>
+		<songid>3802</songid>
+		<name>Anh hùng Tử Đạo Việt Nam</name>
+		<artist>Ca Đoàn Ngàn Thông</artist>
+		<author>Lm. Vũ Đình Trác</author>
+		<album>Tình Chúa Yêu Tôi</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TinhChuaYeuToi/08.AnhHungTuDaoVietNam_vdt_CaDoanNganThon.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/TinhChuaYeuToi/AnhHungTuDaoVietNam_vdt.pdf</pdf>
+	</song>
+	<song>
+		<albumid>319</albumid>
+		<songid>3796</songid>
+		<name>Phêrô con là Đá</name>
+		<artist>Anh Dũng</artist>
+		<author>Lm. Vũ Đình Trác</author>
+		<album>Tình Chúa Yêu Tôi</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TinhChuaYeuToi/02.PheroConLaDa_vdt_AnhDung.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>321</albumid>
+		<songid>3819</songid>
+		<name>Theo Chúa Kitô</name>
+		<artist>Nhóm Cánh Buồm Xanh</artist>
+		<author>Vũ Đình Ân</author>
+		<album>Tấm Lòng Vàng</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/Albums/TamLongVang/04.TheoChuaKito_vda(CanhBuomXanh).mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>321</albumid>
+		<songid>3820</songid>
+		<name>Tấm lòng vàng 2</name>
+		<artist>Kim Cúc - Hải Đăng</artist>
+		<author>Hải Phương</author>
+		<album>Tấm Lòng Vàng</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/Albums/TamLongVang/05.TamLongVang2_hp(KimCuc-HaiDang).mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>321</albumid>
+		<songid>3817</songid>
+		<name>Tạ ơn Thánh Martinô</name>
+		<artist>Nhóm Cánh Buồm Xanh</artist>
+		<author>Vũ Đình Ân</author>
+		<album>Tấm Lòng Vàng</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/Albums/TamLongVang/02.TaOnThanhMartino_vda(CanhBuomXanh).mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>321</albumid>
+		<songid>3818</songid>
+		<name>Tôi hiền của Chúa</name>
+		<artist>Kim Cúc</artist>
+		<author>Hải Phương</author>
+		<album>Tấm Lòng Vàng</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/Albums/TamLongVang/03.ToiHienCuaChua_hp(KimCuc).mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>328</albumid>
+		<songid>5349</songid>
+		<name>Nhân chứng đức tin</name>
+		<artist>Mai Hậu</artist>
+		<author>Thế Thông</author>
+		<album>Bài hát của Nhạc sỹ: Thế Thông</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/Albums/BaiHatCuaNSTheThong/NhanChungDucTin_tth_MaiHau.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/Albums/BaiHatCuaNSTheThong/ThanhGiuseTrumLuuNhanChungDucTin_tth.pdf</pdf>
+	</song>
+	<song>
+		<albumid>328</albumid>
+		<songid>12234</songid>
+		<name>Ai ra đi</name>
+		<artist>Ca Đoàn Sao Mai</artist>
+		<author>Thế Thông</author>
+		<album>Bài hát của Nhạc sỹ: Thế Thông</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/TacGia/TheThong/AiRaDi_tth_CaDoanSaoMai.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/TacGia/TheThong/AiRaDi_tth.pdf</pdf>
+	</song>
+	<song>
+		<albumid>328</albumid>
+		<songid>3902</songid>
+		<name>Giuse, chuyện về Người</name>
+		<artist>Ns. Thế Thông</artist>
+		<author>Thế Thông</author>
+		<album>Bài hát của Nhạc sỹ: Thế Thông</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/Albums/BaiHatCuaNSTheThong/07.GiuseChuyenVeNguoi_tth_TheThong.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/Albums/BaiHatCuaNSTheThong/Giuse,ChuyenVeNguoi_tth.pdf</pdf>
+	</song>
+	<song>
+		<albumid>328</albumid>
+		<songid>8555</songid>
+		<name>Cha Thánh Gioan Vianney</name>
+		<artist>Ns. Thế Thông</artist>
+		<author>Thế Thông</author>
+		<album>Bài hát của Nhạc sỹ: Thế Thông</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/BaiHatCuaNSTheThong/ChaThanhGioanVianney_tth.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/BaiHatCuaNSTheThong/ChaThanhGioanVianney_tth.pdf</pdf>
+	</song>
+	<song>
+		<albumid>328</albumid>
+		<songid>12235</songid>
+		<name>Thánh Phaolô Hạnh</name>
+		<artist>Ca Đoàn Sao Mai</artist>
+		<author>Thế Thông</author>
+		<album>Bài hát của Nhạc sỹ: Thế Thông</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/BaiHatCuaNSTheThong/ThanhPhaoloHanh_tth_CaDoanSaoMai.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/BaiHatCuaNSTheThong/ThanhPhaoloHanh_tth.pdf</pdf>
+	</song>
+	<song>
+		<albumid>339</albumid>
+		<songid>4079</songid>
+		<name>Mầu hồng yêu thương</name>
+		<artist>Thu Lan</artist>
+		<author>Lm. Hoàng Phúc</author>
+		<album>Ngày Mới Cho Thế Giới</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/NgayMoiChoTheGioi/05.MauHongYeuThuong_hp_ThuLan.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/NgayMoiChoTheGioi/MauHongYeuThuong_hp.pdf</pdf>
+	</song>
+	<song>
+		<albumid>357</albumid>
+		<songid>4283</songid>
+		<name>Đóa hoa hồng</name>
+		<artist>Ca Đoàn Đức Mẹ Hằng Cứu Giúp</artist>
+		<author>Chưa biết</author>
+		<album>Lạy Chúa Con Đây</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/LayChuaConDay/01.DoaHoaHong_CDDMHCG.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>363</albumid>
+		<songid>4409</songid>
+		<name>Bài ca ngàn trùng</name>
+		<artist>Hoàng Oanh</artist>
+		<author>Lm. Kim Long</author>
+		<album>Thánh Ca Hoàng Oanh CD12 - Tình Cha</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TCHOCD12-TinhCha/05.BaiCaNganTrung_kl_HoangOanh.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/TCHOCD12-TinhCha/BaiCaNganTrung_kl.pdf</pdf>
+	</song>
+	<song>
+		<albumid>366</albumid>
+		<songid>4466</songid>
+		<name>Cầu xin Thánh Gia - Noi gương Thánh Gia (Giuse xóm nhỏ)</name>
+		<artist>Ca Đoàn Đức Mẹ Hằng Cứu Giúp</artist>
+		<author>Lm. Phạm Đình Nhu - Nguyễn Khắc Tuần</author>
+		<album>Tâm Tình Ca 2 - Hạnh Phúc Gia Đình</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TamTinhCa2-HanhPhucGiaDinh/08.CauXinThanhGia-NoiGuongThanhGia_CDDMHCG.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/TamTinhCa2-HanhPhucGiaDinh/GiuseXomNho_pdn-nkt.pdf</pdf>
+	</song>
+	<song>
+		<albumid>374</albumid>
+		<songid>4570</songid>
+		<name>Khúc hát một loài hoa</name>
+		<artist>Mai Hậu - Nhóm Hoan Ca</artist>
+		<author>Lm. Ân Đức</author>
+		<album>Dấu Ấn Tình Yêu 3 (Khúc Hát Một Loài Hoa)</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/DauAnTinhYeu3-KhucHatMotLoaiHoa/01.KhucHatMotLoaiHoa_ad_MaiHau-NhomHoanCa.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/DauAnTinhYeu3-KhucHatMotLoaiHoa/KhucHatMotLoaiHoa_ad.pdf</pdf>
+	</song>
+	<song>
+		<albumid>374</albumid>
+		<songid>4577</songid>
+		<name>Monica, Người Mẹ mẫu gương</name>
+		<artist>Hồ Bích Ngọc</artist>
+		<author>Lm. Ân Đức</author>
+		<album>Dấu Ấn Tình Yêu 3 (Khúc Hát Một Loài Hoa)</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/DauAnTinhYeu3-KhucHatMotLoaiHoa/08.MonicaNguoiMeMauGuong_ad_HoBichNgoc.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/DauAnTinhYeu3-KhucHatMotLoaiHoa/MonicaNguoiMeMauGuong_ad.pdf</pdf>
+	</song>
+	<song>
+		<albumid>374</albumid>
+		<songid>4581</songid>
+		<name>Tình nào lớn hơn</name>
+		<artist>Hồ Bích Ngọc - Nhóm Hoan Ca</artist>
+		<author>Lm. Ân Đức</author>
+		<album>Dấu Ấn Tình Yêu 3 (Khúc Hát Một Loài Hoa)</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/DauAnTinhYeu3-KhucHatMotLoaiHoa/12.TinhNaoLonHon_ad_HoBichNgoc-NhomHoanCa.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/DauAnTinhYeu3-KhucHatMotLoaiHoa/TinhNaoLonHon_ad.pdf</pdf>
+	</song>
+	<song>
+		<albumid>389</albumid>
+		<songid>4787</songid>
+		<name>Chúc mừng Thánh Cả Giuse</name>
+		<artist>Hợp Ca (Lĩnh xướng: Kim Nam - Diệu Hiền - Cát Huyền - Hạnh Tuyền - Cẩm Tú - Mỹ Thuyên - Ngọc Trâm - Minh Lý)</artist>
+		<author>Nguyễn Đức Nghị</author>
+		<album>Tất Cả Là Hồng Ân - Tôn Vinh Đức Mẹ Và Thánh Giuse</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TCLHA-TonVinhDucMeVaThanhGiuse/13.ChucMungThanhCaGiuse_ndn_HopCa.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>389</albumid>
+		<songid>4788</songid>
+		<name>Cầu nguyện Thánh Giuse Đấng bảo hộ</name>
+		<artist>Hợp Ca (Lĩnh xướng: Kim Nam - Diệu Hiền - Cát Huyền - Hạnh Tuyền - Cẩm Tú - Mỹ Thuyên - Ngọc Trâm - Minh Lý)</artist>
+		<author>Nguyễn Đức Nghị</author>
+		<album>Tất Cả Là Hồng Ân - Tôn Vinh Đức Mẹ Và Thánh Giuse</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TCLHA-TonVinhDucMeVaThanhGiuse/14.CauNguyenThanhGiuseDangBaoHo_ndn_HopCa.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/TCLHA-TonVinhDucMeVaThanhGiuse/CauNguyenThanhGiuse-DangBaoHo_dn.pdf</pdf>
+	</song>
+	<song>
+		<albumid>390</albumid>
+		<songid>4797</songid>
+		<name>Gieo vui (Ngày về)</name>
+		<artist>Lệ Hằng</artist>
+		<author>Chưa biết</author>
+		<album>Hải Âu Thánh Ca Đặc Biệt 3 - Nguyện Cầu 3</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-256/HATCDB3-NguyenCau3/09.GieoVui_LeHang.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-256/HATCDB3-NguyenCau3/NgayVe.pdf</pdf>
+	</song>
+	<song>
+		<albumid>397</albumid>
+		<songid>4902</songid>
+		<name>Thánh Đức Phanxicô Trương Bửu Diệp</name>
+		<artist>Khánh Ly</artist>
+		<author>Xuân Điềm</author>
+		<album>Bước Người Đi Qua</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/Albums/BuocNguoiDiQua/08.ThanhDucPhanxicoTruongBuuDiep_xd_KhanhLy.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>402</albumid>
+		<songid>4977</songid>
+		<name>Mừng Thánh Tiến sĩ Têrêsa HDGS</name>
+		<artist>Thảo Huyên - Hương Trà</artist>
+		<author>Lm. Mai Thiện</author>
+		<album>Như Cỏ Cây</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/Albums/NhuCoCay/07.MungThanhTienSiTerexaHDGS_ThaoHuyen-HuongTra.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>409</albumid>
+		<songid>5078</songid>
+		<name>Khải hoàn ca (Tiếng nhạc oai hùng)</name>
+		<artist>Ca Đoàn Thiên Cung</artist>
+		<author>Hải Linh</author>
+		<album>Thiên Cung 3 - Chứng Nhân Tình Yêu</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/ThienCung3-ChungNhanTinhYeu/15.TiengNhacOaiHung_hl_CaDoanThienCung.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/ThienCung3-ChungNhanTinhYeu/TiengNhacOaiHung-3be_hl.pdf</pdf>
+	</song>
+	<song>
+		<albumid>409</albumid>
+		<songid>5067</songid>
+		<name>Bài ca ngàn trùng</name>
+		<artist>Ca Đoàn Thiên Cung</artist>
+		<author>Lm. Kim Long</author>
+		<album>Thiên Cung 3 - Chứng Nhân Tình Yêu</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/ThienCung3-ChungNhanTinhYeu/04.BaiCaNganTrung_kl_CaDoanThienCung.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/ThienCung3-ChungNhanTinhYeu/BaiCaNganTrung_kl.pdf</pdf>
+	</song>
+	<song>
+		<albumid>409</albumid>
+		<songid>5065</songid>
+		<name>Gieo vui</name>
+		<artist>Ca Đoàn Thiên Cung</artist>
+		<author>Lm. Thành Tâm</author>
+		<album>Thiên Cung 3 - Chứng Nhân Tình Yêu</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/ThienCung3-ChungNhanTinhYeu/02.GieoVui_tt_CaDoanThienCung.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>411</albumid>
+		<songid>5092</songid>
+		<name>Bài ca ngàn trùng</name>
+		<artist>Ca Đoàn La Vang Portland</artist>
+		<author>Lm. Kim Long</author>
+		<album>Tôn Vinh Các Thánh Tử Đạo Việt Nam</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TonVinhCacThanhTuDaoVN/A2.BaiCaNganTrung_kl_CaDoanLaVangPortland.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/TonVinhCacThanhTuDaoVN/BaiCaNganTrung_kl.pdf</pdf>
+	</song>
+	<song>
+		<albumid>411</albumid>
+		<songid>5098</songid>
+		<name>Anh hùng Tử Đạo</name>
+		<artist>Ca Đoàn La Vang Portland</artist>
+		<author>Hồ Khanh - Minh Hương</author>
+		<album>Tôn Vinh Các Thánh Tử Đạo Việt Nam</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TonVinhCacThanhTuDaoVN/B1.AnhHungTuDao_hk_CaDoanLaVangPortland.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/TonVinhCacThanhTuDaoVN/AnhHungTuDao_hk-mh.pdf</pdf>
+	</song>
+	<song>
+		<albumid>411</albumid>
+		<songid>5101</songid>
+		<name>Tiếng nhạc oai hùng</name>
+		<artist>Ca Đoàn La Vang Portland</artist>
+		<author>Hải Linh</author>
+		<album>Tôn Vinh Các Thánh Tử Đạo Việt Nam</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TonVinhCacThanhTuDaoVN/B4.TiengNhacOaiHung_hl_CaDoanLaVangPortland.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/TonVinhCacThanhTuDaoVN/TiengNhacOaiHung_hl.pdf</pdf>
+	</song>
+	<song>
+		<albumid>411</albumid>
+		<songid>5100</songid>
+		<name>Gặt trong sướng vui</name>
+		<artist>Ca Đoàn La Vang Portland</artist>
+		<author>Lm. Ngô Duy Linh</author>
+		<album>Tôn Vinh Các Thánh Tử Đạo Việt Nam</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TonVinhCacThanhTuDaoVN/B3.GatTrongSuongVui_ndl_CaDoanLaVangPortland.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/TonVinhCacThanhTuDaoVN/GatTrongSuongVui_ndl.pdf</pdf>
+	</song>
+	<song>
+		<albumid>411</albumid>
+		<songid>5102</songid>
+		<name>Ngày vinh thắng</name>
+		<artist>Ca Đoàn La Vang Portland</artist>
+		<author>Lm. Ngô Duy Linh - Lm. Hồ Ngọc Thính</author>
+		<album>Tôn Vinh Các Thánh Tử Đạo Việt Nam</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TonVinhCacThanhTuDaoVN/B5.NgayVinhThang_hnt-ndl_CaDoanLaVangPortland.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/TonVinhCacThanhTuDaoVN/NgayVinhThang_hnt-ndl.pdf</pdf>
+	</song>
+	<song>
+		<albumid>411</albumid>
+		<songid>5095</songid>
+		<name>Magnificat</name>
+		<artist>Hoàng Oanh - Lm. Vũ Hân</artist>
+		<author>Lm. Hoàng Kim</author>
+		<album>Tôn Vinh Các Thánh Tử Đạo Việt Nam</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TonVinhCacThanhTuDaoVN/A5.Magnificat_hk_HoangOanh-Lm.VuHan.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/TonVinhCacThanhTuDaoVN/Magnificat_hk-ndl.pdf</pdf>
+	</song>
+	<song>
+		<albumid>411</albumid>
+		<songid>5096</songid>
+		<name>Lòng trung nghĩa</name>
+		<artist>Ca Đoàn La Vang Portland</artist>
+		<author>Nguyễn Bang Hanh</author>
+		<album>Tôn Vinh Các Thánh Tử Đạo Việt Nam</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TonVinhCacThanhTuDaoVN/A6.LongTrungNghia_nbt_CaDoanLaVangPortland.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/TonVinhCacThanhTuDaoVN/LongTrungNghia_nbt.pdf</pdf>
+	</song>
+	<song>
+		<albumid>411</albumid>
+		<songid>5093</songid>
+		<name>Chúa là nơi con nương tựa</name>
+		<artist>Hoàng Oanh - Lm. Vũ Hân</artist>
+		<author>Lm. Hoàng Kim</author>
+		<album>Tôn Vinh Các Thánh Tử Đạo Việt Nam</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TonVinhCacThanhTuDaoVN/A3.ChuaLaNoiConNuongTua_hk_HoangOanh-Lm.VuHan.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/TonVinhCacThanhTuDaoVN/ChuaLaNoiConNuongTua_hk.pdf</pdf>
+	</song>
+	<song>
+		<albumid>411</albumid>
+		<songid>5097</songid>
+		<name>Vết tử hùng</name>
+		<artist>Hoàng Oanh - Ca Đoàn La Vang Portland</artist>
+		<author>Tâm Bảo - Văn Thi</author>
+		<album>Tôn Vinh Các Thánh Tử Đạo Việt Nam</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TonVinhCacThanhTuDaoVN/A7.VetTuHung_tb-vt_HoangOanh-CaDoanLaVangPortland.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/TonVinhCacThanhTuDaoVN/VetTuHung_tb-vt.pdf</pdf>
+	</song>
+	<song>
+		<albumid>411</albumid>
+		<songid>5099</songid>
+		<name>Giấc mơ chưa trọn</name>
+		<artist>Hoàng Oanh - Ca Đoàn La Vang Portland</artist>
+		<author>Nhất Chi Vũ</author>
+		<album>Tôn Vinh Các Thánh Tử Đạo Việt Nam</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TonVinhCacThanhTuDaoVN/B2.GiacMoChuaTron_ncv_HoangOanh-CaDoanLaVangPortland.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/TonVinhCacThanhTuDaoVN/GiacMoChuaTron_ncv.pdf</pdf>
+	</song>
+	<song>
+		<albumid>411</albumid>
+		<songid>5094</songid>
+		<name>Kìa ai ánh hồng</name>
+		<artist>Ca Đoàn La Vang Portland</artist>
+		<author>Lm. Vinh Hạnh</author>
+		<album>Tôn Vinh Các Thánh Tử Đạo Việt Nam</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TonVinhCacThanhTuDaoVN/A4.KiaAiAnhHong_vh_CaDoanLaVangPortland.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/TonVinhCacThanhTuDaoVN/KiaAiAnhHong_vh.pdf</pdf>
+	</song>
+	<song>
+		<albumid>418</albumid>
+		<songid>5165</songid>
+		<name>Anh hùng Việt Nam</name>
+		<artist>Ca Đoàn Cecilia</artist>
+		<author>Lm. Kim Long</author>
+		<album>Ngày Hồng Ân</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/NgayHongAn/02.AnhHungVietNam_kl_CaDoanCecilia.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/NgayHongAn/AnhHungVietNam(4be)_kl.pdf</pdf>
+	</song>
+	<song>
+		<albumid>418</albumid>
+		<songid>5174</songid>
+		<name>Kìa ai ánh hồng</name>
+		<artist>Ca Đoàn Cecilia</artist>
+		<author>Lm. Vinh Hạnh</author>
+		<album>Ngày Hồng Ân</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/NgayHongAn/11.KiaAiAnhHong_vh_CaDoanCecilia.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/NgayHongAn/KiaAiAnhHong_vh.pdf</pdf>
+	</song>
+	<song>
+		<albumid>486</albumid>
+		<songid>6104</songid>
+		<name>Cha Thánh Đa Minh</name>
+		<artist>Ca Đoàn Chân Lý (Nữ Tu Đa Minh HOUSTON)</artist>
+		<author>Chưa biết</author>
+		<album>Sao Chúa Gọi Con</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/SaoChuaGoiCon/09.ChaThanhDaMinh_CaDoanChanLy_NTDM.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>488</albumid>
+		<songid>6126</songid>
+		<name>Con thuyền Phêrô</name>
+		<artist>Phi Nguyễn</artist>
+		<author>Thế Thông</author>
+		<album>Thánh Ca Việt Nam Vol.1</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/CD-TCVN-AH/ThanhCaVietNamVol.1-Master/MP3-320/03.ConThuyenPhero_tth_PhiNguyen.mp3</audio>
+		<pdf>http://thanhcavietnam.net/CD-TCVN-AH/ThanhCaVietNamVol.1-Master/ConThuyenPhero_tth.pdf</pdf>
+	</song>
+	<song>
+		<albumid>488</albumid>
+		<songid>6128</songid>
+		<name>Kinh đêm</name>
+		<artist>Tấn Đạt</artist>
+		<author>Thế Thông</author>
+		<album>Thánh Ca Việt Nam Vol.1</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/CD-TCVN-AH/ThanhCaVietNamVol.1-Master/MP3-320/05.KinhDem_tth_TanDat.mp3</audio>
+		<pdf>http://thanhcavietnam.net/CD-TCVN-AH/ThanhCaVietNamVol.1-Master/KinhDem_tth.pdf</pdf>
+	</song>
+	<song>
+		<albumid>493</albumid>
+		<songid>6191</songid>
+		<name>Thánh nữ Catarina</name>
+		<artist>Ca Đoàn Chân Lý (Nữ Tu Đa Minh HOUSTON)</artist>
+		<author>Vũ Đình Ân</author>
+		<album>Sao Chúa Gọi Con 2</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/SaoChuaGoiCon2/08.ThanhNuCatarina_vda_CaDoanChanLy_NTDM.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/SaoChuaGoiCon2/ThanhNuCatarina_vda.pdf</pdf>
+	</song>
+	<song>
+		<albumid>511</albumid>
+		<songid>6370</songid>
+		<name>Lạy Thánh Giuse</name>
+		<artist>Ca Đoàn Đức Mẹ Hằng Cứu Giúp</artist>
+		<author>Minh Đệ</author>
+		<album>Hãy Đến Cùng Giuse</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/HayDenCungGiuSe/09.LayThanhGiuse_md_CDDMHCG.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/HayDenCungGiuSe/LayThanhGiuse_md.pdf</pdf>
+	</song>
+	<song>
+		<albumid>511</albumid>
+		<songid>6368</songid>
+		<name>Về bến thiên đàng</name>
+		<artist>Ca Đoàn Đức Mẹ Hằng Cứu Giúp</artist>
+		<author>Minh Đệ</author>
+		<album>Hãy Đến Cùng Giuse</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/HayDenCungGiuSe/07.VeBenThienDang_md_CDDMHCG.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/HayDenCungGiuSe/VeBenThienDang_md.pdf</pdf>
+	</song>
+	<song>
+		<albumid>511</albumid>
+		<songid>6372</songid>
+		<name>Lạy Thánh Giuse 2</name>
+		<artist>Nhật Tân</artist>
+		<author>Chưa biết</author>
+		<album>Hãy Đến Cùng Giuse</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/HayDenCungGiuSe/11.LayThanhGiuse2_CDDMHCG.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>511</albumid>
+		<songid>6366</songid>
+		<name>Tạ ơn Thánh Giuse</name>
+		<artist>Thanh Bình</artist>
+		<author>Chưa biết</author>
+		<album>Hãy Đến Cùng Giuse</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/HayDenCungGiuSe/05.TaOnThanhGiuse_CDDMHCG.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>511</albumid>
+		<songid>6373</songid>
+		<name>Giuse</name>
+		<artist>Ca Đoàn Đức Mẹ Hằng Cứu Giúp</artist>
+		<author>Chưa biết</author>
+		<album>Hãy Đến Cùng Giuse</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/HayDenCungGiuSe/12.Giuse_CDDMHCG.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>511</albumid>
+		<songid>6363</songid>
+		<name>Người công chính</name>
+		<artist>Nhật Tân</artist>
+		<author>Chưa biết</author>
+		<album>Hãy Đến Cùng Giuse</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/HayDenCungGiuSe/02.NguoiCongChinh_CDDMHCG.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>511</albumid>
+		<songid>6365</songid>
+		<name>Giuse vinh hiển</name>
+		<artist>Ca Đoàn Đức Mẹ Hằng Cứu Giúp</artist>
+		<author>Chưa biết</author>
+		<album>Hãy Đến Cùng Giuse</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/HayDenCungGiuSe/04.GiuseVinhHien_CDDMHCG.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>511</albumid>
+		<songid>6364</songid>
+		<name>Hãy đến cùng Giuse</name>
+		<artist>Ca Đoàn Đức Mẹ Hằng Cứu Giúp</artist>
+		<author>Chưa biết</author>
+		<album>Hãy Đến Cùng Giuse</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/HayDenCungGiuSe/03.HayDenCungGiuse_CDDMHCG.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>511</albumid>
+		<songid>6371</songid>
+		<name>Thánh Giuse</name>
+		<artist>Ca Đoàn Đức Mẹ Hằng Cứu Giúp</artist>
+		<author>Chưa biết</author>
+		<album>Hãy Đến Cùng Giuse</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/HayDenCungGiuSe/10.ThanhGiuse_CDDMHCG.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>511</albumid>
+		<songid>6367</songid>
+		<name>Lạy Cha nhân từ</name>
+		<artist>Ca Đoàn Đức Mẹ Hằng Cứu Giúp</artist>
+		<author>Chưa biết</author>
+		<album>Hãy Đến Cùng Giuse</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/HayDenCungGiuSe/06.LayChaNhanTu_CDDMHCG.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>511</albumid>
+		<songid>6369</songid>
+		<name>Đấng uy quyền</name>
+		<artist>Ca Đoàn Đức Mẹ Hằng Cứu Giúp</artist>
+		<author>Chưa biết</author>
+		<album>Hãy Đến Cùng Giuse</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/HayDenCungGiuSe/08.DangUyQuyen__CDDMHCG.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>512</albumid>
+		<songid>6376</songid>
+		<name>Chúc tụng Thánh Giuse</name>
+		<artist>Ca Đoàn Đức Mẹ Hằng Cứu Giúp</artist>
+		<author>Hải Linh</author>
+		<album>Hãy Đến Cùng Giuse 2</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/HayDenCungGiuse2/03.ChucTungThanhGiuse_hl_CDDMHCG.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/HayDenCungGiuse2/ChucTungThanhGiuse_hl.pdf</pdf>
+	</song>
+	<song>
+		<albumid>512</albumid>
+		<songid>6381</songid>
+		<name>Cầu xin Thánh Giuse</name>
+		<artist>Ca Đoàn Đức Mẹ Hằng Cứu Giúp</artist>
+		<author>Lm. Phạm Đình Nhu - Nguyễn Khắc Tuần</author>
+		<album>Hãy Đến Cùng Giuse 2</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/HayDenCungGiuse2/08.CauXinThanhGiuse_pdn-nkt_CDDMHCG.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/HayDenCungGiuse2/CauXinThanhGia_pdn-nkt.pdf</pdf>
+	</song>
+	<song>
+		<albumid>512</albumid>
+		<songid>6382</songid>
+		<name>Trần thế mau chung lời (Thánh Giuse)</name>
+		<artist>Lê Quyền</artist>
+		<author>Lm. Kim Long</author>
+		<album>Hãy Đến Cùng Giuse 2</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/HayDenCungGiuse2/09.TranTheMauChungLoi_kl_CDDMHCG.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/HayDenCungGiuse2/ThanhGiuse_kl.pdf</pdf>
+	</song>
+	<song>
+		<albumid>512</albumid>
+		<songid>6374</songid>
+		<name>Hãy đến cùng Giuse</name>
+		<artist>Ca Đoàn Đức Mẹ Hằng Cứu Giúp</artist>
+		<author>Viết Chung</author>
+		<album>Hãy Đến Cùng Giuse 2</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/HayDenCungGiuse2/01.HayDenCungGiuse_vcg_CDDMHCG.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/HayDenCungGiuse2/HayDenCungGiuse_vcg.pdf</pdf>
+	</song>
+	<song>
+		<albumid>512</albumid>
+		<songid>6379</songid>
+		<name>Thánh Giuse bầu cử</name>
+		<artist>Ca Đoàn Đức Mẹ Hằng Cứu Giúp</artist>
+		<author>Hải Linh - Minh Đệ</author>
+		<album>Hãy Đến Cùng Giuse 2</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/HayDenCungGiuse2/06.ThanhGiuseBauCu_hl-md_CDDMHCG.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/HayDenCungGiuse2/GiuseBauCu_hl-md.pdf</pdf>
+	</song>
+	<song>
+		<albumid>512</albumid>
+		<songid>6385</songid>
+		<name>Bài ca chứng nhân</name>
+		<artist>Ca Đoàn Đức Mẹ Hằng Cứu Giúp</artist>
+		<author>Chưa biết</author>
+		<album>Hãy Đến Cùng Giuse 2</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/HayDenCungGiuse2/12.BaiCaChungNhan_CDDMHCG.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>512</albumid>
+		<songid>6386</songid>
+		<name>Gương Cha Giuse</name>
+		<artist>Ca Đoàn Đức Mẹ Hằng Cứu Giúp</artist>
+		<author>Chưa biết</author>
+		<album>Hãy Đến Cùng Giuse 2</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/HayDenCungGiuse2/13.GuongChaGiuse_CDDMHCG.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>512</albumid>
+		<songid>6378</songid>
+		<name>Xin dâng lời ca</name>
+		<artist>Thanh Bình</artist>
+		<author>Chưa biết</author>
+		<album>Hãy Đến Cùng Giuse 2</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/HayDenCungGiuse2/05.XinDangLoiCa_CDDMHCG.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>512</albumid>
+		<songid>6383</songid>
+		<name>Nào cùng vui lên</name>
+		<artist>Ca Đoàn Đức Mẹ Hằng Cứu Giúp</artist>
+		<author>Chưa biết</author>
+		<album>Hãy Đến Cùng Giuse 2</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/HayDenCungGiuse2/10.NaoCungVuiLen_CDDMHCG.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>512</albumid>
+		<songid>6380</songid>
+		<name>Thánh Giuse</name>
+		<artist>Ca Đoàn Đức Mẹ Hằng Cứu Giúp</artist>
+		<author>Chưa biết</author>
+		<album>Hãy Đến Cùng Giuse 2</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/HayDenCungGiuse2/07ThanhGiuse_CDDMHCG.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>512</albumid>
+		<songid>6375</songid>
+		<name>Thánh Giuse quan thầy Giáo hội</name>
+		<artist>Nhật Tân</artist>
+		<author>Chưa biết</author>
+		<album>Hãy Đến Cùng Giuse 2</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/HayDenCungGiuse2/02.ThanhGiuseQuanThayGiaoHoi_CDDMHCG.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>512</albumid>
+		<songid>6377</songid>
+		<name>Ôi! Thánh tổ phụ</name>
+		<artist>Ca Đoàn Đức Mẹ Hằng Cứu Giúp</artist>
+		<author>Chưa biết</author>
+		<album>Hãy Đến Cùng Giuse 2</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/HayDenCungGiuse2/04.OiThanhToPhu_CDDMHCG.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>523</albumid>
+		<songid>6545</songid>
+		<name>Ca mừng Thánh Nữ</name>
+		<artist>Gia Ân</artist>
+		<author>Lm. Nguyễn Duy</author>
+		<album>Gia Ân Vol.06 - Nhạc Sỹ Thiên Thần</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/GiaAnVol.06-NhacSyThienThan/10.CaMungThanhNu_nd_GiaAn.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>523</albumid>
+		<songid>6542</songid>
+		<name>Cecillia Nhạc sỹ Thiên thần</name>
+		<artist>Gia Ân</artist>
+		<author>Xuân Thu</author>
+		<album>Gia Ân Vol.06 - Nhạc Sỹ Thiên Thần</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/GiaAnVol.06-NhacSyThienThan/07.CecilliaNhacSyThienThan_xt_GiaAn.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/GiaAnVol.06-NhacSyThienThan/CeciliaNhacSyThienThan_xt.pdf</pdf>
+	</song>
+	<song>
+		<albumid>523</albumid>
+		<songid>6538</songid>
+		<name>Cecillia</name>
+		<artist>Gia Ân</artist>
+		<author>Lê Quang Ánh</author>
+		<album>Gia Ân Vol.06 - Nhạc Sỹ Thiên Thần</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/GiaAnVol.06-NhacSyThienThan/03.Cecillia_lqa_GiaAn.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>551</albumid>
+		<songid>6890</songid>
+		<name>Những Bước Chân Vượt Qua (Mừng Sinh Nhật I - Website TCVN)</name>
+		<artist>Tốp Ca Thanh An</artist>
+		<author>Lm. Nguyễn Duy</author>
+		<album>Gioan Phaolô II</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/Albums/SinhNhatI/NhungNuocChanVuotQua_nd_TopCaThanhAn.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/Albums/SinhNhatI/NhungBuocChanVuotQua_nd.pdf</pdf>
+	</song>
+	<song>
+		<albumid>574</albumid>
+		<songid>7140</songid>
+		<name>Thánh Martino Poret</name>
+		<artist>Trung Đông</artist>
+		<author>Lm. Mạnh Hùng, OP</author>
+		<album>Trung Đông Thiên Đường Ca 2 - Tâm Tình Tri Ân</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TrungDongTDC2-TamTinhTriAn/08.ThanhMartinoPoret_mh_TrungDong.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>574</albumid>
+		<songid>7143</songid>
+		<name>Giuse, chuyện về Người</name>
+		<artist>Trung Đông</artist>
+		<author>Thế Thông</author>
+		<album>Trung Đông Thiên Đường Ca 2 - Tâm Tình Tri Ân</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TrungDongTDC2-TamTinhTriAn/11.GiuseChuyenVeNguoi_tth_TrungDong.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/TrungDongTDC2-TamTinhTriAn/Giuse,ChuyenVeNguoi_tt.pdf</pdf>
+	</song>
+	<song>
+		<albumid>589</albumid>
+		<songid>7289</songid>
+		<name>Giuse, chuyện về Người</name>
+		<artist>Phi Nguyễn</artist>
+		<author>Thế Thông</author>
+		<album>Trọn Cuộc Tình Si</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TronCuocTinhSi/11.GiuseChuyenVeNguoi_tth_PhiNguyen.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/TronCuocTinhSi/GiuseChuyenVeNguoi_tth.pdf</pdf>
+	</song>
+	<song>
+		<albumid>590</albumid>
+		<songid>4841</songid>
+		<name>Con đã tìm thấy</name>
+		<artist>Trần Tươi - Tam Ca Bông Hồng Nhỏ</artist>
+		<author>Sr. Trầm Hương, FMSR</author>
+		<album>Trầm Hương Vol.01 - Chúa Vẫn Yêu Con</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TramHuongVol.01-ChuaVanYeuCon/04.ConDaTimThay_th_TranTuoi-TamCaBongHongNho.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/TramHuongVol.01-ChuaVanYeuCon/ConDaTimThay_th.pdf</pdf>
+	</song>
+	<song>
+		<albumid>591</albumid>
+		<songid>7295</songid>
+		<name>Thánh Têrêsa</name>
+		<artist>Hợp Ca (Lê Hồng - Ngọc Lễ... Bảo Tịnh)</artist>
+		<author>Trần Ngân</author>
+		<album>Đóa Hồng Tươi Nở</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/DoaHongTuoiNo/01.ThanhTeresa_trn_HopCa.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/DoaHongTuoiNoi/ThanhNuTeresa_tn.pdf</pdf>
+	</song>
+	<song>
+		<albumid>591</albumid>
+		<songid>7300</songid>
+		<name>Khúc hát một loài hoa</name>
+		<artist>Hợp Ca (Lê Hồng - Ngọc Lễ... Bảo Tịnh)</artist>
+		<author>Lm. Ân Đức</author>
+		<album>Đóa Hồng Tươi Nở</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/DoaHongTuoiNo/06.KhucHatMotLoaiHoa_ad_HopCa.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/DoaHongTuoiNo/KhucHatMotLoaiHoa_ad.pdf</pdf>
+	</song>
+	<song>
+		<albumid>591</albumid>
+		<songid>7297</songid>
+		<name>Cung điện nhà Chúa</name>
+		<artist>Hợp Ca (Lê Hồng - Ngọc Lễ... Bảo Tịnh)</artist>
+		<author>Bảo Tịnh</author>
+		<album>Đóa Hồng Tươi Nở</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/DoaHongTuoiNo/03.CungDienNhaChua_bt_HopCa.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/DoaHongTuoiNo/CungDienNhaChua_bt.pdf</pdf>
+	</song>
+	<song>
+		<albumid>591</albumid>
+		<songid>7296</songid>
+		<name>Biết đến bao giờ</name>
+		<artist>Hợp Ca (Lê Hồng - Ngọc Lễ... Bảo Tịnh)</artist>
+		<author>Bảo Tịnh - Trầm Hương FMSR</author>
+		<album>Đóa Hồng Tươi Nở</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/DoaHongTuoiNo/02.BietDenBaoGio_bt-th_HopCa.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/DoaHongTuoiNo/BietDenBaoGio_bt-th.pdf</pdf>
+	</song>
+	<song>
+		<albumid>615</albumid>
+		<songid>7537</songid>
+		<name>Cầu nguyện Thánh Giuse - Đấng bảo hộ</name>
+		<artist>Ban Hợp Xướng Suối Việt</artist>
+		<author>Nguyễn Đức Nghị</author>
+		<album>Sống Đạo</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-256/SongDao/12.CauNguyenThanhGiuse-DangBaoHo_ndn_HopCa.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-256/SongDao/CauNguyenThanhGiuse-DangBaoHo_ndn.pdf</pdf>
+	</song>
+	<song>
+		<albumid>621</albumid>
+		<songid>7602</songid>
+		<name>Thánh Đức Phanxicô Trương Bửu Diệp</name>
+		<artist>Khánh Ly</artist>
+		<author>Xuân Điềm</author>
+		<album>Con Có Một Tổ Quốc - Xuân Điềm 8</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ConCoMotToQuoc-XuanDiem8/06.ThanhDucPhanxicoTruongBuuDiep_xd_KhanhLy.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>622</albumid>
+		<songid>7618</songid>
+		<name>Theo gương Thánh Gia</name>
+		<artist>Trọng Tín</artist>
+		<author>Lm. Vương Diệu</author>
+		<album>Mẹ Chúa Trời</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/MeChuaTroi/10.TheoGuongThanhGia_vd_TrongTin.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>631</albumid>
+		<songid>7724</songid>
+		<name>Đóa hoa hồng</name>
+		<artist>Ca Đoàn Đức Mẹ Hằng Cứu Giúp</artist>
+		<author>Lm. Oanh Sông Lam</author>
+		<album>Vinh Danh Chúa</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/Albums/VinhDanhChua/10.DoaHoaHong_osl_CDDMHCG.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>634</albumid>
+		<songid>7760</songid>
+		<name>Tình yêu đáp lại tình yêu</name>
+		<artist>Ca Đoàn Phục Sinh</artist>
+		<author>Lm. Phương Anh</author>
+		<album>Hạt Giống Trong Lòng Đất Mẹ</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/HatGiongTrongLongDatMe/12.TinhYeuDapLaiTinhYeu_pa_CaDoanPhucSinh.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/HatGiongTrongLongDatMe/TinhYeuDapLaiTinhYeu_pa.pdf</pdf>
+	</song>
+	<song>
+		<albumid>634</albumid>
+		<songid>7754</songid>
+		<name>Hạt giống trong lòng đất Mẹ</name>
+		<artist>Khánh Duy</artist>
+		<author>Lm. Phương Anh</author>
+		<album>Hạt Giống Trong Lòng Đất Mẹ</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/HatGiongTrongLongDatMe/06.HatGiongTrongLongDatMe_pa_KhanhDuy.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/HatGiongTrongLongDatMe/HatGiongTrongLongDatMe_pa.pdf</pdf>
+	</song>
+	<song>
+		<albumid>634</albumid>
+		<songid>7758</songid>
+		<name>Cùng dâng hoa quả đầu mùa</name>
+		<artist>Ca Đoàn Phục Sinh</artist>
+		<author>Lm. Phương Anh</author>
+		<album>Hạt Giống Trong Lòng Đất Mẹ</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/HatGiongTrongLongDatMe/10.CungDangHoaQuaDauMua_pa_CaDoanPhucSinh.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/HatGiongTrongLongDatMe/CungDangLenHoaQuaDauMua_pa.pdf</pdf>
+	</song>
+	<song>
+		<albumid>634</albumid>
+		<songid>7759</songid>
+		<name>Thầy Anrê Phú Yên và giấc mơ tuổi trẻ</name>
+		<artist>Cao Duy</artist>
+		<author>Lm. Phương Anh</author>
+		<album>Hạt Giống Trong Lòng Đất Mẹ</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/HatGiongTrongLongDatMe/11.ThayAndreVaGiacMoTuoiTre_pa_CaoDuy.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/HatGiongTrongLongDatMe/ThayAnrePhuYenVaGiacMoTuoiTre_pa.pdf</pdf>
+	</song>
+	<song>
+		<albumid>635</albumid>
+		<songid>7777</songid>
+		<name>Những bước chân vượt qua</name>
+		<artist>Tốp Ca Thanh An</artist>
+		<author>Lm. Nguyễn Duy</author>
+		<album>Tôn Vinh Lòng Thương Xót Chúa</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/CD-TCVN-AH/TonVinhLongThuongXotChua/12.NhungNuocChanVuotQua_nd_TopCaThanhAn.mp3</audio>
+		<pdf>http://thanhcavietnam.net/CD-TCVN-AH/TonVinhLongThuongXotChua/NhungBuocChanVuotQua_nd.pdf</pdf>
+	</song>
+	<song>
+		<albumid>635</albumid>
+		<songid>7776</songid>
+		<name>Gioan Phaolô II Ca sỹ của tình thương</name>
+		<artist>Diệu Hiền - Y Jang Tuyn</artist>
+		<author>Lm. Nguyễn Duy</author>
+		<album>Tôn Vinh Lòng Thương Xót Chúa</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/CD-TCVN-AH/TonVinhLongThuongXotChua/11.GioanPhaoloIICaSyCuaTinhThuong_nd_DieuHien-YJangTuyn.mp3</audio>
+		<pdf>http://thanhcavietnam.net/CD-TCVN-AH/TonVinhLongThuongXotChua/GioanPhaoloIICaSiCuaTinhThuong_nd.pdf</pdf>
+	</song>
+	<song>
+		<albumid>637</albumid>
+		<songid>7797</songid>
+		<name>Kinh đêm</name>
+		<artist>Tấn Đạt</artist>
+		<author>Thế Thông</author>
+		<album>Hòa Khúc Tạ Ơn</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/HoaKhucTaOn/07.KinhDem_tth_TanDat.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/HoaKhucTaOn/KinhDem_tth.pdf</pdf>
+	</song>
+	<song>
+		<albumid>667</albumid>
+		<songid>8127</songid>
+		<name>Giuse, Người âm thầm</name>
+		<artist>Mỹ Huyền</artist>
+		<author>Hoàng Kim Quý</author>
+		<album>Lời Nguyện Trong Đêm - MNK 22</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/LoiNguyenTrongDem-MNKCD22/10.GiuseNguoiAmTham_hkq_MyHuyen.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/LoiNguyenTrongDem-MNKCD22/GiuseNguoiAmTham_hkq.pdf</pdf>
+	</song>
+	<song>
+		<albumid>681</albumid>
+		<songid>8274</songid>
+		<name>Hãy đến với Giuse</name>
+		<artist>Khánh Duy</artist>
+		<author>Quốc Thái</author>
+		<album>Bước Thời Gian</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/BuocThoiGian/12.HayDenVoiGiuse_qt_KhanhDuy.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>709</albumid>
+		<songid>6388</songid>
+		<name>Người trong xóm nhỏ</name>
+		<artist>Quốc Triều</artist>
+		<author>Tuấn Kim - Thơ: ĐÔ. Xuân Ly Băng</author>
+		<album>Cát Bụi 1 - Tuấn Kim</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-256/CatBui1/10.NguoiTrongXomNho_tk-xlb_QuocTrieu.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-256/CatBui1/NguoiTrongXomNho_tk-xlb.pdf</pdf>
+	</song>
+	<song>
+		<albumid>713</albumid>
+		<songid>8591</songid>
+		<name>Khúc hát một loài hoa</name>
+		<artist>Sr. Minh Hiền</artist>
+		<author>Lm. Ân Đức</author>
+		<album>Khúc Hát Một Loài Hoa - Sr. Minh Hiền</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/KhucHatMotLoaiHoa/4.KhucHatMotLoaiHoa_ad_MinhHien.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/KhucHatMotLoaiHoa/KhucHatMotLoaiHoa_ad.pdf</pdf>
+	</song>
+	<song>
+		<albumid>714</albumid>
+		<songid>8601</songid>
+		<name>Giuse, chuyện về Người</name>
+		<artist>Phi Nguyễn</artist>
+		<author>Thế Thông</author>
+		<album>Phi Nguyễn Vol. 06 - Thánh Ca Tuyển Chọn</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/PhiNguyenVol.06-ThanhCaTuyenChon/07.GiuseChuyenVeNguoi_tth_PhiNguyen.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/PhiNguyenVol.06-ThanhCaTuyenChon/GiuseChuyenVeNguoi_tth.pdf</pdf>
+	</song>
+	<song>
+		<albumid>715</albumid>
+		<songid>8614</songid>
+		<name>Giuse dấu yêu</name>
+		<artist>Mỹ Dung</artist>
+		<author>Lm. Tri Ân Ca</author>
+		<album>Cho Con Giống Chúa</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ChoConGiongChua/08.GiuseDauYeu_tac_MyDung.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>715</albumid>
+		<songid>8610</songid>
+		<name>Thánh Martino</name>
+		<artist>Diệu Hiền</artist>
+		<author>Lm. Tri Ân Ca</author>
+		<album>Cho Con Giống Chúa</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ChoConGiongChua/04.ThanhMartino_tac_DieuHien.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>715</albumid>
+		<songid>8618</songid>
+		<name>Tinh thần Legio - Maria</name>
+		<artist>Diệu Hiền - Kim Cúc - Chí Trung - Trần Ngọc</artist>
+		<author>Lm. Tri Ân Ca</author>
+		<album>Cho Con Giống Chúa</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ChoConGiongChua/12.TinhThanLegioMaria_tac_DieuHien-KimCuc-ChiTrung-TranNgoc.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>719</albumid>
+		<songid>8668</songid>
+		<name>Gương Mẹ Teresa</name>
+		<artist>Ly Yên</artist>
+		<author>Phạm Vĩnh Sơn - Ý thơ: Phong Thi</author>
+		<album>Cây Bút Chì Trong Tay Chúa</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/CayButChiTrongTayChua/09.GuongMeTeresa_pvs-pt_LyYen.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>722</albumid>
+		<songid>8705</songid>
+		<name>Gioan Phaolô II Ca sỹ của tình thương</name>
+		<artist>Thanh Sử</artist>
+		<author>Lm. Nguyễn Duy</author>
+		<album>Lắng Nghe Lời Chúa</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/LangNgheLoiChua/10.GioanPhaoloIICaSiCuaTinhThuong_nd_ThanhSu.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/LangNgheLoiChua/GioanPhaoloIICaSiCuaTinhThuong_nd.pdf</pdf>
+	</song>
+	<song>
+		<albumid>724</albumid>
+		<songid>8727</songid>
+		<name>Nguyện xin Thánh Gia (Giuse xóm nhỏ)</name>
+		<artist>Trần Thanh Huyền - Trần Ngọc</artist>
+		<author>Lm. Phạm Đình Nhu - Nguyễn Khắc Tuần</author>
+		<album>Bài Thánh Ca Maria - Lời Trầm Con Dâng 2</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/LTCD2-BaiThanhCaMaria/13.NguyenXinThanhGia_pdn-nkt_ThanhHuyen-TranNgoc.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/LTCD2-BaiThanhCaMaria/GiuseXomNho_pdn-nkt.pdf</pdf>
+	</song>
+	<song>
+		<albumid>724</albumid>
+		<songid>8726</songid>
+		<name>Lạy Thánh Giuse</name>
+		<artist>Trần Thanh Huyền - Trần Ngọc</artist>
+		<author>Minh Đệ</author>
+		<album>Bài Thánh Ca Maria - Lời Trầm Con Dâng 2</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/LTCD2-BaiThanhCaMaria/12.LayThanhGiuse_md_ThanhHuyen-TranNgoc.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/LTCD2-BaiThanhCaMaria/LayThanhGiuse_md.pdf</pdf>
+	</song>
+	<song>
+		<albumid>749</albumid>
+		<songid>9014</songid>
+		<name>Thánh cả Giuse</name>
+		<artist>Lm. Nguyễn Sang</artist>
+		<author>Lm. Trường Linh</author>
+		<album>Chỉ Vì Tình Yêu</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ChiViTinhYeu/11.ThanhCaGiuse_tl_Lm.NguyenSang.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>801</albumid>
+		<songid>9612</songid>
+		<name>Cha Thánh Giuse</name>
+		<artist>Song Ca</artist>
+		<author>Vinam</author>
+		<album>Cảm Tạ Tri Ân</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/CamTaTriAn/09.ChaThanhGiuse_v_SongCa.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/CamTaTriAn/ChaThanhGiuse_v.pdf</pdf>
+	</song>
+	<song>
+		<albumid>805</albumid>
+		<songid>9658</songid>
+		<name>Con thuyền Phêrô</name>
+		<artist>Tuấn Dũng - Thanh Tuyền</artist>
+		<author>Thế Thông - Lời: Miên Ly</author>
+		<album>Khúc Tri Ân</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/KhucTriAn/09.ConThuyenPhero_tt-ml_TuanDung-ThanhTuyen.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/KhucTriAn/ConThuyenPhero_tt-ml.pdf</pdf>
+	</song>
+	<song>
+		<albumid>820</albumid>
+		<songid>9892</songid>
+		<name>Lưu danh thiên thu</name>
+		<artist>Ca Đoàn Sao Mai</artist>
+		<author>Lm. Kim Long</author>
+		<album>Ca Vang Suốt Đời</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/CaVangSuotDoi/12.LuuDanhThienThu_kl_CaDoanSaoMai.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/CaVangSuotDoi/LuuDanhThienThu_kl.pdf</pdf>
+	</song>
+	<song>
+		<albumid>833</albumid>
+		<songid>10054</songid>
+		<name>Bài ca ngàn trùng</name>
+		<artist>Hợp Ca</artist>
+		<author>Lm. Kim Long</author>
+		<album>Theo Bước Chân Người</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TheoBuocChanNguoi/06.BaiCaNganTrung_kl_HopCa.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/TheoBuocChanNguoi/BaiCaNganTrung_kl.pdf</pdf>
+	</song>
+	<song>
+		<albumid>833</albumid>
+		<songid>10056</songid>
+		<name>Lòng trung thành (Lòng trung nghĩa)</name>
+		<artist>Hợp Ca</artist>
+		<author>Nguyễn Bang Hanh</author>
+		<album>Theo Bước Chân Người</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TheoBuocChanNguoi/08.LongTrungThanh_nbh_HopCa.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/TheoBuocChanNguoi/LongTrungNghia_nbh.pdf</pdf>
+	</song>
+	<song>
+		<albumid>833</albumid>
+		<songid>10057</songid>
+		<name>Anh hùng Tử Đạo</name>
+		<artist>Hợp Ca</artist>
+		<author>Hồ Khanh - Minh Hương</author>
+		<album>Theo Bước Chân Người</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TheoBuocChanNguoi/09.AnhHungTuDao_hk-mh_HopCa.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/TheoBuocChanNguoi/AnhHungTuDao_hk-mh.pdf</pdf>
+	</song>
+	<song>
+		<albumid>833</albumid>
+		<songid>10049</songid>
+		<name>Tình nào lớn hơn</name>
+		<artist>Hợp Ca</artist>
+		<author>Lm. Ân Đức</author>
+		<album>Theo Bước Chân Người</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TheoBuocChanNguoi/01.TinhNaoLonHon_ad_HopCa.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/TheoBuocChanNguoi/TinhNaoLonHon_ad.pdf</pdf>
+	</song>
+	<song>
+		<albumid>833</albumid>
+		<songid>10053</songid>
+		<name>Theo Chúa và thân phận (Theo Chúa)</name>
+		<artist>Hợp Ca</artist>
+		<author>Lm. Phương Anh</author>
+		<album>Theo Bước Chân Người</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TheoBuocChanNguoi/05.TheoChuaVaThanPhan_pa_HopCa.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/TheoBuocChanNguoi/TheoChua_pa.pdf</pdf>
+	</song>
+	<song>
+		<albumid>840</albumid>
+		<songid>10151</songid>
+		<name>Thánh Martino</name>
+		<artist>Mai Thảo - Hợp Ca</artist>
+		<author>Marie Gentille Thanh Đan</author>
+		<album>Tình Yêu Hy Hiến</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TinhYeuHyHien/09.ThanhMartino_mgtd_MaiThao-HopCa.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>840</albumid>
+		<songid>10150</songid>
+		<name>Thánh Phụ Đa Minh</name>
+		<artist>Nguyễn Sơn</artist>
+		<author>Marie Gentille Thanh Đan</author>
+		<album>Tình Yêu Hy Hiến</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TinhYeuHyHien/08.ThanhPhuDaMinh_mgtd_NguyenSon.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>840</albumid>
+		<songid>10152</songid>
+		<name>Thánh Catarina</name>
+		<artist>Mai Thảo</artist>
+		<author>Marie Gentille Thanh Đan</author>
+		<album>Tình Yêu Hy Hiến</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TinhYeuHyHien/10.ThanhCatarina_mgtd_MaiThao.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>846</albumid>
+		<songid>10238</songid>
+		<name>Thánh Lê Thị Thành</name>
+		<artist>Lê Anh</artist>
+		<author>Phạm Vĩnh Sơn</author>
+		<album>Thánh Giá Đời</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/ThanhGiaDoi/13.ThanhLeThiThanh_pvs_LeAnh.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>850</albumid>
+		<songid>10308</songid>
+		<name>Thánh Giuse Quan Thầy Giáo Hội</name>
+		<artist>Thanh Ngọc</artist>
+		<author>Lm. Quý Báu</author>
+		<album>Canh Tân Trong Thánh Thần</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/CanhTanTrongThanhThan/10.ThanhGiuseQuanThayGiaoHoi_qb_ThanhNgoc.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>852</albumid>
+		<songid>10326</songid>
+		<name>Tình yêu đáp đền tình yêu</name>
+		<artist>Thanh Sử</artist>
+		<author>Lê Việt Dũng</author>
+		<album>Tình Yêu Đáp Đền Tình Yêu</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TinhYeuDapDenTinhYeu/04.TinhYeuDapDenTinhYeu_lvd_ThanhSu.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/TinhYeuDapDenTinhYeu/TinhYeuDapDenTinhYeu_lvd.pdf</pdf>
+	</song>
+	<song>
+		<albumid>860</albumid>
+		<songid>10450</songid>
+		<name>Hiến thân vì yêu</name>
+		<artist>Xuân Trường</artist>
+		<author>Lm. Thanh Yên</author>
+		<album>Lửa Nóng Tình Yêu</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/LuaNongTinhYeu/04.HienThanViYeu_thy_XuanTruong.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>860</albumid>
+		<songid>10455</songid>
+		<name>Vang tiếng ca</name>
+		<artist>Trần Ngọc</artist>
+		<author>Lm. Thanh Yên</author>
+		<album>Lửa Nóng Tình Yêu</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/LuaNongTinhYeu/10.VangTiengCa_thy_TranNgoc.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>862</albumid>
+		<songid>10477</songid>
+		<name>Niềm tin kiêu hùng</name>
+		<artist>Trần Thanh Huyền</artist>
+		<author>Lm. Mi Trầm</author>
+		<album>Khúc Hồng Ân - Lời Trầm Con Dâng 3</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/LTCD3-KhucHongAn/11.NiemTinKieuHung_mt_TranThanhHuyen.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/LTCD3-KhucHongAn/NiemTinKieuHung_mt.pdf</pdf>
+	</song>
+	<song>
+		<albumid>862</albumid>
+		<songid>10478</songid>
+		<name>Đoàn hùng anh</name>
+		<artist>Trần Thanh Huyền</artist>
+		<author>Thiên Quang</author>
+		<album>Khúc Hồng Ân - Lời Trầm Con Dâng 3</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/LTCD3-KhucHongAn/12.DoanHungAnh_tq_TranThanhHuyen.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>871</albumid>
+		<songid>10604</songid>
+		<name>Tình yêu đáp trả tình yêu</name>
+		<artist>Lam Phương - Đình Khôi</artist>
+		<author>Lm. Sơn Ca Linh - Lời: Lm. Võ Tá Khánh</author>
+		<album>Tình Yêu Đáp Trả Tình Yêu</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TinhYeuDapTraTinhYeu/09.TinhYeuDapTraTinhYeu_scl_LamPhuong-DinhKhoi.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/TinhYeuDapTraTinhYeu/TinhYeuDapTraTinhYeu_scl-vtk.pdf</pdf>
+	</song>
+	<song>
+		<albumid>871</albumid>
+		<songid>10605</songid>
+		<name>Mừng vui lên Giáo Hội Việt Nam</name>
+		<artist>Gia Ân</artist>
+		<author>Lm. Sơn Ca Linh</author>
+		<album>Tình Yêu Đáp Trả Tình Yêu</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TinhYeuDapTraTinhYeu/10.MungVuiLenGiaoHoiVietNam_scl_GiaAn.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>871</albumid>
+		<songid>10601</songid>
+		<name>Đoàn dân khải hoàn</name>
+		<artist>Ca Đoàn Sao Mai</artist>
+		<author>Lm. Sơn Ca Linh</author>
+		<album>Tình Yêu Đáp Trả Tình Yêu</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TinhYeuDapTraTinhYeu/06.DoanDanKhaiHoan_scl_CaDoanSaoMai.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/TinhYeuDapTraTinhYeu/DoanDanKhaiHoan_scl.pdf</pdf>
+	</song>
+	<song>
+		<albumid>871</albumid>
+		<songid>10608</songid>
+		<name>Những người con được Cha chúc lành</name>
+		<artist>Ca Đoàn Sao Mai</artist>
+		<author>Lm. Sơn Ca Linh</author>
+		<album>Tình Yêu Đáp Trả Tình Yêu</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TinhYeuDapTraTinhYeu/13.NhungNguoiConDuocChaChucLanh_scl_CaDoanSaoMai.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/TinhYeuDapTraTinhYeu/NhungNguoiConDuocChaChucLanh_scl.pdf</pdf>
+	</song>
+	<song>
+		<albumid>871</albumid>
+		<songid>10597</songid>
+		<name>Bước chân nhân chứng</name>
+		<artist>Ca Đoàn Sao Mai</artist>
+		<author>Lm. Sơn Ca Linh</author>
+		<album>Tình Yêu Đáp Trả Tình Yêu</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TinhYeuDapTraTinhYeu/02.BuocChanNhanChung_scl_CaDoanSaoMai.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>871</albumid>
+		<songid>10603</songid>
+		<name>Các con là nhân chứng</name>
+		<artist>Ca Đoàn Sao Mai</artist>
+		<author>Lm. Sơn Ca Linh</author>
+		<album>Tình Yêu Đáp Trả Tình Yêu</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TinhYeuDapTraTinhYeu/08.CacConLaNhanChung_scl_CaDoanSaoMai.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/TinhYeuDapTraTinhYeu/CacNguoiLaNhanChung_scl.pdf</pdf>
+	</song>
+	<song>
+		<albumid>871</albumid>
+		<songid>10602</songid>
+		<name>Bất diệt</name>
+		<artist>Mai Thảo</artist>
+		<author>Lm. Sơn Ca Linh</author>
+		<album>Tình Yêu Đáp Trả Tình Yêu</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TinhYeuDapTraTinhYeu/07.BatDiet_scl_MaiThao.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/TinhYeuDapTraTinhYeu/BatDiet_scl.pdf</pdf>
+	</song>
+	<song>
+		<albumid>871</albumid>
+		<songid>10598</songid>
+		<name>Nhớ về Tiên Tổ chứng nhân</name>
+		<artist>Lam Phương</artist>
+		<author>Lm. Sơn Ca Linh</author>
+		<album>Tình Yêu Đáp Trả Tình Yêu</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TinhYeuDapTraTinhYeu/03.NhoVeTienToChungNhan_scl_LamPhuong.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/TinhYeuDapTraTinhYeu/NhoVeTienToChungNhan_scl.pdf</pdf>
+	</song>
+	<song>
+		<albumid>871</albumid>
+		<songid>10607</songid>
+		<name>Ngợi ca Chân Phước Anrê Phú Yên</name>
+		<artist>Thanh Trúc</artist>
+		<author>Lm. La Thập Tự</author>
+		<album>Tình Yêu Đáp Trả Tình Yêu</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TinhYeuDapTraTinhYeu/12.NgoiCaChanPhuocAnrePhuYen_ltt_ThanhTruc.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>871</albumid>
+		<songid>10606</songid>
+		<name>Ta sẽ cho kẻ chiến thắng</name>
+		<artist>Tốp Nữ Ca Đoàn Sao Mai</artist>
+		<author>Lm. Sơn Ca Linh</author>
+		<album>Tình Yêu Đáp Trả Tình Yêu</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TinhYeuDapTraTinhYeu/11.TaSeChoKeChienThang_scl_TopNuCaDoanSaoMai.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/TinhYeuDapTraTinhYeu/TaSeChoKeChienThang_scl.pdf</pdf>
+	</song>
+	<song>
+		<albumid>871</albumid>
+		<songid>10600</songid>
+		<name>Tôn vinh Á Thánh Anrê Phú Yên</name>
+		<artist>Gia Ân</artist>
+		<author>Lm. Sơn Ca Linh</author>
+		<album>Tình Yêu Đáp Trả Tình Yêu</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TinhYeuDapTraTinhYeu/05.TonVinhAThanhAnrePhuYen_scl_GiaAn.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/TinhYeuDapTraTinhYeu/TonVinhAThanhAnrePhuYen_scl.pdf</pdf>
+	</song>
+	<song>
+		<albumid>871</albumid>
+		<songid>10599</songid>
+		<name>Thân lạy Á Thánh Anrê</name>
+		<artist>Ca Đoàn Sao Mai</artist>
+		<author>Lm. Ánh Đăng</author>
+		<album>Tình Yêu Đáp Trả Tình Yêu</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TinhYeuDapTraTinhYeu/04.ThanLayAThanhAnre_ad_CaDoanSaoMai.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/TinhYeuDapTraTinhYeu/ThanLayAThanhAnre_ad.pdf</pdf>
+	</song>
+	<song>
+		<albumid>879</albumid>
+		<songid>10691</songid>
+		<name>Khúc hát một loài hoa</name>
+		<artist>Kim Cúc - Đức Thiện</artist>
+		<author>Lm. Ân Đức</author>
+		<album>Dâng Ngài Tình Con - Đức Thiện Vol.2</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/DangNgaiTinhCon-DucThienVol.2/02.KhucHatMotLoaiHoa_ad_KimCuc-DucThien.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/DangNgaiTinhCon-DucThienVol.2/KhucHatMotLoaiHoa_ad.pdf</pdf>
+	</song>
+	<song>
+		<albumid>889</albumid>
+		<songid>10834</songid>
+		<name>Các Thánh Tử Đạo Việt Nam</name>
+		<artist>Ca Đoàn Sao Mai</artist>
+		<author>Lm. Giuse Vũ Đức Hiệp</author>
+		<album>Khúc Ca Tạ Ơn 2</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-256/KhucCaTaOn2/10.CacThanhTuDaoVietNam_vdh_CaDoanSaoMai.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>889</albumid>
+		<songid>10833</songid>
+		<name>Bài ca Giuse</name>
+		<artist>Lm. Giuse Vũ Đức Hiệp - Ca Đoàn Sao Mai</artist>
+		<author>Lm. Giuse Vũ Đức Hiệp</author>
+		<album>Khúc Ca Tạ Ơn 2</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-256/KhucCaTaOn2/09.BaiCaGiuse_vdh_LmDucHiep-CaDoanSaoMai.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>889</albumid>
+		<songid>10832</songid>
+		<name>Thánh Nữ Anne Lê Thị Thành</name>
+		<artist>Ca Đoàn Sao Mai</artist>
+		<author>Lm. Giuse Vũ Đức Hiệp</author>
+		<album>Khúc Ca Tạ Ơn 2</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-256/KhucCaTaOn2/08.ThanhNuAnneLeThiThanh_vdh_CaDoanSaoMai.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>933</albumid>
+		<songid>11391</songid>
+		<name>Kinh cầu Thánh Phanxicô</name>
+		<artist>Ca Đoàn Thánh Gia Springvale Australia</artist>
+		<author>Sebastian Temple - Lời Việt: Trần Duy</author>
+		<album>Tình Chúa Tình Quê Hương</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TinhChuaTinhQueHuong/08.KinhCauThanhPhanxico_ST-LVtd_CaDoanThanhGia.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/TinhChuaTinhQueHuong/KinhCauThanhPhanxico_ST-LVtd.pdf</pdf>
+	</song>
+	<song>
+		<albumid>945</albumid>
+		<songid>10879</songid>
+		<name>Gioan Tiền Hô</name>
+		<artist>Lê Anh</artist>
+		<author>Mai Nguyên Vũ</author>
+		<album>Bài hát của Nhạc sỹ: Mai Nguyên Vũ</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/BaiHatMembers/LeAnh/GioanTienHo_mnv_LeAnh.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/BaiHatMembers/LeAnh/GioanTienHo_mnv.pdf</pdf>
+	</song>
+	<song>
+		<albumid>945</albumid>
+		<songid>13667</songid>
+		<name>Thánh Phaolô Tông Đồ</name>
+		<artist>Anh Phương</artist>
+		<author>Mai Nguyên Vũ</author>
+		<album>Bài hát của Nhạc sỹ: Mai Nguyên Vũ</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/TacGia/MaiNguyenVu/ThanhPhaoloTongDo_mnv_AnhPhuong.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/TacGia/MaiNguyenVu/ThanhPhaoloTongDo_mnv.pdf</pdf>
+	</song>
+	<song>
+		<albumid>947</albumid>
+		<songid>9816</songid>
+		<name>Đàn ca lên</name>
+		<artist>Ca Đoàn Thiên Thanh</artist>
+		<author>Hải Ánh</author>
+		<album>Bài hát của Nhạc sỹ: Hải Ánh</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/TacGia/HaiAnh/DanCaLen_ha_CaDoanThienThanh.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/TacGia/HaiAnh/DanCaLen_ha.pdf</pdf>
+	</song>
+	<song>
+		<albumid>947</albumid>
+		<songid>13838</songid>
+		<name>Các Thánh hiển vinh</name>
+		<artist>Ca Đoàn Thiên Thanh</artist>
+		<author>Hải Ánh</author>
+		<album>Bài hát của Nhạc sỹ: Hải Ánh</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/TacGia/HaiAnh/CacThanhHienVinh_ha_CaDoanThienThanh.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/TacGia/HaiAnh/CacThanhHienVinh_ha.pdf</pdf>
+	</song>
+	<song>
+		<albumid>947</albumid>
+		<songid>13627</songid>
+		<name>Bài ca vinh thắng</name>
+		<artist>Ca Đoàn Thiên Thanh</artist>
+		<author>Hải Ánh</author>
+		<album>Bài hát của Nhạc sỹ: Hải Ánh</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/TacGia/HaiAnh/BaiCaVinhThang_ha_CaDoanThienThanh.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/TacGia/HaiAnh/BaiCaVinhThang_ha.pdf</pdf>
+	</song>
+	<song>
+		<albumid>947</albumid>
+		<songid>13859</songid>
+		<name>Thánh Nữ Têrêsa Hài Đồng</name>
+		<artist>Ca Đoàn Thiên Thanh (Tốp Nữ)</artist>
+		<author>Hải Ánh</author>
+		<album>Bài hát của Nhạc sỹ: Hải Ánh</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/TacGia/HaiAnh/ThanhNuTeresaHaiDong_ha_CaDoanThienThanh.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/TacGia/HaiAnh/ThanhNuTeresaHaiDong_ha.pdf</pdf>
+	</song>
+	<song>
+		<albumid>947</albumid>
+		<songid>13836</songid>
+		<name>Lạy Thánh Cả Giuse</name>
+		<artist>Ca Đoàn Thiên Thanh</artist>
+		<author>Hải Ánh</author>
+		<album>Bài hát của Nhạc sỹ: Hải Ánh</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/TacGia/HaiAnh/LayThanhCaGiuse_ha_CaDoanThienThanh.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/TacGia/HaiAnh/LayThanhCaGiuse_ha.pdf</pdf>
+	</song>
+	<song>
+		<albumid>947</albumid>
+		<songid>13857</songid>
+		<name>Mừng kính Thánh Monica</name>
+		<artist>Ca Đoàn Thiên Thanh (Tốp Nữ)</artist>
+		<author>Hải Ánh</author>
+		<album>Bài hát của Nhạc sỹ: Hải Ánh</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/TacGia/HaiAnh/MungKinhThanhMonica_ha_CaDoanThienThanh.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/TacGia/HaiAnh/MungKinhThanhMonica_ha.pdf</pdf>
+	</song>
+	<song>
+		<albumid>947</albumid>
+		<songid>12249</songid>
+		<name>Ai cao trọng</name>
+		<artist>Trần Ngọc</artist>
+		<author>Hải Ánh</author>
+		<album>Bài hát của Nhạc sỹ: Hải Ánh</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/TacGia/HaiAnh/AiCaoTrong_ha_TranNgoc.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/TacGia/HaiAnh/AiCaoTrong_ha.pdf</pdf>
+	</song>
+	<song>
+		<albumid>947</albumid>
+		<songid>13839</songid>
+		<name>Bông hồng tươi</name>
+		<artist>Ca Đoàn Thiên Thanh (Tốp Nữ)</artist>
+		<author>Hải Ánh</author>
+		<album>Bài hát của Nhạc sỹ: Hải Ánh</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/TacGia/HaiAnh/BongHongTuoi_ha_CaDoanThienThanh.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/TacGia/HaiAnh/BongHongTuoi_ha.pdf</pdf>
+	</song>
+	<song>
+		<albumid>947</albumid>
+		<songid>13841</songid>
+		<name>Thánh Martin</name>
+		<artist>Ca Đoàn Hương Kinh (Nhóm Nam)</artist>
+		<author>Hải Ánh</author>
+		<album>Bài hát của Nhạc sỹ: Hải Ánh</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/TacGia/HaiAnh/ThanhMartin_ha_HuongKinh.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/TacGia/HaiAnh/ThanhMartin_ha.pdf</pdf>
+	</song>
+	<song>
+		<albumid>947</albumid>
+		<songid>13858</songid>
+		<name>Mừng kính Thánh Nữ Catarina</name>
+		<artist>Ca Đoàn Thiên Thanh (Tốp Nữ)</artist>
+		<author>Hải Ánh</author>
+		<album>Bài hát của Nhạc sỹ: Hải Ánh</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/TacGia/HaiAnh/MungKinhThanhNuCatarina_ha_CaDoanThienThanh.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/TacGia/HaiAnh/MungKinhThanhNuCatarina_ha.pdf</pdf>
+	</song>
+	<song>
+		<albumid>947</albumid>
+		<songid>13840</songid>
+		<name>Nguyện xin Thánh Gioan Boscô</name>
+		<artist>Ca Đoàn Hương Kinh (Nhóm Nam)</artist>
+		<author>Hải Ánh</author>
+		<album>Bài hát của Nhạc sỹ: Hải Ánh</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/TacGia/HaiAnh/NguyenXinThanhGioanBosco_ha_HuongKinh.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/TacGia/HaiAnh/NguyenXinThanhGioanBosco_ha.pdf</pdf>
+	</song>
+	<song>
+		<albumid>956</albumid>
+		<songid>11710</songid>
+		<name>Lời nguyện Thánh I Nhã</name>
+		<artist>Như Mai</artist>
+		<author>Toàn Minh</author>
+		<album>Như Mai Thánh Ca 7 - Trở Về Bên Chúa</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/NMTC7-TroVeBenChua/09.LoiNguyenThanhINha_tm_NhuMai.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>957</albumid>
+		<songid>11723</songid>
+		<name>Khúc hát xin dâng về Cha, Gioan Phaolô II - Totus Tuus</name>
+		<artist>Lê Anh</artist>
+		<author>Lm. Sơn Ca Linh</author>
+		<album>Gioan Phaolô II - Bước Chân Hòa Bình</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/CD-TCVN-AH/GioanPhaoloIIBuocChanHoaBinh-Master/MP3-320/10.KhucHatXinDangVeCha_SonCaLinh_LeAnh.mp3</audio>
+		<pdf>http://thanhcavietnam.net/CD-TCVN-AH/GioanPhaoloIIBuocChanHoaBinh-Master/KhucHatXinDangVeChaGioanPhaoloIITotusTuus_scl.pdf</pdf>
+	</song>
+	<song>
+		<albumid>957</albumid>
+		<songid>11726</songid>
+		<name>Tiếng ca hòa tiếng cười</name>
+		<artist>Lê Anh</artist>
+		<author>Vinam</author>
+		<album>Gioan Phaolô II - Bước Chân Hòa Bình</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/CD-TCVN-AH/GioanPhaoloIIBuocChanHoaBinh-Master/MP3-320/13.TiengCaHoaTiengCuoi_Vinam_LeAnh.mp3</audio>
+		<pdf>http://thanhcavietnam.net/CD-TCVN-AH/GioanPhaoloIIBuocChanHoaBinh-Master/TiengCaHoaTiengCuoi_Vinam.pdf</pdf>
+	</song>
+	<song>
+		<albumid>957</albumid>
+		<songid>11714</songid>
+		<name>Ngài đã đến</name>
+		<artist>Lê Anh</artist>
+		<author>Bạch Quỳnh</author>
+		<album>Gioan Phaolô II - Bước Chân Hòa Bình</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/CD-TCVN-AH/GioanPhaoloIIBuocChanHoaBinh-Master/MP3-320/01.NgaiDaDen_BachQuynh_LeAnh.mp3</audio>
+		<pdf>http://thanhcavietnam.net/CD-TCVN-AH/GioanPhaoloIIBuocChanHoaBinh-Master/NgaiDaDen_BachQuynh.pdf</pdf>
+	</song>
+	<song>
+		<albumid>957</albumid>
+		<songid>11727</songid>
+		<name>Những bước chân vượt qua</name>
+		<artist>Tốp Ca Thanh An</artist>
+		<author>Lm. Nguyễn Duy</author>
+		<album>Gioan Phaolô II - Bước Chân Hòa Bình</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/CD-TCVN-AH/GioanPhaoloIIBuocChanHoaBinh-Master/MP3-320/14.NhungBuocChanVuotQua_NguyenDuy_TopCaThanhAn.mp3</audio>
+		<pdf>http://thanhcavietnam.net/CD-TCVN-AH/GioanPhaoloIIBuocChanHoaBinh-Master/NhungBuocChanVuotQua_NguyenDuy.pdf</pdf>
+	</song>
+	<song>
+		<albumid>957</albumid>
+		<songid>11724</songid>
+		<name>Hòa bình từ trong con tim</name>
+		<artist>Lê Anh</artist>
+		<author>Ngọc Linh</author>
+		<album>Gioan Phaolô II - Bước Chân Hòa Bình</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/CD-TCVN-AH/GioanPhaoloIIBuocChanHoaBinh-Master/MP3-320/11.HoaBinhTuTrongConTim_NgocLinh_LeAnh.mp3</audio>
+		<pdf>http://thanhcavietnam.net/CD-TCVN-AH/GioanPhaoloIIBuocChanHoaBinh-Master/HoaBinhTuTrongConTim_NgocLinh.pdf</pdf>
+	</song>
+	<song>
+		<albumid>957</albumid>
+		<songid>11716</songid>
+		<name>Lời ca và trái tim</name>
+		<artist>Lê Anh</artist>
+		<author>Vinam</author>
+		<album>Gioan Phaolô II - Bước Chân Hòa Bình</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/CD-TCVN-AH/GioanPhaoloIIBuocChanHoaBinh-Master/MP3-320/03.LoiCaVaTraiTim_Vinam_LeAnh.mp3</audio>
+		<pdf>http://thanhcavietnam.net/CD-TCVN-AH/GioanPhaoloIIBuocChanHoaBinh-Master/LoiCaVaTraiTim_Vinam.pdf</pdf>
+	</song>
+	<song>
+		<albumid>957</albumid>
+		<songid>11721</songid>
+		<name>Lạy Chúa Thánh Thần</name>
+		<artist>Phương Loan</artist>
+		<author>Lm. Kim Long - Ý lời ca: Chân Phước Gioan Phaolô II</author>
+		<album>Gioan Phaolô II - Bước Chân Hòa Bình</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/CD-TCVN-AH/GioanPhaoloIIBuocChanHoaBinh-Master/MP3-320/08.LayChuaThanhThan_KimLong_PhuongLoan.mp3</audio>
+		<pdf>http://thanhcavietnam.net/CD-TCVN-AH/GioanPhaoloIIBuocChanHoaBinh-Master/LayChuaThanhThan_KimLong.pdf</pdf>
+	</song>
+	<song>
+		<albumid>957</albumid>
+		<songid>11720</songid>
+		<name>Gioan Phaolô II Ca sỹ của tình thương</name>
+		<artist>Diệu Hiền - Y Jang Tuyn</artist>
+		<author>Lm. Nguyễn Duy</author>
+		<album>Gioan Phaolô II - Bước Chân Hòa Bình</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/CD-TCVN-AH/GioanPhaoloIIBuocChanHoaBinh-Master/MP3-320/07.GioanPhaoloIICaSyCuaTinhThuong_NguyenDuy_DieuHien-YJangTuyn.mp3</audio>
+		<pdf>http://thanhcavietnam.net/CD-TCVN-AH/GioanPhaoloIIBuocChanHoaBinh-Master/GioanPhaoloIICaSiCuaTinhThuong_NguyenDuy.pdf</pdf>
+	</song>
+	<song>
+		<albumid>957</albumid>
+		<songid>11725</songid>
+		<name>Sứ Giả Hòa Bình</name>
+		<artist>Phương Loan</artist>
+		<author>Trầm Thiên Thu</author>
+		<album>Gioan Phaolô II - Bước Chân Hòa Bình</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/CD-TCVN-AH/GioanPhaoloIIBuocChanHoaBinh-Master/MP3-320/12.SuGiaHoaBinh_TramThienThu_PhuongLoan.mp3</audio>
+		<pdf>http://thanhcavietnam.net/CD-TCVN-AH/GioanPhaoloIIBuocChanHoaBinh-Master/SuGiaHoaBinh_TramThienThu.pdf</pdf>
+	</song>
+	<song>
+		<albumid>957</albumid>
+		<songid>11719</songid>
+		<name>Bởi một Thánh Thần</name>
+		<artist>Phương Loan</artist>
+		<author>Lm. Kim Long - Ý lời ca: Chân Phước Gioan Phaolô II</author>
+		<album>Gioan Phaolô II - Bước Chân Hòa Bình</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/CD-TCVN-AH/GioanPhaoloIIBuocChanHoaBinh-Master/MP3-320/06.BoiMotThanhThan_KimLong_PhuongLoan.mp3</audio>
+		<pdf>http://thanhcavietnam.net/CD-TCVN-AH/GioanPhaoloIIBuocChanHoaBinh-Master/BoiMotThanhThan_KimLong.pdf</pdf>
+	</song>
+	<song>
+		<albumid>957</albumid>
+		<songid>11715</songid>
+		<name>Gioan Phaolô II</name>
+		<artist>Phương Loan</artist>
+		<author>Trầm Thiên Thu</author>
+		<album>Gioan Phaolô II - Bước Chân Hòa Bình</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/CD-TCVN-AH/GioanPhaoloIIBuocChanHoaBinh-Master/MP3-320/02.GioanPhaoloII_TramThienThu_PhuongLoan.mp3</audio>
+		<pdf>http://thanhcavietnam.net/CD-TCVN-AH/GioanPhaoloIIBuocChanHoaBinh-Master/GioanPhaoloII_TramThienThu.pdf</pdf>
+	</song>
+	<song>
+		<albumid>957</albumid>
+		<songid>11718</songid>
+		<name>Hát từ yêu thương</name>
+		<artist>Phương Loan</artist>
+		<author>Dominique Dũng</author>
+		<album>Gioan Phaolô II - Bước Chân Hòa Bình</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/CD-TCVN-AH/GioanPhaoloIIBuocChanHoaBinh-Master/MP3-320/05.HatTuYeuThuongTCVN_DMDung_PhuongLoan.mp3</audio>
+		<pdf>http://thanhcavietnam.net/CD-TCVN-AH/GioanPhaoloIIBuocChanHoaBinh-Master/HatTuYeuThuongTCVN_DMDung.pdf</pdf>
+	</song>
+	<song>
+		<albumid>960</albumid>
+		<songid>11769</songid>
+		<name>Gương Mẹ Têrêsa Calcuta</name>
+		<artist>Lê Anh</artist>
+		<author>Phạm Vĩnh Sơn - Ý thơ: Phong Thi</author>
+		<album>Nắm Tay Nhau</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/NamTayNhau/10.GuongMeTeresaCalcuta_pvs-pt_LeAnh.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>966</albumid>
+		<songid>13085</songid>
+		<name>Mừng Các Thánh Tử Đạo Việt Nam</name>
+		<artist>Trung Kiên</artist>
+		<author>Nguyên Dũng</author>
+		<album>Bài hát của Nhạc sỹ: Nguyên Dũng</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/TacGia/NguyenDung/MungCacThanhTuDaoVietNam_ngd_TrungKien.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/TacGia/NguyenDung/MungCacThanhTuDaoVietNam_ngd.pdf</pdf>
+	</song>
+	<song>
+		<albumid>966</albumid>
+		<songid>13067</songid>
+		<name>Cảm tạ Thánh Martinô</name>
+		<artist>Phương Thùy</artist>
+		<author>Nguyên Dũng</author>
+		<album>Bài hát của Nhạc sỹ: Nguyên Dũng</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/TacGia/NguyenDung/CamTaThanhMartino_ngd_PhuongThuy.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>966</albumid>
+		<songid>13065</songid>
+		<name>Suốt cả một đời</name>
+		<artist>Cẩm Hường</artist>
+		<author>Nguyên Dũng</author>
+		<album>Bài hát của Nhạc sỹ: Nguyên Dũng</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/TacGia/NguyenDung/SuotCaMotDoi_ngd_CamHuong.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/TacGia/NguyenDung/SuotCaMotDoi_ngd.pdf</pdf>
+	</song>
+	<song>
+		<albumid>966</albumid>
+		<songid>13066</songid>
+		<name>Đến với Thánh Martinô</name>
+		<artist>Phương Thùy</artist>
+		<author>Nguyên Dũng</author>
+		<album>Bài hát của Nhạc sỹ: Nguyên Dũng</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/TacGia/NguyenDung/DenVoiThanhMartino_ngd_PhuongThuy.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/TacGia/NguyenDung/DenVoiThanhMartino_ngd.pdf</pdf>
+	</song>
+	<song>
+		<albumid>966</albumid>
+		<songid>13064</songid>
+		<name>Người Thầy của lòng nhân ái</name>
+		<artist>Cẩm Hường</artist>
+		<author>Nguyên Dũng</author>
+		<album>Bài hát của Nhạc sỹ: Nguyên Dũng</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/TacGia/NguyenDung/NguoiThayCuaLongNhanAi_ngd_CamHuong.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/TacGia/NguyenDung/NguoiThayCuaLongNhanAi_ngd.pdf</pdf>
+	</song>
+	<song>
+		<albumid>980</albumid>
+		<songid>11976</songid>
+		<name>Bước tử hùng</name>
+		<artist>Ca Đoàn Sao Mai</artist>
+		<author>Đinh Công Lý</author>
+		<album>Trọn Đời Hiến Dâng</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TronDoiHienDang/06.BuocTuHung_dcl_CaDoanSaoMai.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/TronDoiHienDang/BuocTuHung_dcl.pdf</pdf>
+	</song>
+	<song>
+		<albumid>993</albumid>
+		<songid>12096</songid>
+		<name>Tình Cha</name>
+		<artist>Tuyết Mai</artist>
+		<author>Huy Hoàng SDB</author>
+		<album>Xin Ngài Hãy Chọn Con 5</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/XinNgaiHayChonCon5/09.TinhCha_hh_TuyetMai.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>999</albumid>
+		<songid>12174</songid>
+		<name>Thánh Giuse lao động</name>
+		<artist>Gia Ân</artist>
+		<author>Lm. Viện phụ Yên Phương Trịnh Văn Đức</author>
+		<album>Hương Nguyện</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-256/HuongNguyen/06.ThanhGiuseLaoDong_tvd_GiaAn.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>999</albumid>
+		<songid>12173</songid>
+		<name>Tôn vinh Thánh Giuse</name>
+		<artist>Việt Tuấn</artist>
+		<author>Lm. Viện phụ Yên Phương Trịnh Văn Đức</author>
+		<album>Hương Nguyện</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-256/HuongNguyen/05.TonVinhThanhGiuse_tvd_VietTuan.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>999</albumid>
+		<songid>12175</songid>
+		<name>Người Tông Đồ Chúa yêu</name>
+		<artist>Hoàng Hiệp</artist>
+		<author>Lm. Viện phụ Yên Phương Trịnh Văn Đức</author>
+		<album>Hương Nguyện</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-256/HuongNguyen/07.NguoiTongDoChuaYeu_tvd_HoangHiep.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>999</albumid>
+		<songid>12169</songid>
+		<name>Phúc cho người</name>
+		<artist>Hoàng Hiệp</artist>
+		<author>Lm. Viện phụ Yên Phương Trịnh Văn Đức</author>
+		<album>Hương Nguyện</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-256/HuongNguyen/01.PhucChoNguoi_tvd_HoangHiep.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>999</albumid>
+		<songid>12176</songid>
+		<name>Cửa trời rộng mở</name>
+		<artist>Thụy Long</artist>
+		<author>Lm. Viện phụ Yên Phương Trịnh Văn Đức</author>
+		<album>Hương Nguyện</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/ThanhCaVN/index.php?url=Download,12176,RP89-B555B159721DEE58</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>999</albumid>
+		<songid>12178</songid>
+		<name>Tâm ca Xitô</name>
+		<artist>Gia Ân</artist>
+		<author>Lm. Viện phụ Yên Phương Trịnh Văn Đức</author>
+		<album>Hương Nguyện</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/ThanhCaVN/index.php?url=Download,12178,RP89-B2FE45B9A443CD58</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>999</albumid>
+		<songid>12177</songid>
+		<name>Ca mừng Cha Thánh Biến Đức</name>
+		<artist>Diệu Hiền</artist>
+		<author>Lm. Viện phụ Yên Phương Trịnh Văn Đức</author>
+		<album>Hương Nguyện</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-256/HuongNguyen/09.CaMungChaThanhBienDuc_tvd_DieuHien.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>999</albumid>
+		<songid>12179</songid>
+		<name>Bênađô một lần đến</name>
+		<artist>Việt Tuấn</artist>
+		<author>Lm. Viện phụ Yên Phương Trịnh Văn Đức</author>
+		<album>Hương Nguyện</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-256/HuongNguyen/11.BenadoMotLanDen_tvd_VietTuan.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>1005</albumid>
+		<songid>12267</songid>
+		<name>Nguyện cầu Thánh Gia</name>
+		<artist>Lm. Nguyễn Sang</artist>
+		<author>Lm. Từ Duyên</author>
+		<album>Lm. JB. Nguyễn Sang Vol.13 - Giuse Người Công Chính</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/Lm.NSVol.13-GiuseNguoiCongChinh/13.NguyenCauThanhGia_td_Lm.NguyenSang.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/Lm.NSVol.13-GiuseNguoiCongChinh/NguyenCauThanhGia_td.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1005</albumid>
+		<songid>12266</songid>
+		<name>Thánh Giuse</name>
+		<artist>Lm. Nguyễn Sang</artist>
+		<author>Lm. Thái Nguyên</author>
+		<album>Lm. JB. Nguyễn Sang Vol.13 - Giuse Người Công Chính</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/Lm.NSVol.13-GiuseNguoiCongChinh/12.ThanhGiuse_tn_Lm.NguyenSang.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/Lm.NSVol.13-GiuseNguoiCongChinh/ThanhGiuse_tn.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1005</albumid>
+		<songid>12263</songid>
+		<name>Giữa biển trần gian</name>
+		<artist>Lm. Nguyễn Sang</artist>
+		<author>Thăng Ca</author>
+		<album>Lm. JB. Nguyễn Sang Vol.13 - Giuse Người Công Chính</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/Lm.NSVol.13-GiuseNguoiCongChinh/09.GiuaBienTranGian_tc_Lm.NguyenSang.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>1005</albumid>
+		<songid>12261</songid>
+		<name>Cầu xin Thánh Gia</name>
+		<artist>Lm. Nguyễn Sang</artist>
+		<author>Lm. Phạm Đình Nhu - Nguyễn Khắc Tuần</author>
+		<album>Lm. JB. Nguyễn Sang Vol.13 - Giuse Người Công Chính</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/Lm.NSVol.13-GiuseNguoiCongChinh/07.CauXinThanhGia_pdn-nkt_Lm.NguyenSang.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/Lm.NSVol.13-GiuseNguoiCongChinh/CauXinThanhGia_pdn-nkt.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1005</albumid>
+		<songid>12256</songid>
+		<name>Hãy đến cùng Thánh Giuse</name>
+		<artist>Lm. Nguyễn Sang</artist>
+		<author>Phanxicô</author>
+		<album>Lm. JB. Nguyễn Sang Vol.13 - Giuse Người Công Chính</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/Lm.NSVol.13-GiuseNguoiCongChinh/02.HayDenCungThanhGiuse_pxc_Lm.NguyenSang.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/Lm.NSVol.13-GiuseNguoiCongChinh/HayDenCungGiuse_pxc.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1005</albumid>
+		<songid>12262</songid>
+		<name>Lạy Thánh Giuse</name>
+		<artist>Lm. Nguyễn Sang</artist>
+		<author>Đạo Minh</author>
+		<album>Lm. JB. Nguyễn Sang Vol.13 - Giuse Người Công Chính</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/Lm.NSVol.13-GiuseNguoiCongChinh/08.LayThanhGiuse_dm_Lm.NguyenSang.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/Lm.NSVol.13-GiuseNguoiCongChinh/LayThanhGiuse_dm.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1005</albumid>
+		<songid>12264</songid>
+		<name>Giuse, chuyện về Người</name>
+		<artist>Lm. Nguyễn Sang - Hương Lan</artist>
+		<author>Thế Thông</author>
+		<album>Lm. JB. Nguyễn Sang Vol.13 - Giuse Người Công Chính</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/Lm.NSVol.13-GiuseNguoiCongChinh/10.GiuseChuyenVeNguoi_tth_Lm.NguyenSang-HuongLan.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/Lm.NSVol.13-GiuseNguoiCongChinh/GiuseChuyenVeNguoi_tth.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1005</albumid>
+		<songid>12259</songid>
+		<name>Kính mừng Thánh Giuse</name>
+		<artist>Lm. Nguyễn Sang</artist>
+		<author>Lm. Từ Duyên</author>
+		<album>Lm. JB. Nguyễn Sang Vol.13 - Giuse Người Công Chính</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/Lm.NSVol.13-GiuseNguoiCongChinh/05.KinhMungThanhGiuse_td_Lm.NguyenSang.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/Lm.NSVol.13-GiuseNguoiCongChinh/KinhMungThanhGiuse_td.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1005</albumid>
+		<songid>12265</songid>
+		<name>Thánh Giuse 3</name>
+		<artist>Lm. Nguyễn Sang</artist>
+		<author>Lm. Kim Long</author>
+		<album>Lm. JB. Nguyễn Sang Vol.13 - Giuse Người Công Chính</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/Lm.NSVol.13-GiuseNguoiCongChinh/11.ThanhGiuse3_kl_Lm.NguyenSang.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/Lm.NSVol.13-GiuseNguoiCongChinh/ThanhGiuse3_kl.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1005</albumid>
+		<songid>12257</songid>
+		<name>Giuse trong âm thầm</name>
+		<artist>Lm. Nguyễn Sang</artist>
+		<author>Lm. Thái Nguyên</author>
+		<album>Lm. JB. Nguyễn Sang Vol.13 - Giuse Người Công Chính</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/Lm.NSVol.13-GiuseNguoiCongChinh/03.GiuseTrongAmTham_tn_Lm.NguyenSang.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/Lm.NSVol.13-GiuseNguoiCongChinh/GiuseTrongAmTham_tn.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1005</albumid>
+		<songid>12260</songid>
+		<name>Thánh Giuse 2</name>
+		<artist>Lm. Nguyễn Sang</artist>
+		<author>Lm. Kim Long</author>
+		<album>Lm. JB. Nguyễn Sang Vol.13 - Giuse Người Công Chính</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/Lm.NSVol.13-GiuseNguoiCongChinh/06.ThanhGiuse2_kl_Lm.NguyenSang.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/Lm.NSVol.13-GiuseNguoiCongChinh/ThanhGiuse2_kl.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1005</albumid>
+		<songid>12258</songid>
+		<name>Thánh Giuse</name>
+		<artist>Lm. Nguyễn Sang</artist>
+		<author>Hoàng Thanh</author>
+		<album>Lm. JB. Nguyễn Sang Vol.13 - Giuse Người Công Chính</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/Lm.NSVol.13-GiuseNguoiCongChinh/04.ThanhGiuse_ht_Lm.NguyenSang.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>1011</albumid>
+		<songid>12332</songid>
+		<name>Tình yêu của con</name>
+		<artist>Lệ Hằng</artist>
+		<author>Gioa-Kim - Lời: theo Thánh Têrêsa Hài Đồng Giêsu</author>
+		<album>Tình Yêu Của Con</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TinhYeuCuaCon/03.TinhYeuCuaCon_gk-THDG_LeHang.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/TinhYeuCuaCon/TinhYeuCuaCon_gk-THDG.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1045</albumid>
+		<songid>12926</songid>
+		<name>Thánh Giuse, Đấng công chính</name>
+		<artist>Diệu Hiền</artist>
+		<author>Trùng Dương</author>
+		<album>Bài hát của Nhạc sỹ: Trùng Dương</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/TacGia/TrungDuong/12.ThanhGiuseDangCongChinh_trd_DieuHien.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/TacGia/TrungDuong/ThanhGiuseDangCongChinh_trd.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1063</albumid>
+		<songid>12995</songid>
+		<name>Tình Cha dâng hiến</name>
+		<artist>bé Thiên Ái</artist>
+		<author>Lm. MJ Trường Luân</author>
+		<album>Vì Ngài Yêu Con</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/ViNgaiYeuCon/03.TinhChaDangHien_ntl_ThienAi.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/ViNgaiYeuCon/TinhChaDangHien_ntl.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1063</albumid>
+		<songid>12996</songid>
+		<name>Xin chỉ một lời</name>
+		<artist>bé Thiên Ái</artist>
+		<author>Lm. MJ Trường Luân</author>
+		<album>Vì Ngài Yêu Con</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/ViNgaiYeuCon/04.XinChiMotLoi_ntl_ThienAi.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/ViNgaiYeuCon/XinChiMotLoi_ntl.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1064</albumid>
+		<songid>13015</songid>
+		<name>Kinh Tin Kính Các Thánh Tông Đồ</name>
+		<artist>Ca Đoàn Sao Mai</artist>
+		<author>Tín Vy (Hoa Phượng Vi)</author>
+		<album>Người Đi</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/ThanhCaVN/index.php?url=Download,13015,RP89-803218E001D576D0</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/NguoiDi/KinhTinKinh(CaThanhTongDo)_tv.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1090</albumid>
+		<songid>13570</songid>
+		<name>Lạy Thánh Giuse</name>
+		<artist>Anh Phương</artist>
+		<author>Lm. Nguyên Lễ</author>
+		<album>Bài hát của Nhạc sỹ: Lm. Nguyên Lễ</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/TacGia/Lm.NguyenLe/LayThanhGiuse_ngl_AnhPhuong.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/TacGia/Lm.NguyenLe/LayThanhGiuse_ngl.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1090</albumid>
+		<songid>12232</songid>
+		<name>Mừng kính Thánh Monica</name>
+		<artist>Phương Thảo ĐN - Ca đoàn Giáo xứ Gia Tôn</artist>
+		<author>Lm. Nguyên Lễ</author>
+		<album>Bài hát của Nhạc sỹ: Lm. Nguyên Lễ</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/TacGia/Lm.NguyenLe/MungKinhThanhMonica_nl_PhuongThao(DN)-CDGxGiaTon.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/TacGia/Lm.NguyenLe/MungKinhThanhMonica_nl.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1090</albumid>
+		<songid>12230</songid>
+		<name>Mẫu gương Monica</name>
+		<artist>Tường Lý</artist>
+		<author>Lm. Nguyên Lễ</author>
+		<album>Bài hát của Nhạc sỹ: Lm. Nguyên Lễ</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/TacGia/Lm.NguyenLe/MauGuongMonica_nl_TuongLy.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/TacGia/Lm.NguyenLe/MauGuongMonica_nl.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1090</albumid>
+		<songid>12231</songid>
+		<name>Monica - Mẫu gương Mẹ hiền</name>
+		<artist>Tường Lý</artist>
+		<author>Lm. Nguyên Lễ</author>
+		<album>Bài hát của Nhạc sỹ: Lm. Nguyên Lễ</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/TacGia/Lm.NguyenLe/MonicaMauGuongMeHien_nl_TuongLy.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/TacGia/Lm.NguyenLe/MonicaMauGuongMeHien_nl.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1100</albumid>
+		<songid>13528</songid>
+		<name>Giuse, chuyện về Người</name>
+		<artist>Ns. Thế Thông</artist>
+		<author>Thế Thông</author>
+		<album>Tâm Tình Khúc 1</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TamTinhKhuc1/07.GiuseChuyenVeNguoi_tth_TheThong.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/TamTinhKhuc1/GiuseChuyenVeNguoi_tth.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1103</albumid>
+		<songid>13569</songid>
+		<name>Thánh Gia</name>
+		<artist>Lê Anh</artist>
+		<author>Phạm Vĩnh Sơn</author>
+		<album>Khẩn Cầu Thánh Cả Giuse</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-256/KhanCauThanhCaGiuse/14.ThanhGia_pvs_LeAnh.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-256/KhanCauThanhCaGiuse/ThanhGia_pvs.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1103</albumid>
+		<songid>13566</songid>
+		<name>Kính mừng Giuse</name>
+		<artist>Lê Anh</artist>
+		<author>Lm. Phạm Liên Hùng</author>
+		<album>Khẩn Cầu Thánh Cả Giuse</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-256/KhanCauThanhCaGiuse/11.KinhMungGiuse_plh_LeAnh.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-256/KhanCauThanhCaGiuse/KinhMungGiuse_plh.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1103</albumid>
+		<songid>13557</songid>
+		<name>Khẩn cầu Thánh Cả Giuse</name>
+		<artist>Lê Anh</artist>
+		<author>Phạm Vĩnh Sơn</author>
+		<album>Khẩn Cầu Thánh Cả Giuse</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-256/KhanCauThanhCaGiuse/02.KhanCauThanhCaGiuse_pvs_LeAnh.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-256/KhanCauThanhCaGiuse/KhanCauThanhCaGiuse_pvs.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1103</albumid>
+		<songid>13559</songid>
+		<name>Người công chính</name>
+		<artist>Lê Anh</artist>
+		<author>Lm. Kim Long</author>
+		<album>Khẩn Cầu Thánh Cả Giuse</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-256/KhanCauThanhCaGiuse/04.NguoiCongChinh_kl_LeAnh.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-256/KhanCauThanhCaGiuse/NguoiCongChinh_kl.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1103</albumid>
+		<songid>13560</songid>
+		<name>Cha Thánh Giuse</name>
+		<artist>Lê Anh</artist>
+		<author>Vinam</author>
+		<album>Khẩn Cầu Thánh Cả Giuse</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-256/KhanCauThanhCaGiuse/05.ChaThanhGiuse_v_LeAnh.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-256/KhanCauThanhCaGiuse/ChaThanhGiuse_v.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1103</albumid>
+		<songid>13568</songid>
+		<name>Cầu xin Thánh Gia</name>
+		<artist>Lê Anh</artist>
+		<author>Lm. Phạm Đình Nhu - Nguyễn Khắc Tuần</author>
+		<album>Khẩn Cầu Thánh Cả Giuse</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-256/KhanCauThanhCaGiuse/13.CauXinThanhGia_pdn-nkt_LeAnh.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-256/KhanCauThanhCaGiuse/CauXinThanhGia_pdn-nkt.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1103</albumid>
+		<songid>13565</songid>
+		<name>Lạy Thánh Giuse</name>
+		<artist>Lê Anh</artist>
+		<author>Minh Đệ</author>
+		<album>Khẩn Cầu Thánh Cả Giuse</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-256/KhanCauThanhCaGiuse/10.LayThanhGiuse_md_LeAnh.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-256/KhanCauThanhCaGiuse/LayThanhGiuse_md.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1103</albumid>
+		<songid>13562</songid>
+		<name>Ôi Thánh Giuse</name>
+		<artist>Lê Anh</artist>
+		<author>Tuấn Kim</author>
+		<album>Khẩn Cầu Thánh Cả Giuse</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-256/KhanCauThanhCaGiuse/07.OiThanhGiuse_tk_LeAnh.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-256/KhanCauThanhCaGiuse/OiThanhGiuse_tk.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1103</albumid>
+		<songid>13564</songid>
+		<name>Người Cha hiền</name>
+		<artist>Lê Anh</artist>
+		<author>Hồng Trần Phạm Đình Đài</author>
+		<album>Khẩn Cầu Thánh Cả Giuse</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-256/KhanCauThanhCaGiuse/09.NguoiChaHien_htpdd_LeAnh.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-256/KhanCauThanhCaGiuse/NguoiChaHien_htpdd.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1103</albumid>
+		<songid>13561</songid>
+		<name>Ca nguyện Thánh Giuse</name>
+		<artist>Lê Anh</artist>
+		<author>Viết Chung</author>
+		<album>Khẩn Cầu Thánh Cả Giuse</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-256/KhanCauThanhCaGiuse/06.CaNguyenThanhGiuse_vcg_LeAnh.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-256/KhanCauThanhCaGiuse/CaNguyenThanhGiuse_vcg.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1103</albumid>
+		<songid>13567</songid>
+		<name>Về bến thiên đàng</name>
+		<artist>Lê Anh</artist>
+		<author>Minh Đệ</author>
+		<album>Khẩn Cầu Thánh Cả Giuse</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-256/KhanCauThanhCaGiuse/12.VeBenThienDang_md_LeAnh.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-256/KhanCauThanhCaGiuse/VeBenThienDang_md.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1103</albumid>
+		<songid>13563</songid>
+		<name>Đấng bảo trợ</name>
+		<artist>Lê Anh</artist>
+		<author>Lm. Phạm Liên Hùng</author>
+		<album>Khẩn Cầu Thánh Cả Giuse</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-256/KhanCauThanhCaGiuse/08.DangBaoTro_plh_LeAnh.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-256/KhanCauThanhCaGiuse/DangBaoTro_plh.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1103</albumid>
+		<songid>13558</songid>
+		<name>Thánh Giuse</name>
+		<artist>Lê Anh</artist>
+		<author>Lm. Phạm Liên Hùng</author>
+		<album>Khẩn Cầu Thánh Cả Giuse</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-256/KhanCauThanhCaGiuse/03.ThanhGiuse_plh_LeAnh.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-256/KhanCauThanhCaGiuse/ThanhGiuse_plh.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1126</albumid>
+		<songid>13878</songid>
+		<name>Theo gương Thánh Martino</name>
+		<artist>Kim Cúc</artist>
+		<author>Nguyên Nhung</author>
+		<album>Bài hát của Nhạc sỹ: Nguyên Nhung</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/TacGia/NguyenNhung/TheoGuongThanhMartino_nn_KimCuc.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/TacGia/NguyenNhung/TheoGuongThanhMartino_nn.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1126</albumid>
+		<songid>13877</songid>
+		<name>Tạ ơn Thánh Martino</name>
+		<artist>Lê Thùy</artist>
+		<author>Nguyên Nhung</author>
+		<album>Bài hát của Nhạc sỹ: Nguyên Nhung</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/TacGia/NguyenNhung/TaOnThanhMartino_nn_LeThuy.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/TacGia/NguyenNhung/TaOnThanhMartino_nn.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1126</albumid>
+		<songid>13875</songid>
+		<name>Gương yêu thương</name>
+		<artist>Xuân Trường</artist>
+		<author>Nguyên Nhung</author>
+		<album>Bài hát của Nhạc sỹ: Nguyên Nhung</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/TacGia/NguyenNhung/GuongYeuThuong_nn_XuanTruong.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/TacGia/NguyenNhung/GuongYeuThuong_nn.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1126</albumid>
+		<songid>13876</songid>
+		<name>Martino nơi mái trường Giêsu</name>
+		<artist>Ngọc Khoa</artist>
+		<author>Nguyên Nhung</author>
+		<album>Bài hát của Nhạc sỹ: Nguyên Nhung</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/TacGia/NguyenNhung/MatinoNoiMaiTruongGiesu_nn_NgocKhoa.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/TacGia/NguyenNhung/MatinoNoiMaiTruongGiesu_nn.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1130</albumid>
+		<songid>13934</songid>
+		<name>Thánh Giuse, Đấng công chính</name>
+		<artist>Diệu Hiền</artist>
+		<author>Trùng Dương</author>
+		<album>Một Đời Ngợi Ca Vol.5 - Bước Theo Mẹ</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/QCMP/MDNCVol.5-BuocTheoMe/12.ThanhGiuseDangCongChinh_trd_DieuHien.mp3</audio>
+		<pdf>http://thanhcavietnam.net/QCMP/MDNCVol.5-BuocTheoMe/ThanhGiuseDangCongChinh_trd.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1132</albumid>
+		<songid>13063</songid>
+		<name>Mừng các Thánh</name>
+		<artist>Tường Lý</artist>
+		<author>Lm. Phạm Liên Hùng</author>
+		<album>Bài hát của Nhạc sỹ: Lm. Phạm Liên Hùng</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/TacGia/Lm.PhamLienHung/MungCacThanh_plh_TuongLy.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/TacGia/Lm.PhamLienHung/MungCacThanh_plh.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1132</albumid>
+		<songid>14178</songid>
+		<name>Thánh Phêrô và Phaolô</name>
+		<artist>Thanh Nga (ĐN) - Hồng Việt</artist>
+		<author>Lm. Phạm Liên Hùng</author>
+		<album>Bài hát của Nhạc sỹ: Lm. Phạm Liên Hùng</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/TacGia/Lm.PhamLienHung/ThanhPheroVaPhaolo_plh_ThanhNga-HongViet.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/TacGia/Lm.PhamLienHung/ThanhPheroVaPhaolo_plh.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1134</albumid>
+		<songid>13963</songid>
+		<name>Giuse, con mến yêu</name>
+		<artist>Khắc Dũng</artist>
+		<author>Cát Linh</author>
+		<album>Điệp Khúc Tin Yêu</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/QCMP/DiepKhucTinYeu/08.GiuseConMenYeu_cl_KhacDung.mp3</audio>
+		<pdf>http://thanhcavietnam.net/QCMP/DiepKhucTinYeu/GiuseConMenYeu_cl.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1139</albumid>
+		<songid>14021</songid>
+		<name>Chỉ vì tình yêu</name>
+		<artist>Hải Đăng</artist>
+		<author>Lm. Vương Diệu</author>
+		<album>Người Sống Đạo</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/NguoiSongDao/10.ChiViTinhYeu_vd_HaiDang.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>1139</albumid>
+		<songid>14022</songid>
+		<name>Đến với Thánh Martino</name>
+		<artist>Mai Thảo</artist>
+		<author>Lm. Vương Diệu</author>
+		<album>Người Sống Đạo</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/NguoiSongDao/11.DenVoiThanhMartino_vd_MaiThao.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>1139</albumid>
+		<songid>14014</songid>
+		<name>Theo gương Thánh Gia</name>
+		<artist>Anh Thư</artist>
+		<author>Lm. Vương Diệu</author>
+		<album>Người Sống Đạo</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/NguoiSongDao/03.TheoGuongThanhGia_vd_AnhThu.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/NguoiSongDao/TheoGuongThanhGia_vd.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1142</albumid>
+		<songid>14063</songid>
+		<name>Cecilia, Nhạc sỹ Thiên Thần</name>
+		<artist>Tốp Ca Trùng Dương Studio</artist>
+		<author>Xuân Thu</author>
+		<album>Một Đời Ngợi Ca Vol.2 - Tình Chúa Tình Người</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/QCMP/MDNCVol.2-TinhChuaTinhNguoi/13.CeciliaNhacSyThienThan_xt_TopCa.mp3</audio>
+		<pdf>http://thanhcavietnam.net/QCMP/MDNCVol.2-TinhChuaTinhNguoi/CeciliaNhacSyThienThan_xt.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1144</albumid>
+		<songid>14490</songid>
+		<name>Têrêxa Hài Đồng</name>
+		<artist>Minh Đài</artist>
+		<author>Nguyễn Văn Hiển</author>
+		<album>Bài hát của Nhạc sỹ: Nguyễn Văn Hiển</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/TacGia/NguyenVanHien/TerexaHaiDong_nvh_MinhDai.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/TacGia/NguyenVanHien/TerexaHaiDong_nvh.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1152</albumid>
+		<songid>14191</songid>
+		<name>Di ngôn Thánh Đaminh</name>
+		<artist>Thanh Sử</artist>
+		<author>Sr. Nữ Huyện</author>
+		<album>60 Năm Hồng Ân (MP3)</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-256/60NamHongAn/11.DiNgonThanhDaminh_Sr.NuHuyen_ThanhSu.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>1154</albumid>
+		<songid>14209</songid>
+		<name>Tạ ơn Thánh Cả Giuse</name>
+		<artist>Phi Hải</artist>
+		<author>Mai Sơn</author>
+		<album>Bài hát của Nhạc sỹ: Mai Sơn</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/TacGia/MaiSon/TaOnThanhCaGiuse_ms_PhiHai.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>1172</albumid>
+		<songid>14472</songid>
+		<name>Mừn Lễ Thánh Gia</name>
+		<artist>Trần Ngọc</artist>
+		<author>Đạo Tử</author>
+		<album>Phượng Thờ</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/PhuongTho/10.MungLeThanhGia_daotu_TranNgoc.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/PhuongTho/MungLeThanhGia_daotu.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1181</albumid>
+		<songid>14577</songid>
+		<name>Tạ ơn các Thánh Tử Đạo Việt Nam</name>
+		<artist>Nhóm Cadillac</artist>
+		<author>Nguyễn Quang Huy</author>
+		<album>Kỳ Diệu Thay 2</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/KyDieuThay2/07.TaOnCacThanhTDVN_nqh_Cadillac.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/KyDieuThay2/TaOnCacThanhTDVN_nqh.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1181</albumid>
+		<songid>14578</songid>
+		<name>Thánh nữ Catharina thành Siena</name>
+		<artist>Tuyết Mai</artist>
+		<author>Nguyễn Quang Huy</author>
+		<album>Kỳ Diệu Thay 2</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/KyDieuThay2/08.ThanhNuCatharinaThanhSiena_nqh_TuyetMai.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/KyDieuThay2/ThanhNuCatharinaThanhSiena_nqh.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1201</albumid>
+		<songid>14821</songid>
+		<name>Ngàn vinh quang</name>
+		<artist>Ca Đoàn Sao Mai</artist>
+		<author>Vọng Sinh</author>
+		<album>Bài hát của Nhạc sỹ: Vọng Sinh</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/TacGia/VongSinh/NganVinhQuang_vs_CaDoanSaoMai.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/TacGia/VongSinh/NganVinhQuang_vs.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1202</albumid>
+		<songid>14833</songid>
+		<name>Mừng Thánh Phụ Biển Đức</name>
+		<artist>Gia Ân - Ca Đoàn Thiên An</artist>
+		<author>Lm. Lê Hoa Đăng</author>
+		<album>Đáp Lời Yêu Thương</album>
+		<type>Các Thánh</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/DapLoiYeuThuong/03.MungThanhPhuBienDuc_lhd_GiaAn-CaDoanThienAn.mp3</audio>
+		<pdf></pdf>
+	</song>
+</songs>

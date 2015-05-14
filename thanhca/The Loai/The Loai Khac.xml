@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songs>
+	<song>
+		<albumid>281</albumid>
+		<songid>3314</songid>
+		<name>Tình người ngoại đạo</name>
+		<artist>Anh Khoa</artist>
+		<author>Phượng Linh</author>
+		<album>Nửa Đêm Khấn Hứa</album>
+		<type>Thể Loại Khác</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/Albums/NuaDemKhanHua/TinhNguoiNgoaiDao_PhuongLinh(AnhKhoa).mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>321</albumid>
+		<songid>3816</songid>
+		<name>Thành tâm con khấn (Tân Cổ giao duyên)</name>
+		<artist>Bích Phượng</artist>
+		<author>Hải Phương</author>
+		<album>Tấm Lòng Vàng</album>
+		<type>Thể Loại Khác</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/Albums/TamLongVang/01.ThanhTamConKhan_hp(BichPhuong).mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>402</albumid>
+		<songid>4972</songid>
+		<name>Như cỏ cây</name>
+		<artist>Nhóm Cát Trắng</artist>
+		<author>Lm. Mai Thiện</author>
+		<album>Như Cỏ Cây</album>
+		<type>Thể Loại Khác</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/Albums/NhuCoCay/02.NhuCoCay_mth_NhomCatTrang.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>402</albumid>
+		<songid>4973</songid>
+		<name>Nước Trời ví như kho tàng</name>
+		<artist>Thùy Dương</artist>
+		<author>Lm. Mai Thiện</author>
+		<album>Như Cỏ Cây</album>
+		<type>Thể Loại Khác</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/Albums/NhuCoCay/03.NuocTroiViNhuKhoTang_mth_ThuyDuong.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>402</albumid>
+		<songid>4975</songid>
+		<name>Ngạt ngào khói hương</name>
+		<artist>Phương Thùy - Nhóm Cát Trắng phụ họa</artist>
+		<author>Lm. Mai Thiện</author>
+		<album>Như Cỏ Cây</album>
+		<type>Thể Loại Khác</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/Albums/NhuCoCay/05.NgatNgaoKhoiHuong_mth_LePhuongThuy-NhomCatTrang.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>402</albumid>
+		<songid>4980</songid>
+		<name>25 Năm thời gian</name>
+		<artist>Nhóm Cát Trắng</artist>
+		<author>Lm. Mai Thiện</author>
+		<album>Như Cỏ Cây</album>
+		<type>Thể Loại Khác</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/Albums/NhuCoCay/10.25NamThoiGian_mth_NhomCatTrang.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>402</albumid>
+		<songid>4971</songid>
+		<name>Người Linh mục</name>
+		<artist>Phong Thuận - Đan Viện Thánh Mẫu Phước Sơn</artist>
+		<author>Lm. Mai Thiện</author>
+		<album>Như Cỏ Cây</album>
+		<type>Thể Loại Khác</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/Albums/NhuCoCay/01.NguoiLinhMuc_mth_PhongThuan.mp3</audio>
+		<pdf></pdf>
+	</song>
+</songs>

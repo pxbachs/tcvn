@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songs>
+	<song>
+		<albumid>294</albumid>
+		<songid>3459</songid>
+		<name>Một niềm phó thác</name>
+		<artist>HạnhNguyên - Nhóm Mèo Ướt</artist>
+		<author>Lm. Nguyễn Mộng Huỳnh</author>
+		<album>Một Niềm Phó Thác</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/MotNiemPhoThac/04.MotNiemPhoThac_nmh_HanhNguyen-NhomMeoUot.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/MotNiemPhoThac/MotNiemPhoThac_nmh.pdf</pdf>
+	</song>
+	<song>
+		<albumid>299</albumid>
+		<songid>3525</songid>
+		<name>Lễ dâng</name>
+		<artist>Kim Cúc - Phi Nguyễn</artist>
+		<author>Hải Ánh</author>
+		<album>Phi Nguyễn Vol. 03 - Diễm Tình Ca</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-256/PhiNguyenVol.03-DiemTinhCa/11.LeDang_ha_PhiNguyen-KimCuc.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-256/PhiNguyenVol.03-DiemTinhCa/LeDang.pdf</pdf>
+	</song>
+	<song>
+		<albumid>315</albumid>
+		<songid>3715</songid>
+		<name>Dâng 6</name>
+		<artist>Ca Đoàn Cecilia</artist>
+		<author>Trần Xuân Long</author>
+		<album>Tình Chúa Tình Con</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TinhChuaTinhCon/04.Dang6_txl_CaDoanCecilia.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/TinhChuaTinhCon/Dang6_txl.pdf</pdf>
+	</song>
+	<song>
+		<albumid>329</albumid>
+		<songid>3940</songid>
+		<name>Hiến lễ Tình yêu</name>
+		<artist>Ca Đoàn Sao Mai</artist>
+		<author>Thế Thông - Lời: Miên Ly</author>
+		<album>Bài hát của Ca Đoàn Sao Mai</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/Albums/BaiHatCuaDoanSaoMai/HienLeTinhYeu_tth-ml(CaDoanSaoMai).mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/Albums/BaiHatCuaDoanSaoMai/HienLeTinhYeu_tth-ml.pdf</pdf>
+	</song>
+	<song>
+		<albumid>329</albumid>
+		<songid>4731</songid>
+		<name>Hy lễ tình yêu</name>
+		<artist>Ca Đoàn Sao Mai</artist>
+		<author>Thế Thông</author>
+		<album>Bài hát của Ca Đoàn Sao Mai</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/Albums/BaiHatCuaDoanSaoMai/HyLeTinhYeu_tth_CaDoanSaoMai.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/Albums/BaiHatCuaDoanSaoMai/HyLeTinhYeu_tth.pdf</pdf>
+	</song>
+	<song>
+		<albumid>344</albumid>
+		<songid>4139</songid>
+		<name>Của Lễ nhân sinh</name>
+		<artist>Hạ Lan</artist>
+		<author>Trần Mừng</author>
+		<album>Những Chiếc Mạng Nhện</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/Albums/NhungChiecMangNhen/CuaLeNhanSinh_tm(HaLan).mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/Albums/NhungChiecMangNhen/CuaLeNhanSinh_tm.pdf</pdf>
+	</song>
+	<song>
+		<albumid>363</albumid>
+		<songid>4408</songid>
+		<name>Dâng hồn xác</name>
+		<artist>Hoàng Oanh</artist>
+		<author>Hùng Lân</author>
+		<album>Thánh Ca Hoàng Oanh CD12 - Tình Cha</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TCHOCD12-TinhCha/04.DangHonXac_hlan_HoangOanh.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/TCHOCD12-TinhCha/DangHonXac_hlan.pdf</pdf>
+	</song>
+	<song>
+		<albumid>399</albumid>
+		<songid>4937</songid>
+		<name>Lễ dâng</name>
+		<artist>Cam Thơ</artist>
+		<author>Lm. Nguyễn Mộng Huỳnh</author>
+		<album>Chúa Đã Là Người Tỵ Nạn</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ChuaDaLaNguoiTyNan/06.LeDang_nmh_CamTho.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/ChuaDaLaNguoiTyNan/LeDang_nmh.pdf</pdf>
+	</song>
+	<song>
+		<albumid>415</albumid>
+		<songid>5145</songid>
+		<name>Dâng Ngài đời con</name>
+		<artist>Khắc Dũng</artist>
+		<author>Lm. Nguyễn Hùng Cường - Phương Ý</author>
+		<album>Chúa Sánh Bước Với Con</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ChuaSanhBuocVoiCon/07.DangNgaiDoiCon_nhc_KhacDung.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/ChuaSanhBuocVoiCon/DangNgaiDoiCon_nhc-py.pdf</pdf>
+	</song>
+	<song>
+		<albumid>415</albumid>
+		<songid>5141</songid>
+		<name>Dâng những buồn vui</name>
+		<artist>Tấn Đạt</artist>
+		<author>Lm. Nguyễn Hùng Cường</author>
+		<album>Chúa Sánh Bước Với Con</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ChuaSanhBuocVoiCon/03.DangNhungBuonVui_nhc_TanDat.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/ChuaSanhBuocVoiCon/DangNhungBuonVui_nhc.pdf</pdf>
+	</song>
+	<song>
+		<albumid>415</albumid>
+		<songid>5143</songid>
+		<name>Tình Chúa ơn Ngài đã đủ cho con</name>
+		<artist>Quang Minh</artist>
+		<author>Lm. Nguyễn Hùng Cường</author>
+		<album>Chúa Sánh Bước Với Con</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ChuaSanhBuocVoiCon/05.TinhChuaOnNgaiDaDuChoCon_nhc_QuangMinh.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/ChuaSanhBuocVoiCon/OnNgaiDaDuChoCon_nhc.pdf</pdf>
+	</song>
+	<song>
+		<albumid>491</albumid>
+		<songid>6164</songid>
+		<name>Hy lễ Tình yêu</name>
+		<artist>Ca Đoàn Sao Mai</artist>
+		<author>Thế Thông</author>
+		<album>Hòa Khúc Tạ Ơn 2</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-256/HoaKhucTaOn2/03.HyLeTinhYeu_tth_CaDoanSaoMai.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-256/HoaKhucTaOn2/HyLeTinhYeu_tth.pdf</pdf>
+	</song>
+	<song>
+		<albumid>491</albumid>
+		<songid>6168</songid>
+		<name>Hiến lễ Tình yêu</name>
+		<artist>Ca Đoàn Sao Mai</artist>
+		<author>Thế Thông - Lời: Miên Ly</author>
+		<album>Hòa Khúc Tạ Ơn 2</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-256/HoaKhucTaOn2/07.HienLeTinhYeu_tth-ml_CaDoanSaoMai.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-256/HoaKhucTaOn2/HienLeTinhYeu_tth-ml.pdf</pdf>
+	</song>
+	<song>
+		<albumid>519</albumid>
+		<songid>6490</songid>
+		<name>Dâng Ngài</name>
+		<artist>Thu Hằng</artist>
+		<author>Thy Yên</author>
+		<album>Bao La Tình Ngài 4 - Yêu Thương</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/Albums/BaoLaTinhNgai4-YeuThuong/DangNgai_ty_ThuHang.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/Albums/BaoLaTinhNgai4-YeuThuong/DangNgai_ty.pdf</pdf>
+	</song>
+	<song>
+		<albumid>520</albumid>
+		<songid>6509</songid>
+		<name>Khúc hát tạ ơn</name>
+		<artist>Hợp Ca</artist>
+		<author>Thy Yên</author>
+		<album>Dâng Ngài Vol.2</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/DangNgaiVol2/10.KhucHatTaOn_ty_HopCa.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/DangNgaiVol2/KhucHatTaOn_ty.pdf</pdf>
+	</song>
+	<song>
+		<albumid>523</albumid>
+		<songid>6543</songid>
+		<name>Hiến dâng</name>
+		<artist>Gia Ân</artist>
+		<author>Lm. Nguyễn Văn Trinh</author>
+		<album>Gia Ân Vol.06 - Nhạc Sỹ Thiên Thần</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/GiaAnVol.06-NhacSyThienThan/08.HienDang_nvtr_GiaAn.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/GiaAnVol.06-NhacSyThienThan/HienDang_nvtr.pdf</pdf>
+	</song>
+	<song>
+		<albumid>523</albumid>
+		<songid>6541</songid>
+		<name>Lời thiêng</name>
+		<artist>Gia Ân</artist>
+		<author>Xuân Tưởng</author>
+		<album>Gia Ân Vol.06 - Nhạc Sỹ Thiên Thần</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/GiaAnVol.06-NhacSyThienThan/06.LoiThieng_xt_GiaAn.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/GiaAnVol.06-NhacSyThienThan/LoiThieng_xt.pdf</pdf>
+	</song>
+	<song>
+		<albumid>550</albumid>
+		<songid>5718</songid>
+		<name>Trên đĩa Thánh</name>
+		<artist>Lm. Nguyễn Sang</artist>
+		<author>Lm. Mi Trầm</author>
+		<album>Lm. JB. Nguyễn Sang Vol.02 - Cùng Mẹ Con Dâng</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/Lm.NSVol.02-CungMeConDang/08.TrenDiaThanh_mt_Lm.NguyenSang.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/Lm.NSVol.02-CungMeConDang/TrenDiaThanh_mt.pdf</pdf>
+	</song>
+	<song>
+		<albumid>550</albumid>
+		<songid>5690</songid>
+		<name>Dâng</name>
+		<artist>Lm. Nguyễn Sang</artist>
+		<author>Lm. Nguyễn Duy</author>
+		<album>Lm. JB. Nguyễn Sang Vol.02 - Cùng Mẹ Con Dâng</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/Lm.NSVol.02-CungMeConDang/02.Dang_nd_Lm.NguyenSang.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/Lm.NSVol.02-CungMeConDang/Dang_nd.pdf</pdf>
+	</song>
+	<song>
+		<albumid>554</albumid>
+		<songid>6919</songid>
+		<name>Giấc mơ chưa trọn</name>
+		<artist>Hoàng Oanh</artist>
+		<author>Nhất Chi Vũ</author>
+		<album>Thánh Ca Hoàng Oanh 4 - Ca Dao Mẹ Dịu Hiền</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TCHO4-CaDaoMeDiuHien/03.GiacMoChuaTron_ncv_HoangOanh.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/TCHO4-CaDaoMeDiuHien/GiacMoChuaTron_ncv.pdf</pdf>
+	</song>
+	<song>
+		<albumid>555</albumid>
+		<songid>6929</songid>
+		<name>Lời thiêng</name>
+		<artist>Lệ Hằng</artist>
+		<author>Xuân Tưởng</author>
+		<album>Hải Âu Thánh Ca 5 - Lệ Hằng</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/HaiAuThanhCa5-LeHang/01.LoiThieng_xt_LeHang.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/HaiAuThanhCa5-LeHang/LoiThieng_xt.pdf</pdf>
+	</song>
+	<song>
+		<albumid>561</albumid>
+		<songid>6989</songid>
+		<name>Dâng lời nguyện cầu</name>
+		<artist>Hồ Bích Ngọc</artist>
+		<author>Ngọc Linh</author>
+		<album>Bốn Mùa Yêu Thương</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/BonMuaYeuThuong/02.DangLoiNguyenCau_nl_HoBichNgoc.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/BonMuaYeuThuong/DangLoiNguyenCau_nl.pdf</pdf>
+	</song>
+	<song>
+		<albumid>569</albumid>
+		<songid>7077</songid>
+		<name>Dâng Ngài</name>
+		<artist>Thanh Uyên</artist>
+		<author>Thy Yên</author>
+		<album>Hải Âu Thánh Ca 6 - Gọi Lời Yêu Thương</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.net/ThanhCaVN/index.php?url=Download,7077,RP89-A3F93A334FCF3E0C</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/Albums/HATC6-GoiLoiYeuThuong/DangNgai_ty.pdf</pdf>
+	</song>
+	<song>
+		<albumid>572</albumid>
+		<songid>7116</songid>
+		<name>Dâng Ngài</name>
+		<artist>Hà Bảo Thu - Thanh Sử</artist>
+		<author>Thy Yên</author>
+		<album>Tâm Nguyện - Hà Bảo Thu</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TamNguyen-HaBaoThu/05.DangNgai_ty_HaBaoThu-ThanhSu.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/TamNguyen-HaBaoThu/DangNgai_ty.pdf</pdf>
+	</song>
+	<song>
+		<albumid>574</albumid>
+		<songid>7133</songid>
+		<name>Dâng Ngài</name>
+		<artist>Trung Đông - Đoan Thùy</artist>
+		<author>Thy Yên</author>
+		<album>Trung Đông Thiên Đường Ca 2 - Tâm Tình Tri Ân</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TrungDongTDC2-TamTinhTriAn/01.DangNgai_ty_TrungDong-DoanThuy.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/TrungDongTDC2-TamTinhTriAn/DangNgai_ty.pdf</pdf>
+	</song>
+	<song>
+		<albumid>637</albumid>
+		<songid>7798</songid>
+		<name>Hiến lễ Tình yêu</name>
+		<artist>Ca Đoàn Sao Mai</artist>
+		<author>Thế Thông - Lời: Miên Ly</author>
+		<album>Hòa Khúc Tạ Ơn</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/HoaKhucTaOn/08.HienLeTinhYeu_tth-ml_CaDoanSaoMai.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/HoaKhucTaOn/HienLeTinhYeu_tth-ml.pdf</pdf>
+	</song>
+	<song>
+		<albumid>660</albumid>
+		<songid>8042</songid>
+		<name>Ca khúc trầm hương</name>
+		<artist>Hoàng Oanh</artist>
+		<author>Lm. Dao Kim</author>
+		<album>Nửa Đêm Khấn Hứa - Hoàng Oanh</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/NuaDemKhanHua-HoangOanh/01.CaKhucTramHuong_dk_HoangOanh.mp3</audio>
+		<pdf>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/NuaDemKhanHua-HoangOanh/CaKhucTramHuong_dk.pdf</pdf>
+	</song>
+	<song>
+		<albumid>682</albumid>
+		<songid>8292</songid>
+		<name>Như lễ hy sinh</name>
+		<artist>Hợp xướng Pio X</artist>
+		<author>Thiên Lý</author>
+		<album>Như Lễ Hy Sinh</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/NhuLeHySinh/11.NhuLeHySinh_thly_CaDoanPioX.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/NhuLeHySinh/NhuLeHySinh(4Be)_thly.pdf</pdf>
+	</song>
+	<song>
+		<albumid>682</albumid>
+		<songid>8283</songid>
+		<name>Con muốn dâng Ngài</name>
+		<artist>Thùy Dương</artist>
+		<author>Thiên Lý</author>
+		<album>Như Lễ Hy Sinh</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/NhuLeHySinh/02.ConMuonDangNgai_thly_ThuyDuong.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/NhuLeHySinh/ConMuonDangNgai_thly.pdf</pdf>
+	</song>
+	<song>
+		<albumid>810</albumid>
+		<songid>9715</songid>
+		<name>Tựa làn trầm hương</name>
+		<artist>Hoài Nam</artist>
+		<author>Việt Khôi</author>
+		<album>Chúa Đã Yêu Con</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ChuaDaYeuCon/03.TuaLanTramHuong_vk_HoaiNam.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/ChuaDaYeuCon/TuaLanTramHuong_vk.pdf</pdf>
+	</song>
+	<song>
+		<albumid>810</albumid>
+		<songid>9717</songid>
+		<name>Ngàn lời chúc tụng</name>
+		<artist>Khắc Dũng - Hồng Sơn</artist>
+		<author>Ngọc Linh</author>
+		<album>Chúa Đã Yêu Con</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ChuaDaYeuCon/05.NganLoiChucTung_nl_KhacDung-HongSon.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/ChuaDaYeuCon/NganLoiChucTung_nl.pdf</pdf>
+	</song>
+	<song>
+		<albumid>826</albumid>
+		<songid>9952</songid>
+		<name>Sứ thần hiệp dâng</name>
+		<artist>Thanh Yên - Trọng Tín</artist>
+		<author>Hồng Trần Phạm Đình Đài</author>
+		<album>Tình Thương Nhiệm Mầu</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TinhThuongNhiemMau/04.SuThanHiepDang_htpdd_ThanhYen-TrongTin.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/TinhThuongNhiemMau/SuThanHiepDang_htpdd.pdf</pdf>
+	</song>
+	<song>
+		<albumid>828</albumid>
+		<songid>9990</songid>
+		<name>Thân lúa miến</name>
+		<artist>Ca Đoàn Viễn Xứ</artist>
+		<author>Lm. Mi Trầm</author>
+		<album>Bài hát của Ca Đoàn Viễn Xứ</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/BaiHatCuaCDVX/ThanLuaMien_mt_CDVX.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/BaiHatCuaCDVX/ThanLuaMien_mt-ch.pdf</pdf>
+	</song>
+	<song>
+		<albumid>828</albumid>
+		<songid>9989</songid>
+		<name>Nguyện dâng lên Chúa</name>
+		<artist>Ca Đoàn Viễn Xứ</artist>
+		<author>Ngọc Linh</author>
+		<album>Bài hát của Ca Đoàn Viễn Xứ</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/BaiHatCuaCDVX/NguyenDangLenChua_nl_CDVX.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/BaiHatCuaCDVX/NguyenDangLenChua_nl.pdf</pdf>
+	</song>
+	<song>
+		<albumid>828</albumid>
+		<songid>9985</songid>
+		<name>Dâng Người</name>
+		<artist>Ca Đoàn Viễn Xứ</artist>
+		<author>Phanxicô</author>
+		<album>Bài hát của Ca Đoàn Viễn Xứ</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/BaiHatCuaCDVX/DangNguoi_pxc_CDVX.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/BaiHatCuaCDVX/DangNguoi_pxc.pdf</pdf>
+	</song>
+	<song>
+		<albumid>837</albumid>
+		<songid>10114</songid>
+		<name>Con xin dâng</name>
+		<artist>Lm. Nguyễn Sang</artist>
+		<author>Lm. Mi Trầm</author>
+		<album>Lm. JB. Nguyễn Sang Vol.08 - Ngày Trở Về</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/Lm.NSVol.08-NgayTroVe/11.ConXinDang_mt_Lm.NguyenSang.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/Lm.NSVol.08-NgayTroVe/ConXinDang_mt.pdf</pdf>
+	</song>
+	<song>
+		<albumid>838</albumid>
+		<songid>10118</songid>
+		<name>Hiến dâng</name>
+		<artist>Lm. Nguyễn Sang</artist>
+		<author>Lm. Nguyễn Văn Trinh</author>
+		<album>Lm. JB. Nguyễn Sang Vol.09 - Chỉ Có Một Trên Đời</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/Lm.NSVol.09-ChiCoMotTrenDoi/01.HienDang_nvt_Lm.NguyenSang.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/Lm.NSVol.09-ChiCoMotTrenDoi/HienDang_nvt.pdf</pdf>
+	</song>
+	<song>
+		<albumid>901</albumid>
+		<songid>10977</songid>
+		<name>Ca khúc trầm hương</name>
+		<artist>Hoàng Oanh</artist>
+		<author>Lm. Dao Kim</author>
+		<album>Hoàng Oanh Thánh Ca 7 - Đêm Đông Chúa Sinh Ra Đời</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/HOTC7-DemDongChuaSinhRaDoi/11.CaKhucTramHuong_dk_HoangOanh.mp3</audio>
+		<pdf>http://thanhcavietnam.mobi/FilesNhac/GiangSinh-128/HOTC7-DemDongChuaSinhRaDoi/CaKhucTramHuong_dk.pdf</pdf>
+	</song>
+	<song>
+		<albumid>947</albumid>
+		<songid>13390</songid>
+		<name>Xin dâng lên</name>
+		<artist>Ca Đoàn Thiên Thanh (Tốp Nữ)</artist>
+		<author>Hải Ánh</author>
+		<album>Bài hát của Nhạc sỹ: Hải Ánh</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/TacGia/HaiAnh/XinDangLen_ha_CaDoanThienThanh.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/TacGia/HaiAnh/XinDangLen_ha.pdf</pdf>
+	</song>
+	<song>
+		<albumid>947</albumid>
+		<songid>13394</songid>
+		<name>Tình dâng vẹn tròn</name>
+		<artist>Ca Đoàn Thiên Thanh</artist>
+		<author>Hải Ánh</author>
+		<album>Bài hát của Nhạc sỹ: Hải Ánh</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.net/ThanhCaVN/index.php?url=Download,13394,RP89-036BE62B61DD056E</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/TacGia/HaiAnh/TinhDangVenTron_ha.pdf</pdf>
+	</song>
+	<song>
+		<albumid>947</albumid>
+		<songid>13391</songid>
+		<name>Dâng Chúa hiến lễ đời con</name>
+		<artist>Ca Đoàn Thiên Thanh</artist>
+		<author>Hải Ánh</author>
+		<album>Bài hát của Nhạc sỹ: Hải Ánh</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/TacGia/HaiAnh/DangChuaHienLeDoiCon_ha_CaDoanThienThanh.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/TacGia/HaiAnh/DangChuaHienLeDoiCon_ha.pdf</pdf>
+	</song>
+	<song>
+		<albumid>947</albumid>
+		<songid>13376</songid>
+		<name>Kính tiến dâng Cha</name>
+		<artist>Gia Ân - Tam Ca Nữ (Ca Đoàn Thiên Thanh)</artist>
+		<author>Hải Ánh</author>
+		<album>Bài hát của Nhạc sỹ: Hải Ánh</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.net/ThanhCaVN/index.php?url=Download,13376,RP89-8E5CD292FA2CB56E</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/TacGia/HaiAnh/KinhTienDangCha_ha.pdf</pdf>
+	</song>
+	<song>
+		<albumid>947</albumid>
+		<songid>13393</songid>
+		<name>Như nén hương</name>
+		<artist>Ca Đoàn Thiên Thanh</artist>
+		<author>Hải Ánh</author>
+		<album>Bài hát của Nhạc sỹ: Hải Ánh</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/TacGia/HaiAnh/NhuNenHuong_ha_CaDoanThienThanh.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/TacGia/HaiAnh/NhuNenHuong_ha.pdf</pdf>
+	</song>
+	<song>
+		<albumid>947</albumid>
+		<songid>13392</songid>
+		<name>Như lễ tế tình yêu</name>
+		<artist>Ca Đoàn Thiên Thanh (Tốp Nữ)</artist>
+		<author>Hải Ánh</author>
+		<album>Bài hát của Nhạc sỹ: Hải Ánh</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/TacGia/HaiAnh/NhuLeTeTinhYeu_ha_CaDoanThienThanh.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/TacGia/HaiAnh/NhuLeTeTinhYeu_ha.pdf</pdf>
+	</song>
+	<song>
+		<albumid>947</albumid>
+		<songid>13377</songid>
+		<name>Xin tiến dâng lên</name>
+		<artist>Trần Ngọc</artist>
+		<author>Hải Ánh</author>
+		<album>Bài hát của Nhạc sỹ: Hải Ánh</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/TacGia/HaiAnh/XinTienDangLen_ha_TranNgoc.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/TacGia/HaiAnh/XinTienDangLen_ha.pdf</pdf>
+	</song>
+	<song>
+		<albumid>947</albumid>
+		<songid>13389</songid>
+		<name>Cùng dâng với Mẹ</name>
+		<artist>Diệu Hiền</artist>
+		<author>Hải Ánh</author>
+		<album>Bài hát của Nhạc sỹ: Hải Ánh</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/TacGia/HaiAnh/CungDangVoiMe_ha_DieuHien.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/TacGia/HaiAnh/CungDangVoiMe_ha.pdf</pdf>
+	</song>
+	<song>
+		<albumid>947</albumid>
+		<songid>13354</songid>
+		<name>Như lễ tế chiều hôm</name>
+		<artist>Trần Ngọc</artist>
+		<author>Hải Ánh</author>
+		<album>Bài hát của Nhạc sỹ: Hải Ánh</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/TacGia/HaiAnh/NhuLeTeChieuHom_ha_TranNgoc.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/TacGia/HaiAnh/NhuLeTeChieuHom_ha.pdf</pdf>
+	</song>
+	<song>
+		<albumid>980</albumid>
+		<songid>11977</songid>
+		<name>Tiến dâng của lễ</name>
+		<artist>Diệu Hiền</artist>
+		<author>Đinh Công Huỳnh</author>
+		<album>Trọn Đời Hiến Dâng</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TronDoiHienDang/07.TienDangCuaLe_dch_DieuHien.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/TronDoiHienDang/TienDangCuaLe_dch.pdf</pdf>
+	</song>
+	<song>
+		<albumid>992</albumid>
+		<songid>12079</songid>
+		<name>Dâng 6</name>
+		<artist>Gia Ân</artist>
+		<author>Trần Xuân Long</author>
+		<album>Xin Ngài Hãy Chọn Con 4</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/XinNgaiHayChonCon4/06.Dang6_txl_GiaAn.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/XinNgaiHayChonCon4/Dang6_txl.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1066</albumid>
+		<songid>13048</songid>
+		<name>Dâng Ngài</name>
+		<artist>Trần Ngọc</artist>
+		<author>Lm. Vũ Thái Hòa</author>
+		<album>Điều Gì Phải Lo</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/DieuGiPhaiLo/11.DangNgai_vth_TranNgoc.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/DieuGiPhaiLo/DangNgai_vth.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1090</albumid>
+		<songid>13383</songid>
+		<name>Dâng lễ vật</name>
+		<artist>Như Tỉnh - Minh Hoàng</artist>
+		<author>Lm. Nguyên Lễ</author>
+		<album>Bài hát của Nhạc sỹ: Lm. Nguyên Lễ</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/TacGia/Lm.NguyenLe/DangLeVat_ngl_NhuTinh-MinhHoang.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/TacGia/Lm.NguyenLe/DangLeVat_ngl.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1091</albumid>
+		<songid>13400</songid>
+		<name>Dâng Chúa Trời</name>
+		<artist>Trần Huy</artist>
+		<author>Phanxicô</author>
+		<album>Trần Huy Vol.1 - Lỗi Hẹn</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-256/TranHuyVol.1-LoiHen/06.DangChuaTroi_pxc_TranHuy.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-256/TranHuyVol.1-LoiHen/DangChuaTroi_pxc.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1126</albumid>
+		<songid>13879</songid>
+		<name>Dâng lên Chúa</name>
+		<artist>Minh Hoàng</artist>
+		<author>Nguyên Nhung</author>
+		<album>Bài hát của Nhạc sỹ: Nguyên Nhung</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/TacGia/NguyenNhung/DangLenChua_nn_MinhHoang.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/TacGia/NguyenNhung/DangLenChua_nn.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1158</albumid>
+		<songid>14288</songid>
+		<name>Ca khúc trầm hương</name>
+		<artist>Anh Phương</artist>
+		<author>Hùng lân - Lm. Dao Kim</author>
+		<album>Phi Nguyễn Vol. 12 - Tri Ân Tình Ngài</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-256/PhiNguyenVol.12-TriAnTinhNgai/07.CaKhucTramHuong_hlan-dk_AnhPhuong.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-256/PhiNguyenVol.12-TriAnTinhNgai/CaKhucTramHuong_hlan-dk.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1167</albumid>
+		<songid>14392</songid>
+		<name>Tựa làn trầm hương</name>
+		<artist>Lm. Nguyễn Sang</artist>
+		<author>Đỗ Vy Hạ</author>
+		<album>Lm. JB. Nguyễn Sang Vol.16 - Thiên Đường Ca</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-256/Lm.NSVol.16-ThienDuongCa/09.TuaLanTramHuong_dvh_Lm.NguyenSang.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-256/Lm.NSVol.16-ThienDuongCa/TuaLanTramHuong_dvh.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1167</albumid>
+		<songid>14397</songid>
+		<name>Dâng lên</name>
+		<artist>Lm. Nguyễn Sang</artist>
+		<author>Lm. Phạm Liên Hùng</author>
+		<album>Lm. JB. Nguyễn Sang Vol.16 - Thiên Đường Ca</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-256/Lm.NSVol.16-ThienDuongCa/14.DangLen_plh_Lm.NguyenSang.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-256/Lm.NSVol.16-ThienDuongCa/DangLen_plh.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1167</albumid>
+		<songid>14398</songid>
+		<name>Mỗi lời kinh</name>
+		<artist>Lm. Nguyễn Sang</artist>
+		<author>Lm. Kim Long</author>
+		<album>Lm. JB. Nguyễn Sang Vol.16 - Thiên Đường Ca</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-256/Lm.NSVol.16-ThienDuongCa/15.MoiLoiKinh_kl_Lm.NguyenSang.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-256/Lm.NSVol.16-ThienDuongCa/MoiLoiKinh_kl.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1174</albumid>
+		<songid>14494</songid>
+		<name>Dâng niềm cảm mến</name>
+		<artist>Trần Huy</artist>
+		<author>Phanxicô</author>
+		<album>Trần Huy Vol.2 - Nhạc Khúc Yêu Thương</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TranHuyVol.2-NhacKhucYeuThuong/04.DangNiemCamMen_pxc_TranHuy.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/TranHuyVol.2-NhacKhucYeuThuong/DangNiemCamMen_pxc.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1176</albumid>
+		<songid>14511</songid>
+		<name>Lễ dâng Ngài</name>
+		<artist>Diệu Hiền - Hoàng Quân</artist>
+		<author>Liên Bình Định</author>
+		<album>Bài hát của Nhạc sỹ: Liên Bình Định</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/TacGia/LienBinhDinh/LeDangNgai_lbd_DieuHien-HoangQuan.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/TacGia/LienBinhDinh/LeDangNgai_lbd.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1178</albumid>
+		<songid>14545</songid>
+		<name>Hiến dâng</name>
+		<artist>Bảo Trâm - Như Hạnh - Quang Thái</artist>
+		<author>Lm. Nguyễn Văn Trinh</author>
+		<album>Xin Hát Lời Tạ Ơn</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-256/XinHatLoiTaOn/06.HienDang_nvtr_BaoTram-NhuHanh-QuangThai.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-256/XinHatLoiTaOn/HienDang_nvtr.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1205</albumid>
+		<songid>14875</songid>
+		<name>Của lễ dâng Ngài</name>
+		<artist>Tốp Ca Trùng Dương Studio</artist>
+		<author>Trùng Dương</author>
+		<album>Một Đời Ngợi Ca Vol.6 - Nguyện Cầu</album>
+		<type>Dâng Lễ</type>
+		<audio>http://thanhcavietnam.net/QCMP/MDNCVol.6-NguyenCau/06.CuaLeDangNgai_trd_TopCaTrungDuong.mp3</audio>
+		<pdf>http://thanhcavietnam.net/QCMP/MDNCVol.6-NguyenCau/CuaLeDangNgai_trd.pdf</pdf>
+	</song>
+</songs>

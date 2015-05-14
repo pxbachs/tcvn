@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songs>
+	<song>
+		<albumid>319</albumid>
+		<songid>3801</songid>
+		<name>Ca ngợi Lòng Thương Xót Chúa</name>
+		<artist>Anh Dũng</artist>
+		<author>Lm. Vũ Đình Trác</author>
+		<album>Tình Chúa Yêu Tôi</album>
+		<type>Lòng Thương Xót Chúa</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TinhChuaYeuToi/07.CaNgoiLongThuongXotChua_vdt_AnhDung.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>635</albumid>
+		<songid>7775</songid>
+		<name>Trái tim Chúa Giêsu</name>
+		<artist>Ngọc Quế</artist>
+		<author>Cao Huy Hoàng</author>
+		<album>Tôn Vinh Lòng Thương Xót Chúa</album>
+		<type>Lòng Thương Xót Chúa</type>
+		<audio>http://thanhcavietnam.net/CD-TCVN-AH/TonVinhLongThuongXotChua/10.TraiTimChuaGiesu_chh_NgocQue.mp3</audio>
+		<pdf>http://thanhcavietnam.net/CD-TCVN-AH/TonVinhLongThuongXotChua/TraiTimChuaGiesu_chh.pdf</pdf>
+	</song>
+	<song>
+		<albumid>635</albumid>
+		<songid>7773</songid>
+		<name>Lòng Thương Xót Chúa</name>
+		<artist>Hợp Ca Thanh An</artist>
+		<author>Lm. Huyền Linh</author>
+		<album>Tôn Vinh Lòng Thương Xót Chúa</album>
+		<type>Lòng Thương Xót Chúa</type>
+		<audio>http://thanhcavietnam.net/CD-TCVN-AH/TonVinhLongThuongXotChua/08.LongThuongXotChua_hl_HopCaThanhAn.mp3</audio>
+		<pdf>http://thanhcavietnam.net/CD-TCVN-AH/TonVinhLongThuongXotChua/LongThuongXotChua_hl.pdf</pdf>
+	</song>
+	<song>
+		<albumid>635</albumid>
+		<songid>7770</songid>
+		<name>Lòng Thương Xót Chúa 1</name>
+		<artist>Ngọc Mai - Anh Vũ</artist>
+		<author>Nguyễn Chánh</author>
+		<album>Tôn Vinh Lòng Thương Xót Chúa</album>
+		<type>Lòng Thương Xót Chúa</type>
+		<audio>http://thanhcavietnam.net/CD-TCVN-AH/TonVinhLongThuongXotChua/05.LongThuongXotChua1_nc_NgocMai-AnhVu.mp3</audio>
+		<pdf>http://thanhcavietnam.net/CD-TCVN-AH/TonVinhLongThuongXotChua/LongThuongXotChua1_nc.pdf</pdf>
+	</song>
+	<song>
+		<albumid>635</albumid>
+		<songid>7774</songid>
+		<name>Lòng Thương Xót Chúa 5</name>
+		<artist>Hợp Ca Thanh An</artist>
+		<author>Nguyễn Chánh</author>
+		<album>Tôn Vinh Lòng Thương Xót Chúa</album>
+		<type>Lòng Thương Xót Chúa</type>
+		<audio>http://thanhcavietnam.net/CD-TCVN-AH/TonVinhLongThuongXotChua/09.LongThuongXotChua5_nc_HopCaThanhAn.mp3</audio>
+		<pdf>http://thanhcavietnam.net/CD-TCVN-AH/TonVinhLongThuongXotChua/LongThuongXotChua5_nc.pdf</pdf>
+	</song>
+	<song>
+		<albumid>635</albumid>
+		<songid>7772</songid>
+		<name>Thiên Chúa giàu Lòng Thương Xót</name>
+		<artist>Ngọc Mai</artist>
+		<author>Lm. Ân Đức</author>
+		<album>Tôn Vinh Lòng Thương Xót Chúa</album>
+		<type>Lòng Thương Xót Chúa</type>
+		<audio>http://thanhcavietnam.net/CD-TCVN-AH/TonVinhLongThuongXotChua/07.ThienChuaGiauLongThuongXot_ad_NgocMai.mp3</audio>
+		<pdf>http://thanhcavietnam.net/CD-TCVN-AH/TonVinhLongThuongXotChua/ThienChuaGiauLongThuongXot_ad.pdf</pdf>
+	</song>
+	<song>
+		<albumid>635</albumid>
+		<songid>7766</songid>
+		<name>Lòng Thương Xót Chúa 3</name>
+		<artist>Hồng Phúc</artist>
+		<author>Nguyễn Chánh</author>
+		<album>Tôn Vinh Lòng Thương Xót Chúa</album>
+		<type>Lòng Thương Xót Chúa</type>
+		<audio>http://thanhcavietnam.net/CD-TCVN-AH/TonVinhLongThuongXotChua/01.LongThuongXotChua3_nc_HongPhuc.mp3</audio>
+		<pdf>http://thanhcavietnam.net/CD-TCVN-AH/TonVinhLongThuongXotChua/LongThuongXotChua3_nc.pdf</pdf>
+	</song>
+	<song>
+		<albumid>635</albumid>
+		<songid>7769</songid>
+		<name>Đại dương thương xót</name>
+		<artist>Ngọc Quế</artist>
+		<author>Nguyên Kha</author>
+		<album>Tôn Vinh Lòng Thương Xót Chúa</album>
+		<type>Lòng Thương Xót Chúa</type>
+		<audio>http://thanhcavietnam.net/CD-TCVN-AH/TonVinhLongThuongXotChua/04.DaiDuongThuongXot_nk_NgocQue.mp3</audio>
+		<pdf>http://thanhcavietnam.net/CD-TCVN-AH/TonVinhLongThuongXotChua/DaiDuongThuongXot_nk.pdf</pdf>
+	</song>
+	<song>
+		<albumid>635</albumid>
+		<songid>7767</songid>
+		<name>Tôn vinh Lòng Thương Xót Chúa</name>
+		<artist>Hợp Ca Thanh An</artist>
+		<author>Cao Huy Hoàng</author>
+		<album>Tôn Vinh Lòng Thương Xót Chúa</album>
+		<type>Lòng Thương Xót Chúa</type>
+		<audio>http://thanhcavietnam.net/CD-TCVN-AH/TonVinhLongThuongXotChua/02.TonVinhLongThuongXotChua_chh_HopCaThanhAn.mp3</audio>
+		<pdf>http://thanhcavietnam.net/CD-TCVN-AH/TonVinhLongThuongXotChua/TonVinhLongThuongXotChua_chh.pdf</pdf>
+	</song>
+	<song>
+		<albumid>635</albumid>
+		<songid>7771</songid>
+		<name>Nguồn mạch thương xót</name>
+		<artist>Tốp Ca Thanh An</artist>
+		<author>Nguyên Kha</author>
+		<album>Tôn Vinh Lòng Thương Xót Chúa</album>
+		<type>Lòng Thương Xót Chúa</type>
+		<audio>http://thanhcavietnam.net/CD-TCVN-AH/TonVinhLongThuongXotChua/06.NguonMachThuongXot_nk_TopCaThanhAn.mp3</audio>
+		<pdf>http://thanhcavietnam.net/CD-TCVN-AH/TonVinhLongThuongXotChua/NguonMachThuongXot_nk.pdf</pdf>
+	</song>
+	<song>
+		<albumid>635</albumid>
+		<songid>7768</songid>
+		<name>Lòng Thương Xót Chúa 4</name>
+		<artist>Hợp Ca Thanh An</artist>
+		<author>Nguyễn Chánh</author>
+		<album>Tôn Vinh Lòng Thương Xót Chúa</album>
+		<type>Lòng Thương Xót Chúa</type>
+		<audio>http://thanhcavietnam.net/CD-TCVN-AH/TonVinhLongThuongXotChua/03.LongThuongXotChua4_nc_HopCaThanhAn.mp3</audio>
+		<pdf>http://thanhcavietnam.net/CD-TCVN-AH/TonVinhLongThuongXotChua/LongThuongXotChua4_nc.pdf</pdf>
+	</song>
+	<song>
+		<albumid>696</albumid>
+		<songid>8462</songid>
+		<name>Lòng Thương Xót Chúa</name>
+		<artist>Lm. Nguyễn Sang</artist>
+		<author>Lm. Huyền Linh</author>
+		<album>Lm. JB. Nguyễn Sang Vol.06 - Lòng Chúa Xót Thương</album>
+		<type>Lòng Thương Xót Chúa</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/Lm.NSVol.06-LongChuaXotThuong/08.LongThuongXotChua_hl_Lm.NguyenSang.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/Lm.NSVol.06-LongChuaXotThuong/LongThuongXotChua_hl.pdf</pdf>
+	</song>
+	<song>
+		<albumid>696</albumid>
+		<songid>8472</songid>
+		<name>Tín thác vào Chúa</name>
+		<artist>Lm. Nguyễn Sang</artist>
+		<author>Lê Đức Hùng</author>
+		<album>Lm. JB. Nguyễn Sang Vol.06 - Lòng Chúa Xót Thương</album>
+		<type>Lòng Thương Xót Chúa</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/Lm.NSVol.06-LongChuaXotThuong/18.TinThacVaoChua_ldh_Lm.NguyenSang.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>696</albumid>
+		<songid>8466</songid>
+		<name>Kinh cầu Lòng Thương Xót Chúa</name>
+		<artist>Cộng Đoàn</artist>
+		<author>Chưa biết</author>
+		<album>Lm. JB. Nguyễn Sang Vol.06 - Lòng Chúa Xót Thương</album>
+		<type>Lòng Thương Xót Chúa</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/Lm.NSVol.06-LongChuaXotThuong/12.KinhCauXinLongThuongXotChua_CongDoan.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>696</albumid>
+		<songid>8468</songid>
+		<name>Lời tận hiến</name>
+		<artist>Cộng Đoàn</artist>
+		<author>Chưa biết</author>
+		<album>Lm. JB. Nguyễn Sang Vol.06 - Lòng Chúa Xót Thương</album>
+		<type>Lòng Thương Xót Chúa</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/Lm.NSVol.06-LongChuaXotThuong/14.LoiTanHien_CongDoan.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>696</albumid>
+		<songid>8461</songid>
+		<name>Lần Chuỗi Thương Xót</name>
+		<artist>Cộng Đoàn</artist>
+		<author>Chưa biết</author>
+		<album>Lm. JB. Nguyễn Sang Vol.06 - Lòng Chúa Xót Thương</album>
+		<type>Lòng Thương Xót Chúa</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/Lm.NSVol.06-LongChuaXotThuong/07.LanChuoiThuongXot_CongDoan.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>696</albumid>
+		<songid>8467</songid>
+		<name>Trái tin nhân hậu</name>
+		<artist>Lm. Nguyễn Sang</artist>
+		<author>Thanh Thiên Giang</author>
+		<album>Lm. JB. Nguyễn Sang Vol.06 - Lòng Chúa Xót Thương</album>
+		<type>Lòng Thương Xót Chúa</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/Lm.NSVol.06-LongChuaXotThuong/13.TraiTimNhanHau_ttg_Lm.NguyenSang.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>696</albumid>
+		<songid>8457</songid>
+		<name>Thông điệp Lòng Thương Xót Chúa</name>
+		<artist>Cộng Đoàn</artist>
+		<author>Chưa biết</author>
+		<album>Lm. JB. Nguyễn Sang Vol.06 - Lòng Chúa Xót Thương</album>
+		<type>Lòng Thương Xót Chúa</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/Lm.NSVol.06-LongChuaXotThuong/03.ThongDiepLongThuongXotChua_CongDoan.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>696</albumid>
+		<songid>8459</songid>
+		<name>Ý chỉ Tuần Cửu Nhật</name>
+		<artist>Lm. Nguyễn Sang</artist>
+		<author>Chưa biết</author>
+		<album>Lm. JB. Nguyễn Sang Vol.06 - Lòng Chúa Xót Thương</album>
+		<type>Lòng Thương Xót Chúa</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/Lm.NSVol.06-LongChuaXotThuong/05.YChiTuanCuuNhat_Lm.NguyenSang.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>716</albumid>
+		<songid>8628</songid>
+		<name>Chúa xót thương</name>
+		<artist>Phan Đinh Tùng</artist>
+		<author>Lê Đức Hùng</author>
+		<album>Tín Thác</album>
+		<type>Lòng Thương Xót Chúa</type>
+		<audio>http://thanhcavietnam.net/ThanhCaVN/index.php?url=Download,8628,RP89-70B0877B498CCA6A</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/TinThac/ChuaXotThuong_ldh.pdf</pdf>
+	</song>
+	<song>
+		<albumid>716</albumid>
+		<songid>8621</songid>
+		<name>Tín thác</name>
+		<artist>Gia Ân</artist>
+		<author>Lê Đức Hùng</author>
+		<album>Tín Thác</album>
+		<type>Lòng Thương Xót Chúa</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TinThac/02.TinThac_ldh_GiaAn.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/TinThac/TinThac_ldh.pdf</pdf>
+	</song>
+	<song>
+		<albumid>716</albumid>
+		<songid>8632</songid>
+		<name>Dâng đời tín thác</name>
+		<artist>Tốp Ca Lửa Hồng</artist>
+		<author>Lê Đức Hùng</author>
+		<album>Tín Thác</album>
+		<type>Lòng Thương Xót Chúa</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TinThac/13.DangDoiTinThac_ldh_TopCaLuaHong.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>716</albumid>
+		<songid>8622</songid>
+		<name>Đỉnh yêu thương</name>
+		<artist>Thanh Sử</artist>
+		<author>Lê Đức Hùng</author>
+		<album>Tín Thác</album>
+		<type>Lòng Thương Xót Chúa</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TinThac/03.DinhYeuThuong_ldh_ThanhSu.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/TinThac/DinhYeuThuong_ldh.pdf</pdf>
+	</song>
+	<song>
+		<albumid>737</albumid>
+		<songid>8871</songid>
+		<name>Lòng Thương Xót Chúa</name>
+		<artist>Cao Duy</artist>
+		<author>Lm. Nguyên Hòa</author>
+		<album>Linh Mục Và Lòng Chúa Xót Thương</album>
+		<type>Lòng Thương Xót Chúa</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/LinhMucVaLongChuaXotThuong/01.LongThuongXotChua_nh_CaoDuy.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>737</albumid>
+		<songid>8879</songid>
+		<name>Con vẫn tin luôn</name>
+		<artist>Hợp Ca Nữ</artist>
+		<author>Lm. Nguyên Hòa</author>
+		<album>Linh Mục Và Lòng Chúa Xót Thương</album>
+		<type>Lòng Thương Xót Chúa</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/LinhMucVaLongChuaXotThuong/09.ConVanTinLuon_nh_HopCaNu.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/LinhMucVaLongChuaXotThuong/ConVanTinLuon_nh.pdf</pdf>
+	</song>
+	<song>
+		<albumid>746</albumid>
+		<songid>8975</songid>
+		<name>Đây lòng Chúa</name>
+		<artist>Lm. Nguyễn Sang</artist>
+		<author>Nguyễn Bang Hanh</author>
+		<album>Lm. JB. Nguyễn Sang Vol.05 - Tấm Bánh Cho Đời</album>
+		<type>Lòng Thương Xót Chúa</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/Lm.NSVol.05-TamBanhChoDoi/07.DayLongChua_nbh_Lm.NguyenSang.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/Lm.NSVol.05-TamBanhChoDoi/DayLongChua_nbh.pdf</pdf>
+	</song>
+	<song>
+		<albumid>883</albumid>
+		<songid>10748</songid>
+		<name>Lòng Thương Xót Chúa</name>
+		<artist>Gia Ân</artist>
+		<author>Lm. Thái Nguyên</author>
+		<album>Đời Tin Yêu</album>
+		<type>Lòng Thương Xót Chúa</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/DoiTinYeu/05.LongThuongXotChua_tn_GiaAn.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/DoiTinYeu/LongThuongXotChua_tn.pdf</pdf>
+	</song>
+	<song>
+		<albumid>889</albumid>
+		<songid>10828</songid>
+		<name>Chúa giàu lòng xót thương</name>
+		<artist>Ca Đoàn Sao Mai</artist>
+		<author>Lm. Giuse Vũ Đức Hiệp</author>
+		<album>Khúc Ca Tạ Ơn 2</album>
+		<type>Lòng Thương Xót Chúa</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-256/KhucCaTaOn2/04.ChuaGiauLongXotThuong_vdh_CaDoanSaoMai.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-256/KhucCaTaOn2/ChuaGiauLongXotThuong_vdh.pdf</pdf>
+	</song>
+	<song>
+		<albumid>939</albumid>
+		<songid>11465</songid>
+		<name>Đại lễ Kính Lòng Thương Xót Chúa</name>
+		<artist>M. Tâm - P. Thu</artist>
+		<author>Phạm Trung - Thơ: Lm. Trăng Thập Tự</author>
+		<album>Con Với Mẹ</album>
+		<type>Lòng Thương Xót Chúa</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ConVoiMe/08.DaiLeKinhLongThuongXotChua_pt-ttt_M.Tam-P.Thu.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/ConVoiMe/DaiLeKinhLongThuongXotChua_pt-ttt.pdf</pdf>
+	</song>
+	<song>
+		<albumid>942</albumid>
+		<songid>11517</songid>
+		<name>Chuỗi Lòng Thương Xót</name>
+		<artist>Tuyết Mai Ly</artist>
+		<author>Chí Nhân</author>
+		<album>Tuyết Mai Ly Vol.4 - Cung Đàn Dâng Mẹ</album>
+		<type>Lòng Thương Xót Chúa</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TuyetMaiLyVol.4-CungDanDangMe/08.ChuoiLongThuongXot_cn_TuyetMaiLy.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>1011</albumid>
+		<songid>12335</songid>
+		<name>Lòng thương xót Chúa</name>
+		<artist>Như Mai</artist>
+		<author>Gioa-Kim</author>
+		<album>Tình Yêu Của Con</album>
+		<type>Lòng Thương Xót Chúa</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TinhYeuCuaCon/06.LongThuongXotChua_gk_NhuMai.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-128/TinhYeuCuaCon/LongThuongXotChua_gk.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1043</albumid>
+		<songid>12754</songid>
+		<name>Lòng Chúa xót thương</name>
+		<artist>Lm. Nguyễn Sang</artist>
+		<author>Lê Đức Hùng</author>
+		<album>Tín Thác Vol.2</album>
+		<type>Lòng Thương Xót Chúa</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TinThac2/14.LongChuaXotThuong_ldh_Lm.NguyenSang.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>1043</albumid>
+		<songid>12750</songid>
+		<name>Xin đổi thay trái tim con</name>
+		<artist>Diệu Hiền - Hoàng Hiệp</artist>
+		<author>Lê Đức Hùng</author>
+		<album>Tín Thác Vol.2</album>
+		<type>Lòng Thương Xót Chúa</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TinThac2/10.XinDoiThayTraiTimCon_ldh_DieuHien-HoangHiep.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>1043</albumid>
+		<songid>12753</songid>
+		<name>Hồng ân</name>
+		<artist>Hà Bảo Thu</artist>
+		<author>Lê Đức Hùng</author>
+		<album>Tín Thác Vol.2</album>
+		<type>Lòng Thương Xót Chúa</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TinThac2/13.HongAn_ldh_HaBaoThu.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>1043</albumid>
+		<songid>12747</songid>
+		<name>Diệu vời tình Chúa thương con</name>
+		<artist>Hiền Thục</artist>
+		<author>Lê Đức Hùng</author>
+		<album>Tín Thác Vol.2</album>
+		<type>Lòng Thương Xót Chúa</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TinThac2/07.DieuVoiTinhChuaThuongCon_ldh_HienThuc.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>1043</albumid>
+		<songid>12748</songid>
+		<name>Trong tay Ngài</name>
+		<artist>Diệu Hiền</artist>
+		<author>Lê Đức Hùng</author>
+		<album>Tín Thác Vol.2</album>
+		<type>Lòng Thương Xót Chúa</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TinThac2/08.TrongTayNgai_ldh_DieuHien.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>1043</albumid>
+		<songid>12752</songid>
+		<name>Xác tín</name>
+		<artist>Thanh Sử</artist>
+		<author>Lê Đức Hùng</author>
+		<album>Tín Thác Vol.2</album>
+		<type>Lòng Thương Xót Chúa</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TinThac2/12.XacTin_ldh_ThanhSu.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>1043</albumid>
+		<songid>12742</songid>
+		<name>Trong bàn tay Chúa</name>
+		<artist>Hiền Thục</artist>
+		<author>Lê Đức Hùng</author>
+		<album>Tín Thác Vol.2</album>
+		<type>Lòng Thương Xót Chúa</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TinThac2/02.TrongBanTayChua_ldh_HienThuc.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>1043</albumid>
+		<songid>12744</songid>
+		<name>Con đã biết</name>
+		<artist>Mai Thảo</artist>
+		<author>Lê Đức Hùng</author>
+		<album>Tín Thác Vol.2</album>
+		<type>Lòng Thương Xót Chúa</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TinThac2/04.ConDaBiet_ldh_MaiThao.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>1043</albumid>
+		<songid>12745</songid>
+		<name>Bình an</name>
+		<artist>Tuyết Mai</artist>
+		<author>Lê Đức Hùng</author>
+		<album>Tín Thác Vol.2</album>
+		<type>Lòng Thương Xót Chúa</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TinThac2/05.BinhAn_ldh_TuyetMai.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>1043</albumid>
+		<songid>12743</songid>
+		<name>Khấn nguyện</name>
+		<artist>Hoàng Minh Nhật</artist>
+		<author>Lê Đức Hùng</author>
+		<album>Tín Thác Vol.2</album>
+		<type>Lòng Thương Xót Chúa</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TinThac2/03.KhanNguyen_ldh_HoangNhatMinh.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>1043</albumid>
+		<songid>12746</songid>
+		<name>Cảm nghiệm</name>
+		<artist>Xuân Trường</artist>
+		<author>Lê Đức Hùng</author>
+		<album>Tín Thác Vol.2</album>
+		<type>Lòng Thương Xót Chúa</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-128/TinThac2/06.CamNghiem_ldh_XuanTruong.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>1082</albumid>
+		<songid>13249</songid>
+		<name>Chúa giàu lòng xót thương</name>
+		<artist>Phan Đinh Tùng</artist>
+		<author>Phan Hùng</author>
+		<album>Chúa Giàu Lòng Xót Thương</album>
+		<type>Lòng Thương Xót Chúa</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ChuaGiauLongXotThuong/01.ChuaGiauLongXotThuong_ph_PhanDinhTung.mp3</audio>
+		<pdf>http://thanhcavietnam.org/FilesNhac/MP3-128/ChuaGiauLongXotThuong/ChuaGiauLongXotThuong_ph.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1082</albumid>
+		<songid>13252</songid>
+		<name>Dâng Chúa xót thương</name>
+		<artist>Ngọc Mai</artist>
+		<author>Phan Hùng</author>
+		<album>Chúa Giàu Lòng Xót Thương</album>
+		<type>Lòng Thương Xót Chúa</type>
+		<audio>http://thanhcavietnam.org/FilesNhac/MP3-128/ChuaGiauLongXotThuong/04.DangChuaXotThuong_ph_NgocMai.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>1115</albumid>
+		<songid>13720</songid>
+		<name>Lòng Thương Xót Chúa</name>
+		<artist>Trường Long</artist>
+		<author>Sr. Tường Vy</author>
+		<album>Sao Mai 9 - Mùa Chay Và Phục Sinh</album>
+		<type>Lòng Thương Xót Chúa</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-256/SaoMai9-MuaChayVaPhucSinh/11.LongThuongXotChua_tv_TruongLong.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-256/SaoMai9-MuaChayVaPhucSinh/LongThuongXotChua_tv.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1117</albumid>
+		<songid>13741</songid>
+		<name>Con cần Lòng Thương Xót Chúa</name>
+		<artist>Lê Anh</artist>
+		<author>Phạm Vĩnh Sơn</author>
+		<album>Con Cần Lòng Thương Xót Chúa</album>
+		<type>Lòng Thương Xót Chúa</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-256/ConCanLongThuongXotChua/04.ConCanLongThuongXotChua_pvs_LeAnh.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-256/ConCanLongThuongXotChua/ConCanLongThuongXotChua_pvs.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1117</albumid>
+		<songid>13739</songid>
+		<name>Lòng Chúa xót thương</name>
+		<artist>Lê Anh</artist>
+		<author>Phạm Vĩnh Sơn - Thơ: Mattheu</author>
+		<album>Con Cần Lòng Thương Xót Chúa</album>
+		<type>Lòng Thương Xót Chúa</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/MP3-256/ConCanLongThuongXotChua/02.LongChuaXotThuong_pvs-m_LeAnh.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/MP3-256/ConCanLongThuongXotChua/LongChuaXotThuong_pvs-m.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1121</albumid>
+		<songid>13792</songid>
+		<name>Chúa giàu lòng xót thương</name>
+		<artist>Phan Tân</artist>
+		<author>Phan Hùng</author>
+		<album>Bài hát của Nhạc sỹ: Phan Hùng</album>
+		<type>Lòng Thương Xót Chúa</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/TacGia/PhanHung/ChuaGiauLongXotThuong_ph_PhanTan.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/TacGia/PhanHung/ChuaGiauLongXotThuong_ph.pdf</pdf>
+	</song>
+	<song>
+		<albumid>1188</albumid>
+		<songid>14654</songid>
+		<name>Lòng Thương Xót Chúa</name>
+		<artist>Diệu Hiền</artist>
+		<author>Huy Phụng</author>
+		<album>Bài hát của Nhạc sỹ: Huy Phụng</album>
+		<type>Lòng Thương Xót Chúa</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/TacGia/HuyPhung/12.LongThuongXotChua_huyphung_DieuHien.mp3</audio>
+		<pdf></pdf>
+	</song>
+	<song>
+		<albumid>1232</albumid>
+		<songid>15186</songid>
+		<name>Lòng Thương Xót Chúa</name>
+		<artist>Trường Long</artist>
+		<author>Sr. Tường Vy</author>
+		<album>Bài hát của Nhạc sỹ: Sr. Tường Vy</album>
+		<type>Lòng Thương Xót Chúa</type>
+		<audio>http://thanhcavietnam.net/FilesNhac/TacGia/Sr.TuongVy/LongThuongXotChua_tv_TruongLong.mp3</audio>
+		<pdf>http://thanhcavietnam.net/FilesNhac/TacGia/Sr.TuongVy/LongThuongXotChua_tv.pdf</pdf>
+	</song>
+</songs>
